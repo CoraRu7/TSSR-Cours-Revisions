@@ -824,40 +824,38 @@ PC4 --- PC5
 
 
 ### Objectif
-```text
+
 Comprendre le rôle et le fonctionnement des équipements d’interconnexion (**switch**, **routeur**, **point d’accès Wi-Fi**, **portail captif**) ; savoir configurer **VLANs**, **trunks**, **routage statique et dynamique**, sécuriser une liaison Wi-Fi, accéder à l’interface web d’un AP (http://<ip_passerelle>) et vérifier la connectivité.
-```
 
 ---
 
 ### Contexte
-```text
+
 L’efficacité d’un réseau repose sur la qualité et la gestion des équipements d’interconnexion : **commutateurs**, **routeurs**, **points d’accès** et **passerelles**. Cette fiche fournit les notions théoriques, les commandes Cisco pratiques et des procédures pas-à-pas utilisables dans Cisco Packet Tracer ou sur du matériel réel.
-```
 
 ---
 
 ### 1. Commutateurs (Switch)
 
 #### Définition
-```text
+
 Dispositif matériel permettant d’acheminer des trames au sein d’un LAN en s’appuyant sur les **adresses MAC**. Les switchs améliorent l’efficacité réseau en n’envoyant les trames qu’aux ports concernés.
-```
+
 
 #### Fonctionnement
-```text
+
 - **Table de commutation** : association dynamique port ↔ adresse MAC.
 - Acheminement des trames vers le port correct uniquement.
 - Réduction du trafic inutile sur le réseau.
-```
+
 
 #### Ports principaux
-```text
+
 - **Console** : configuration et maintenance.
 - **Ethernet** : connexion aux périphériques (10/100/1000 Mb/s).
 - **SFP / SFP+** : modules fibre optique pour liaisons montantes.
 - **PoE / PoE+** : alimentation via câble Ethernet (15 W PoE, 30 W PoE+).
-```
+
 
 #### Commandes de base (Cisco)
 ```bash
@@ -875,17 +873,17 @@ exit
 ### 2. VLANs & Trunks
 
 #### VLAN
-```text
+
 - Segment logique d’un réseau local.
 - Isolation du trafic entre services différents (ex : **Secrétariat = VLAN 10**, **Informatique = VLAN 20**).
 - Les VLANs différents ne communiquent pas sans **routage inter-VLAN**.
-```
+
 
 #### Ports Trunk
-```text
+
 - Transportent plusieurs VLAN sur un même lien.
 - Standard utilisé : **802.1Q**.
-```
+
 
 #### Exemple de configuration VLAN sur switch
 ```bash
@@ -919,21 +917,21 @@ exit
 ---
 
 ### 3. Spanning Tree Protocol (STP)
-```text
+
 - Évite les boucles dans un réseau Ethernet.
 - Élection d’un **commutateur racine**.
 - Blocage des ports redondants.
 - Recalcule automatique de la topologie en cas de changement.
-```
+
 
 ---
 
 ### 4. Routage
 
 #### Routage statique
-```text
+
 - Définition : routes configurées **manuellement**.
-```
+
 
 #### Exemple
 ```bash
@@ -978,73 +976,62 @@ network 30.0.0.0
 exit
 ```
 
-```text
+
 - Vérification : **show ip route**
-```
+
 
 ---
 
 ### 5. Points d’accès Wi-Fi (AP)
 
 #### Fonction
-```text
+
 - Émission du signal radio.
 - Diffusion du **SSID**.
 - Authentification via mot de passe / clé (**WPA2/WPA3**).
 - Attribution d’IP via DHCP.
-```
+
 
 #### Sécurité
-```text
+
 - **WEP** : obsolète.
 - **WPA / WPA2 / WPA3** : recommandations actuelles.
-```
+
 
 #### Configuration (Cisco Packet Tracer)
-```text
+
 1. Connecter l’AP au switch.
 2. Définir **SSID** et mot de passe Wi-Fi.
 3. Depuis un appareil client :
    - Aller sur Wireless → SSID.
    - Entrer le mot de passe.
    - Vérifier la connectivité avec **ping <IP>**.
-```
+
 
 #### Accès via interface web
-```text
+
 Ouvrir un navigateur sur : http://<ip_passerelle> pour configurer **SSID** et sécurité.
-```
+
 
 ---
 
 ### 6. Portail Captif
-```text
+
 - Redirection vers une page web pour authentification avant accès au réseau.
 - Utilisé dans les hôtels, cafés, réseaux publics.
 - Permet d’accepter les conditions d’utilisation ou de se connecter via identifiants.
-```
+
 
 ---
 
 ### 7. Schémas / Illustrations
-```text
+
 - Switch + table MAC + ports Ethernet/SFP/PoE.
 - VLAN et port trunk entre deux switches.
 - Routeurs interconnectant plusieurs réseaux.
 - Point d’accès Wi-Fi connecté au switch et aux clients.
 - Portail captif exemple.
-```
 
----
-
-### 8. Exercices pratiques Cisco Packet Tracer
-```text
-1. Créer 2 VLANs sur 2 switches et tester ping intra/inter VLAN.
-2. Configurer routage statique et tester communication inter-réseaux.
-3. Configurer RIP sur 3 routeurs et tester ping inter-réseaux.
-4. Ajouter AP, configurer SSID et mot de passe, tester ping avec un PC et une tablette.
-5. Mettre en place un portail captif et tester authentification.
-```
 
 ---
 
