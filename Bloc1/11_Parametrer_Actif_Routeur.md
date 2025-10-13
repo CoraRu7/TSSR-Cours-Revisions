@@ -1,8 +1,9 @@
 # Paramétrer un actif de type Routeur
 
-
+<details>
+<summary>
 ## Les composants d’un routeur
-
+</summary>
 
 
 ### 🎯 Objectif
@@ -128,9 +129,14 @@ tracert [adresse IP]
 Liens utiles
 RFC 1812 Requirements for IP routers
 ---
+</details>
 
+
+<details>
+
+<summary>
 ## Paramétrer un routeur et un switch sous packet tracer
-
+</summary>
 
 
 ### 🎯 Objectif
@@ -620,7 +626,22 @@ show interfaces trunk
 * Pour réseaux larges, utilise des protocoles de routage dynamiques (OSPF/EIGRP) plutôt que trop de routes statiques
 
 ---
+</details>
 
+<details>
+<summary>
 ## Le routage statique sous packet tracer
+</summary>
+</details>
+
+<details>
+ <summary>
 ## Lire une table de routage
+</summary>
+</details>
+
+<details>
+<summary>
 ## Mettre en œuvre un protocole de routage
+</summary>
+</details>
