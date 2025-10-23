@@ -2295,25 +2295,11 @@ Ainsi que le [guide des bonnes pratiques à usage des hautes autorités](https:/
 
 Pour bâtir une entreprise solide et efficace, la sensibilisation des employés sur les éventuels risques en entreprise est d’une importance capitale. Il faudra donc leur apprendre la culture d’entreprise pour instaurer une équipe homogène. Pour cela, certains conseils pourront vous aider dans ce projet. Dans un premier temps vous devez informer vos employés sur les risques liés à l’utilisation d’outils techniques, chacuns d’eux doit connaître les règles sécuritaires à adopter en face de ces outils. Non seulement ils seront à l’abris des dangers graves telle que les ransomware, mais ils protègeront en plus l’entreprise. La connaissance des avantages liés à la gestion des risques est d’intérêt général. De plus vous devez aussi mettre en place un système qui va leur permettre de vite signaler les risques, notamment de réception de mail de phising. Les consignes à suivre doivent être énnoncées clairement pour une mise en application efficace comme prévenir les employés de ne pas ouvrir les e-mails provennant de l’adresse malicieuse qui a été remontée à la prévention des risques. Le recours à une technologie avancée favorise les rapports de communication. Le processus de signalement est un moyen mis à leur disposition pour signaler à temps les risques, lorsqu’il est complexe, ils auront des difficultés à l’adopter. La création d’une culture ‘risk aware’ passe également par la mise en place d’un commité des risques, ces membres doivent provenir de plusieurs services. Pour cela, il faut penser à créer une plateforme qui recueuillera toutes les informations sur les risques. La communication des intervenants, permettra de détecter les menaces. Ces dernières suivent un traîtement le plus vite possible pour la sécurité des employés. Par ailleurs l’installation d’une technologie qui est en mesure de fournir les données à risque s’avère indispensable, cela permet de regrouper toutes les réclamations, l’audit interne et la sécurité en un seul endroit. Vous aurez une idée claire sur les dangers qui vous menacent, par conséquent, la culture consciente des risques restera optimale dans la société. Il faut aussi penser à intégrer des incitations et des attentes dans les plans de performance pour mieux gérer les risques. Les employés chargés de détecter les risques peuvent recevoir des prîmes, c’est un signe d’encouragemments pour le travail qu’il effectuent. Pour finir, la création d’une culture ‘risk aware’ d’une entreprise consiste à mettre en place des dispositifs fiables de détection de risques. La sensibilisation des employés s’inscrit aussi dans cette logique. Votre entreprise propèerra dans une atmosphère pacifique. 
 </details>
-</details>
 
 <details>
 <summary>
-FICHES
-</summary>
-
-</details>
-
-
-
-
-
-
-
- 
-
-
- 
+.
+</summary> 
 
   
 
@@ -2385,6 +2371,14 @@ FICHES
 [PsukRr3rx5+lYqU6ZM0ddK8kbRwpW7jyl31vSsxIpcowtF+PkcEiqbDofpzNUM/eHyAKGgd89W179be703tGtOs6SPYcOOokWXUtWiPxhFHIMX1EwrBqHJOUiJOSnXCdR5seBP5neWly6Z[[[[[[[icV4[icV4[icV4[icV4l7uePr
 [icV4
 [image65]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAAAcCAYAAAC5xRGyAAAmw0lEQVR4Xu19929jWZbe/im7xgIG/IN/MAx41jB2bXiwa9gz6zU8BgzvYCd0T3d1d+XQUpVKVUqlnHOgskRJJEVFKucskaKyqCxKFCnmoKquzvP5nvuYRKqqJJWquhv9DvCB5Ls5vHe/e855l38BUUQRRRRRRBFFFFHeifxF6AVRRB0pqJTvOn4ctqlYNnd3UdRSTlu3HmAmvqG0GANV
+</details>
+
+<details>
+<summary>
+FICHES
+</summary>
+
+</details>
 
 
 
