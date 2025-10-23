@@ -1,10 +1,1961 @@
 # Gérer les incidents et les problèmes
 
-## Apporter une assistance de niveau 1 (appel entrant)
-## L’utilisation des techniques d’investigation au téléphone
-## L’utilisation d’un script de questionnement
-## L’utilisation d’une base de connaissance
-## Les méthodes de dépannage
-## L’intervention à distance
-## La gestion des situations difficiles dans le cadre d’une relation à distance
-## Rédiger des comptes rendus d’intervention
+<details>
+<summary>
+COURS COMPLET
+</summary>
+
+<details>
+<summary>
+
+**Apporter une assistance de niveau 1 (appel entrant):**
+</summary>  
+
+**Assurer un service client de qualité:**
+
+### ***Contexte***
+
+Le service de relation client permet de répondre aux demandes des clients d’une entreprise afin de leur apporter des conseils et des solutions à distance.
+
+Le téléconseiller doit donc répondre à de nombreuses demandes de différentes natures après l’achat. Son rôle est très variable, il doit en effet rassurer, informer, conseiller traiter les problèmes des clients.
+
+Le niveau 1 d’assistance client concerne des demandes simples et peu complexes que le téléconseiller peut traiter par lui-même, comme par exemple l’installation d’un équipement.
+
+Nous détaillerons dans ce cours les techniques et les outils permettant au téléconseiller de traiter les demandes des clients par téléphone dans la téléassistance.
+
+(vidéo)   
+Dans un centre d’appel, le téléconseiller prend en charge les appels entrant des clients afin de répondre à leur demande. Les problèmes rencontrés etles différents incidents peuvent généralement être pris en charge directement par le téléconseiller. Ici on s’intéresse à l’assistance de niveau 1, celle qui traite les demandes simples et peu complexes et que le téléconseiller peut gérer par lui même, comme par exemple l’installation d’un équipement avec un mode d’emploi.On va découvrir les outils mis à la disposition du téléconseiller pour effectuer sa mission, la fiche client, le ticket d’incident, les modes d’emplois, les guides d’utilisations et les logigrammes.
+
+ **Rappel de l’assistance client de niveau 1**
+
+#### ***Définition***
+
+####     **Centre de relation client**
+
+Un centre de relation client est la structure qui gère l’ensemble des interactions à distance entre une entreprise et ses clients/prospects.
+
+#### ***Définition***
+
+####     **Centre d’appel**
+
+Le centre d’appel fait partie du centre de la relation client. Il s’agit d’un centre téléphonique permettant la réception des appels de clients. Un centre d'appels est constitué d'un ensemble de postes de travail téléphoniques et de téléconseillers en charge des actions commerciales par téléphone.
+
+#### ***Définition***
+
+####     **La téléassistance**
+
+La téléassistance, l'assistance en ligne ou encore l'assistance à distance, correspondent à l’action ou service qui permet d'aider à distance des utilisateurs, d'un système ou d'un produit, à l'aide d'un moyen de télécommunication.
+
+#### **Le niveau 1 de la téléassistance dans les centres d’appels**
+
+Dans un centre d’appel, le téléconseiller prend en charge les appels entrants des clients afin de répondre à leurs demandes. Les problèmes rencontrés et les différents incidents pourront être pris en charge directement par le téléconseiller. Pour cela, il devra prendre l’appel, enregistrer les informations dans le logiciel CRM en notant la date, le numéro client ou la référence, diagnostiquer le problème et guider les clients pour solutionner les problèmes rencontrés.
+
+Son périmètre d’action est relativement limité, il a en général à sa disposition une documentation sur les problèmes les plus courants rencontrés par les clients.
+
+Son périmètre d’action est relativement limité, il a en général à sa disposition une documentation sur les problèmes les plus courants rencontrés par les clients.
+
+### **Utilité du CRM dans l’assistance au client de niveau 1**
+
+#### ***Définition***
+
+####     **Le CRM**
+
+Le CRM (*Customer Relationship Management*) ou GRC (Gestion de la Relation Client) en français, permet de centraliser au sein d'une base de données toutes les interactions entre une entreprise et ses clients.
+
+Dans l’assistance client, le CRM permet d’avoir accès en temps réel aux données des clients et de proposer donc un service personnalisé (gérer les demandes courantes, demandes d’informations, les incidents techniques, etc.).
+
+L’assistance technique et le service client peuvent alors assurer une qualité de service client optimal et améliorer la résolution des problèmes afin d’intervenir plus rapidement.
+
+#### **Les informations clients grâce aux logiciels CRM**
+
+Pour que les téléconseillers puissent avoir une vision globale sur les clients et traiter efficacement leurs problèmes, ils doivent avoir accès à diverses informations :
+
+* Les données des clients collectées (*par différents canaux) : site web, réseaux sociaux, etc.*  
+* Les données collectées par les autres téléconseillers et par les différents services (service client, logistique, informatique, etc.).  
+* Les différents échanges avec le client dans le centre client.
+
+Le logiciel de phoning (intégré au CRM) permet de renseigner toutes les informations durant l’échange téléphonique avec le client. Les informations renseignées par le téléconseiller seront alors enregistrées et synchronisées dans le logiciel CRM.
+
+(vidéo) 
+
+La fiche client et un module dans un logiciel CRM qui permet de renseigner les donées et les informations d’un client. Celle-ci va permettre de visualiser les informations importantes du client afin de mieux répondre à sa demande. Nous pouvons donc renseigner dans la fiche client plusieurs informations comme le numéro client, les données personnelles du client, les échanges entre le client et l’entreprise ou encore les informations sur ses achats pour avoir des informations sur les produits qu’il a acheté et notamment la référence concernant la demande du problème.   
+
+Autre élément important, le ticket d’incident est une fiche renseignant toutes les informations concernant l’incident et les problèmes rencontrés. Dans le cadre d’une panne, d’un dysfonctionnement, les tickets sont généralement créés par les téléconseillers ou générés automatiquement  via des outils digitaux. Pour les demandes par téléphone, le téléconseiller renseigne le nom du client et décrit clairement et précisément la demande ou la réclamation du client qui nécéssite un traitement. On trouve plusieurs champs à renseigner, qui sont généralement le numéro de l’incident, la date d’ouverture du ticket, la catégorie de l’incident, sa priorité le nom du téléconseiller ayant pris en charge sa demande ainsi que des précisions sur les échanges avec le client. Ces deux outils sont essentiels afin d’aporter une assistance au client. Ce sont eux qui donnent accès aux informations sur le client et sur son incident, pour cette raison il est aussi important de renseigner toutes les informations pour faire face à la prise en charge du client à des spécialistes.
+
+#### **La fiche client**
+
+La fiche client est un module dans les logiciels CRM permettant de renseigner les données et les informations d’un client. Celle-ci va permettre de visualiser les informations importantes du client afin de mieux répondre à sa demande.
+
+Les informations suivantes peuvent être renseignées sur la fiche client :
+
+* Données personnelles (nom et prénom, date de naissance, adresse postale, e-mail, numéro de téléphone, etc.)  
+* Les échanges entre le client et l’entreprise (sur tous les canaux de contacts)  
+* Ses achats (références, commandes, etc.)
+
+#### ***Exemple***
+
+***![][image1]***
+
+#### ***Définition*****Les tickets**
+
+Le système de tickets d'incident identifie les mots-clés dans la demande du client et extrait les articles pertinents du centre d'assistance.
+
+Les informations peuvent être renseignées sur les tickets :
+
+* Le numéro de l’incident  
+* La date d’ouverture de l’incident  
+* La catégorie (panne, problème d’installation, incident technique, etc.)  
+* La source ou le canal (téléphone, e-mail, etc.)  
+* La priorité (normale, urgente, très urgente)  
+* Le nom du téléconseiller ayant pris en charge sa demande  
+* Les précisions sur l’échange (une synthèse de la demande client et les échanges effectués)
+
+Les téléconseillers peuvent généralement créer dans ces outils, pour chaque demande, un « *ticket* » avec un numéro unique. La plupart du temps, les demandes par mail génèrent automatiquement des tickets. Pour les demandes par téléphone, le téléconseiller renseigne le nom du client et décrit clairement et précisément la demande ou réclamation du client qui nécessite un traitement.
+
+Le téléconseiller peut ensuite :
+
+* Catégoriser le problème rencontré (assistance, panne, etc.)  
+* Prioriser (urgent, normal, bas)  
+* Qualifier (nouveau, en cours, en attente, résolu)
+
+#### ***Exemple***
+
+***![][image2]***
+
+**Gestion d’un appel entrant dans la téléassistance de niveau 1:**  
+**Gestion d’un appel entrant dans la téléassistance de niveau 1**
+
+### **Préparation des demandes clients**
+
+Afin de pouvoir résoudre lui-même les demandes clients courantes et peu complexes de niveau 1, le téléconseiller dispose d’un certain nombre d’outils et doit en amont connaître les différents supports mis à sa disposition afin de pouvoir traiter les demandes rapidement et efficacement.
+
+#### **Identifier les demandes courantes**
+
+Le téléconseiller doit pouvoir identifier rapidement le degré de complexité du problème ou de l’incident rencontré par le client avant de savoir s’il peut lui résoudre lui-même.
+
+Dans l’assistance client, la majorité des demandes clients concernent les mêmes causes. Il s’agit généralement de problèmes courants pouvant être résolus simplement par le biais de différents supports comme les modes d’emploi ou les guides d’utilisation.
+
+Le téléconseiller doit pouvoir fournir un complément d’information, de savoir-faire, en fonction du produit et du secteur concerné pour aider le client à utiliser ou mettre en œuvre le produit ou service.
+
+Pour identifier le problème, le téléconseiller peut se poser les questions suivantes :
+
+* Le problème est-il simple à résoudre ?  
+* Le problème peut-il être résolu à l’aide d’un mode d’emploi ou d’un guide d’utilisation ?  
+* Suis-je en mesure de résoudre le problème du client ?  
+* Puis-je demander une information à un technicien ou une personne plus qualifiée afin de le transmettre au client ?
+
+#### ***Remarque***
+
+Pour aider le téléconseiller à identifier les problèmes simples et courants qu’il pourra résoudre, le centre d’appel indique généralement une liste déroulante avec les problèmes les plus courants.
+
+#### ***Exemple*****Les problèmes courants chez les opérateurs téléphoniques**
+
+* La carte SIM est bloquée  
+* Problème de wifi mobile  
+* Aucun service ne fonctionne sur le mobile  
+* Problème de communication, de voix  
+* Le mobile ne réagit pas aux actions faites sur l’écran  
+* Le mobile a une autonomie de charge très faible  
+* Le mobile est très chaud en utilisation ou en charge  
+* Le son du mobile est inexistant
+
+#### ***Complément***
+
+Dans certains logiciels CRM, une procédure est proposée et intégrée à chaque demande courante. Cela permet au téléconseiller de traiter plus rapidement les demandes clients.
+
+Il est également possible d’intégrer des questions précises à chaque demande afin de pouvoir diagnostiquer le problème du client.
+
+#### ***Exemple***
+
+***![][image3]***
+
+Les incidents courants des clients doivent être résolus aussi rapidement que possible. Le téléconseiller doit donc faire face à des situations spécifiques et ne doit pas prendre trop de temps pour traiter les problèmes récurrents. Si le délai de résolution est trop long, le téléconseiller doit absolument en informer le client en lui donnant un délai approximatif.
+
+#### **Les outils d’aide au traitement des demandes courantes**
+
+Afin de traiter efficacement les demandes clients et résoudre les problèmes de niveau 1 dans la téléassistance, le téléconseiller peut disposer d’un certain nombre d’outils afin d’apporter des informations supplémentaires et guider les clients dans les opérations.
+
+Le téléconseiller n’est pas un technicien et ne maitrise pas parfaitement tous les aspects techniques des produits ou services que l’entreprise commercialise. De ce fait, il doit se servir de documents internes apportant des précisions, des informations et des procédures permettant de résoudre les problèmes des clients.
+
+#### ***Exemple***
+
+Guider un client à distance dans l’installation d’une machine à laver à l’aide du mode d’emploi.
+
+#### ***Définition*****Mode d’emploi**
+
+Un mode d’emploi est un document pédagogique permettant d’expliquer et de faciliter l'utilisation (installation, montage) d'un produit ou d'un service, généralement fourni gratuitement avec le produit ou le service auquel il est attaché.
+
+Le mode d’emploi est donc un support explicatif de la manipulation ou du fonctionnement du produit ou service acheté. Il peut avoir différentes formes, allant d’une simple feuille, au livre ou au classeur en plusieurs volumes.
+
+Aujourd’hui, et surtout pour du matériel informatique, les modes d’emploi peuvent être fournis sous format numérique (logiciels, fichiers à télécharger, gravés sur CD ou encore sous format vidéo).
+
+En France, les professionnels ont obligation de fournir un mode d’emploi aux acheteurs qui doit être rédigé clairement en français.
+
+#### ***Exemple*****Extrait du mode d’emploi installation Samsung**
+
+**![][image4]**
+
+**![][image5]**
+
+#### ***Définition*****Guide ou manuel d’utilisation**
+
+Le guide, manuel ou encore notice d’utilisation est utilisé pour des objets ou services déjà fonctionnels qui ne nécessitent pas d’installation ni de montage. Le guide d’utilisation d’une machine, d’un objet, d’un logiciel ou de tout autre appareil se trouve souvent sous la forme d’un petit livret en papier. Certaines notices peuvent être aussi sous format numérique.
+
+Un guide d’utilisation donne accès à toutes les indications pour faire bien fonctionner le produit ou le service. Ce document est donc utile pour le client, et pour le téléconseiller qui pourrait l’utiliser pour l’aider à résoudre son problème, si celui-ci peut être résolu à travers des opérations précises indiquées sur le manuel.
+
+#### **La composition d’un guide d’utilisation**
+
+Le guide d’utilisation est souvent confondu avec les autres types de modes d’emploi comme le [manuel d’installation](https://www.youscribe.com/page/mode-emploi/notice-installation), qui va principalement servir à installer un logiciel ou un produit. Cette erreur est due au fait que les modes d’emploi comprennent aussi des parties sur l’installation ou le montage. C'est notamment le cas pour les biens ou services qui peuvent être montés et/ou installés et qui nécessitent ensuite une notice pour pouvoir s’en servir et les faire fonctionner.
+
+Dans la plupart des cas, ce type de document va être composé de plusieurs parties qui seront :
+
+* La description du produit  
+* Les différentes précautions d’utilisation  
+* Les spécifications du produit ou services  
+* Le fonctionnement général et spécifique  
+* L’installation du bien ou service dans certains cas spécifiques comme les logiciels ou ordinateurs
+
+#### ***Exemple***
+
+####     **Extrait du guide d’utilisation Samsung**
+
+Si le client rencontre des problèmes de blocage sur son téléphone, le téléconseiller pourra alors le guider en suivant la procédure du guide d’utilisation.
+
+(Paramètres \- Confidentialité \- Rétablir les paramètres par défaut \- Réinitialiser le téléphone \- Supprimer tout)
+
+![][image6]
+
+![][image7]
+
+#### ***Méthode***
+
+#### **Résoudre un problème client à l’aide d’un mode d’emploi ou guide d’utilisation**
+
+Pour assister un client dans la résolution d’un problème à l’aide d’un mode d’emploi ou d’un guide d’utilisation, le téléconseiller devra :
+
+* Connaître les outils mis à sa disposition  
+* Connaître le contenu des manuels et guides  
+* Faire le lien entre les demandes les plus courantes et les parties des manuels pouvant y répondre  
+* Parler lentement et répéter plusieurs fois les opérations si nécessaire  
+* Être clair et utiliser un vocabulaire simple  
+* Valider que l’étape énoncée ait été effectuée afin de passer à la suivante
+
+#### **Demande de rappel**
+
+Le téléconseiller n’est pas un technicien spécialisé. De ce fait, il peut se retrouver face à un problème qu’il ne pourra pas résoudre seul avec les outils mis à sa disposition.
+
+Il peut éventuellement demander des conseils, des recommandations ou des précisions à ses supérieurs ou bénéficier d’une aide informatique ou technique par un spécialiste.
+
+Pour cela, le téléconseiller ne pourra pas forcément résoudre le problème sur un seul échange, mais privilégiera plutôt une demande de rappel.
+
+Le délai d’attente au téléphone étant une des principales sources d’insatisfaction des clients, il est donc préférable de proposer au client de le rappeler directement après avoir eu l’information nécessaire.
+
+#### ***Exemple***
+
+Suite à un problème technique, le téléconseiller doit demander à un technicien une confirmation sur une procédure spécifique. Il proposera alors de recontacter le client dans l’heure qui suit ou suivant les disponibilités du client.
+
+#### ***Définition***
+
+####     **Logigramme**
+
+Un logigramme est un schéma qui décrit les étapes successives d’un processus.
+
+Dans l’assistance client, le logigramme peut permettre au téléconseiller de prévoir la majorité des scénarios possibles d’appels pour chaque type de demande et de décomposer le processus d’un appel.
+
+#### ***Fondamental***
+
+####     **Les questions à se poser**
+
+* Qui appelle ? *(Identifier le client)*  
+* Pourquoi ? *(Identifier le problème, l’incident, la panne)*  
+* Quelle suite donner à l’appel ? *(Comment résoudre directement le problème du client ? Quels outils peut-on utiliser pour guider le client à distance ?)*  
+* À qui et comment puis-je transmettre l’information ? *(Quel technicien peut apporter des informations supplémentaires pour aider le client ? Effectuer une demande de rappel ?)*
+
+Les appels entrants sont plus complexes à gérer que les appels sortants d’une façon générale. En effet, dans l’assistance client, le téléconseiller réceptionne des appels qu’il ne maitrise pas et doit traiter des problèmes. Il ne peut pas savoir à l’avance qui ne l’appelle ni la demande en question.
+
+Le logigramme est donc un outil efficace permettant d’apporter une aide au téléconseiller et de pouvoir visualiser un processus complet sur les demandes les plus simples et courantes à gérer.
+
+#### ***Remarque***
+
+Pour qu’il soit efficace, le logigramme doit être allégé en explications et en textes. Il peut également être intégré au logiciel CRM ou de phoning pour plus de praticité.
+
+#### ***Exemple***
+
+####     **Le logigramme d’une panne de téléphone**
+
+**![][image8]**
+
+### **Conseiller et répondre aux demandes clients par téléphone**
+
+#### ***Fondamental***
+
+####     **La gestion d’un appel entrant**
+
+Dans la gestion des problèmes clients, l’écoute active est primordiale afin de bien comprendre et diagnostiquer le problème du client.
+
+Avant que le téléconseiller ne prenne en charge l’appel et la demande du client, l’appel atterrit généralement sur une messagerie vocale. Le délai d’attente des clients est une source d’insatisfaction. L’organisation du centre d’appel ainsi que les téléconseillers doivent alors veiller à réduire le temps d’attente pour améliorer la prise en charge des clients et pouvoir traiter plus d’appels.
+
+#### ***Méthode*****Les étapes du déroulement d’un appel entrant**
+
+Le téléconseiller doit gérer les appels entrants des clients. Pour cela, la méthode CERC (Contact, Écoute, Raison, Conclusion) peut être utilisée.
+
+**1\) Accueillir le client**
+
+| Se présenter | S’identifier en indiquant son nom, l’entreprise et le service. Cela va permettre au client de s’assurer qu’il est bien en ligne avec le bon interlocuteur. Si ce n’est pas le cas, il conviendra de réorienter le client. *Exemple : « la société X, monsieur Y ou le prénom téléconseiller client, que puis-je faire pour vous ?»* Remarque : certains centres d’appels utilisent le prénom pour se présenter afin de créer un lien de proximité avec le client et de rendre l’échange plus convivial. |
+| :---- | :---- |
+| **Prendre compte le délai d’attente du client** | L’attente peut sembler très longue pour un client au téléphone quand il a un problème à résoudre. Cela peut également l’agacer. Il est donc indispensable de remercier le client d’avoir patienté. *Exemple : « Je vous remercie d’avoir patienté »* |
+| **Identifier le client** | Afin de ne pas agacer le client, il faut éviter de redemander au client des informations qu’il a déjà donné (au standard téléphonique par exemple). Il convient donc de repérer le plus rapidement possible le client et son dossier à partir d’un numéro client, de facture, de commande, le nom l’adresse, etc. *Exemple : « Vous êtes bien Monsieur X, domicilié au, etc. ? »* |
+| **Personnaliser l’échange** | Il faut utiliser le nom du client afin lui montrer de l’intérêt dans la suite de l’échange. *Exemple : « Monsieur X, vous souhaitez, etc. »* |
+
+**2\) Prendre en compte le problème**
+
+| Pratiquer l’écoute active | Le téléconseiller doit savoir écouter réellement le client et surtout ne pas couper la parole au client pendant qu’il expose sa demande et explique son problème. Il est nécessaire de faire preuve d’empathie, de comprendre le client et se mettre à sa place. *Exemple : « Je comprends très bien votre préoccupation et nous sommes désolés, etc. »* |
+| :---- | :---- |
+| **Reformuler le problème** | La reformulation est la base de l’écoute active. Reformuler les propos du client permet de s’assurer de bien comprendre la requête afin d’éviter les malentendus, les quiproquos, mais également de pouvoir répondre de manière efficace à la demande du client. *Exemple : « Donc, si j’ai bien compris, vous rencontrez un problème au niveau... vous souhaitez... C’est bien cela ? »* |
+| **Rester positif** | Au téléphone, le comportement paraverbal est primordial. L’intonation de la voix du téléconseiller est importante dans l’échange. En effet, le client sentira si le téléconseiller sourit ou non et s’il est attentif à son besoin. Il faut éviter les mots ou phrases négatives. *Exemple : évitez les mots « avoir des problèmes », « des soucis », etc.* |
+| **Faire préciser le problème si besoin et l’identifier** | Il est essentiel également de laisser au client le temps d’exposer et de préciser son problème sans l’interrompre. Le téléconseiller peut alterner avec des questions ouvertes et questions fermées. La question fermée valide les dires du client. *Exemple :* *« Vous souhaitez donc obtenir votre code PUK votre débloquer votre carte SIM c’est bien cela ? »* La question ouverte permet de préciser la demande. *Exemple : « Quelles informations s’affichent sur votre logiciel ? »* |
+
+**3\) Traiter le problème**
+
+| Rechercher les informations nécessaires | Le téléconseiller doit rechercher les informations précises permettant de répondre à la demande du client. *Exemple : informations du compte client, commande, procédure technique qui permettra de résoudre le problème du client, etc.* |
+| :---- | :---- |
+| **Proposer une demande de rappel si nécessaire** | Si le téléconseiller ne sait pas ou ne peut pas résoudre le problème, il doit préciser au client qu’il va demander une confirmation ou une réponse à un technicien et proposer ainsi au client de le rappeler directement afin d’éviter de le faire patienter. *Exemple : « Monsieur X, je vais demander confirmation au service technique pour cette manipulation et je vous contacte d’ici 30 min. Cela vous contient-il ? »* |
+| **Préciser au client tout ce que vous faites durant le traitement de son problème** | Le silence fait douter le client et peut également l’agacer. Il peut également penser que la conversation est coupée ou que le téléconseiller est en train de traiter autre chose. Il faut donc expliquer au client ce que vous êtes en train de faire à chaque étape. *Exemple : « Monsieur X, j’accède à présent à votre dossier, etc. Je recherche les informations, etc. je me rapproche de la notice d’utilisation afin de vous guider. »* |
+| **Expliquer de manière simple et claire** | Le vocabulaire utilisé par le téléconseiller ne doit pas être trop technique et doit être adapté au client. Il est préférable d’utiliser des phrases courtes, car cela évite les incompréhensions et permet au client de comprendre facilement ce qui lui est expliqué. |
+| **Envoyer une confirmation** | *Exemple : « monsieur X, je vous envoie un mail afin de récapituler notre échange ou confirmer la manipulation effectuée. »* |
+
+**4\) Prendre congé**
+
+| S’assurer de bien avoir traité la demande du client | À la fin de l’échange, le téléconseiller doit valider que la demande est bien satisfaite et avoir ainsi satisfait les besoins du client. *Exemple : « Ai-je bien répondu à votre demande ? » « Avez-vous d’autres questions ? »* |
+| :---- | :---- |
+| **Remercier le client** | Il faut faire savoir au client que l’entreprise reste à sa disposition et prendre congé de façon cordiale. **Remarque :** attention, il ne faut pas réciter sa conclusion d’entretien sans laisser le temps au client de répondre. La fin de l’échange doit se terminer de façon agréable et naturelle. *Exemple : « L'entreprise X vous remercie pour votre appel, nous restons à votre disposition... passez une bonne journée, Monsieur X, au revoir »* |
+
+#### ***Complément*****Fidéliser la clientèle dans l’assistance client**
+
+Le traitement des appels entrants et la résolution d’un problème client peut également être l’occasion d’un contact direct avec le client, qui peut aussi être un moment propice pour le fidéliser et dans certains cas, de développer les ventes.
+
+En fonction de la demande du client, le téléconseiller peut ainsi tenter de réaliser, si cela est nécessaire, des ventes complémentaires ou additionnelles (*cross-selling* ou vente croisée) qui consistent à proposer d’autres produits complémentaires au produit acheté de base.
+
+#### ***Exemple***
+
+Pour un vendeur de téléphones, un accessoire comme une carte mémoire ou une protection d’écran.
+
+**Essentiel**
+
+Dans la téléassistance, le téléconseiller peut prendre en charge et résoudre des problèmes simples et courants. Pour cela, il devra respecter les étapes et les procédures permettant de bien traiter les demandes. Celle-ci nécessite une phase de préparation et une phase traitement de l’appel entrant d’un client.
+
+**Préparation :**
+
+* **Avoir une bonne connaissance du logiciel CRM** de l’entreprise (fiche client, fiche incident)  
+* **Avoir une bonne connaissance des outils mis à disposition** pour résoudre les demandes courantes (manuel, guide d’utilisation, logigramme, procédures, etc.)
+
+**Prise en charge d’un appel :**
+
+* **Accueillir le client** (identifier le client, prendre en compte son délai d’attente, etc.).  
+* **Prendre en compte sa demande** (identifier avec précision la nature de l’appel, poser des questions et reformuler pour bien diagnostiquer le problème).  
+* **Traiter sa demande**  
+  * Demande simple pouvant être résolue à distance : résoudre le problème du client à distance et le guider dans les opérations à l’aide d’outils internes.  
+  * Demande plus complexe : demander une procédure de rappel afin de rappeler le client en ayant toutes les informations nécessaires et fiables.  
+* **Prendre congé** (mettre fin à l’échange et remerciant le client, s’excusant si nécessaire et cela peut également être la possibilité de le fidéliser).
+
+Le traitement des appels entrants et la résolution d’un problème client peut également être l’occasion d’un contact direct avec le client, qui peut aussi être un moment propice pour le fidéliser et dans certains cas de développer les ventes. Généralement une enquête de satisfaction peut être transmise aux clients afin d’évaluer la satisfaction sur la prise en charge du problème. Il ne faut pas oublier que le traitement d’un problème client peut être un excellent moyen de le satisfaire, le fidéliser et de le faire recommander l’entreprise.
+</details>
+
+<details>
+<summary>
+
+**L’utilisation des techniques d’investigation au téléphone:**
+</summary>
+
+### ***Contexte***
+
+Pour être un bon technicien, il faut savoir allier compétences techniques et compétences en communication. Développer ces deux capacités fera de vous un technicien qualifié. Dans ce cours, vous verrez comment assister les utilisateurs en diagnostiquant leurs problèmes, en menant une investigation au téléphone et en gérant votre stress.
+
+En entreprise, lorsqu'un utilisateur rencontre un problème sur un appareil informatique, il se tourne vers un technicien informatique. L'utilisateur sera alors amené à vous contacter, le plus souvent par téléphone, et vous aurez à résoudre son problème. Pour résoudre les différents problèmes auxquels vous serez confrontés, il est recommandé d'être méthodique, en effectuant les démarches suivantes : comprendre les symptômes rencontrés par l'utilisateur, cibler la cause du problème, émettre un diagnostic, mettre en place la solution, répertorier le problème et sa solution dans une base de données d'incidents.
+
+### ***Définition***
+
+###     **Un diagnostic**
+
+En informatique, un **diagnostic** permet de déterminer un problème particulier en recherchant des signes et des symptômes.
+
+### **Les causes du problème**
+
+Les causes du problème peuvent être d'ordre physique ou système.
+
+**Les causes physiques :**
+
+* Cause électrique (mauvais branchement de l'appareil, panne électrique),  
+* Problème de connectivité (câble défectueux ou débranché entre deux appareils),  
+* Composant défectueux (ne fonctionne plus).
+
+**Les causes système :**
+
+* Problème de configuration du BIOS (mauvais paramétrages),  
+* Problème du système d'exploitation (altération d'un fichier système, programme qui ne se lance pas),  
+* Problème logiciel (mal installé, problème de compatibilité, etc.).
+
+### **Identifier les symptômes provoqués par l'erreur**
+
+Lorsque vous êtes face à un problème, il est important d'établir une démarche qui vous permettra d'identifier la source des problèmes. Pour cela, posez-vous les bonnes questions :
+
+* **Depuis quand l'erreur est-elle présente ?**  
+  Beaucoup d'événements peuvent entraîner un dysfonctionnement (nouvel utilisateur, nouveau logiciel, changement de matériel, etc.). Trouvez depuis quand exactement l'erreur est apparue et dans quelles circonstances : cela permettra de trouver l'erreur rapidement.  
+* **Quand l'erreur est-elle apparue ?**  
+  Déterminer le moment où est apparue l'erreur peut permettre de définir plus précisément la cause de l'erreur.  
+* **L'erreur se reproduit-elle ?**  
+  Si l'erreur se produit à plusieurs reprises, prenez connaissance des conditions précises dans lesquelles elle se produit.  
+* **Comment l'erreur apparaît-elle ?**  
+  Déterminez comment l'erreur apparaît, quel signal sonore se produit, quel est l'intitulé exact du message d'erreur, s'il existe d'autres signes qui indiquent un problème, un bruit anormal ou une odeur de brûlé par exemple.
+
+**Communiquer efficacement avec le client**
+
+La communication passe par l'écoute et la parole. Une communication efficace passe d'abord par une écoute active de votre interlocuteur. C'est-à-dire qu'il vous faut rester attentif tout au long de la conversation.
+
+**Lors de votre écoute :**
+
+1. Évitez d'être distrait lors de votre écoute, en choisissant un environnement calme et propice à une bonne concentration.  
+2. Concentrez-vous à 100 % sur votre conversation avec votre interlocuteur. Si un de vos collègues vous parle, dites-lui que vous êtes occupé.  
+3. Restez concentré sur les informations que vous donne votre interlocuteur et ne pensez pas d'avance à vos prochaines questions.  
+4. Ne jugez pas votre interlocuteur, même s'il ne s'y connaît pas en informatique. Il pourra vous apporter des informations utiles à la résolution des problèmes.  
+5. Ayez une communication active :  
+   * Réceptionnez les informations,  
+   * Écoutez attentivement,  
+   * Souvenez-vous de toutes les informations,  
+   * Évaluez le problème,  
+   * Répondez à ses attentes.  
+6. En agissant ainsi, vous prouverez à votre interlocuteur que vous êtes réellement investi dans la résolution de son problème.  
+7. Prenez en compte les signaux de communication verbale :  
+   * Soyez attentif au débit de parole de votre interlocuteur. Plus votre interlocuteur parle vite, plus il est stressé. Il vous faudra alors faire en sorte que son stress diminue.  
+   * Écoutez le ton employé. Le ton employé est différent selon l'état émotionnel de la personne. Est-il agressif, joyeux ou angoissé ? Aidez votre interlocuteur à retrouver un état émotionnel stable, cela vous permettra de résoudre le problème plus facilement.
+
+### ***Exemple***
+
+***![][image9]***
+
+*Source : noemiefoulon.com/2017/11/14/astuces-mieux-communiquer-au-quotidien/schema-communication-positive-message/*
+
+**Être efficace lors de l'écoute :**
+
+* Être attentif,  
+* Comprendre le niveau de votre interlocuteur,  
+* Comprendre l'état émotionnel de votre interlocuteur,  
+* Prendre des notes,  
+* Ne pas supposer,  
+* Ne pas couper la parole,  
+* Ne pas juger.
+
+**Prendre la parole :**
+
+Votre interlocuteur attend beaucoup de vous, il vous faudra prendre la parole afin de le rassurer et lui apporter la réponse à son problème.
+
+Lorsque vous prenez la parole, montrez à votre interlocuteur que vous le comprenez et que vous êtes attentif à ce qu'il souhaite. Cela vous permettra de le mettre en confiance. Si l'interlocuteur se sent respecté, il sera plus apte à vous aider dans l'analyse du problème. Cela donnera également une bonne image du service ou de l'entreprise pour laquelle vous travaillez.
+
+**Être efficace lors de prises de parole :**
+
+* Tenez-vous droit pour avoir une voix claire.  
+* Ne soyez pas stressé pour ne pas transmettre votre malaise à votre interlocuteur.  
+* Soyez naturel.  
+* Souriez. Le sourire s'entend au téléphone.  
+* Parlez calmement et distinctement pour que votre interlocuteur comprenne bien vos propos.  
+* Ne faites pas deux choses à la fois.  
+* Respirez lentement.  
+* Soyez dynamique dans vos réponses.  
+* Perdez vos tics de langage.  
+* Mettez-vous à la place de votre interlocuteur.
+
+**Techniques d'investigation au téléphone**
+
+Lors de votre communication au téléphone, il vous faudra mener une investigation auprès de votre interlocuteur pour comprendre quel est son besoin et son problème. Pour répondre le plus précisément possible, il est nécessaire d'être méthodique.
+
+Les étapes d'une conversation doivent être les suivantes :
+
+1. Accueillir,  
+2. Écouter,  
+3. Déterminer les besoins,  
+4. Répondre aux besoins,  
+5. Obtenir un point d'accord avec l'appelant,  
+6. Conclure la conversation,  
+7. Vérifier *a posteriori*.
+
+**Les techniques d'investigation vous permettront de déterminer les besoins tout en écoutant votre interlocuteur (deuxième et troisième étapes d'une conversation).**
+
+### **L'écoute**
+
+Pour déterminer les besoins de votre interlocuteur, la première étape est d'être à l'écoute. Trop souvent, l'utilisateur ne peut pas exprimer son problème comme il le souhaiterait. Pourtant, c'est bien au technicien de l'écouter jusqu'au bout sans lui couper la parole. En faisant cela, votre interlocuteur sera plus en confiance avec vous, ce qui vous permettra d'avoir de bons retours sur vos prestations.
+
+Écoutez votre interlocuteur jusqu'au bout, même si ses propos ne vous semblent pas logiques. Écouter quelqu'un ne veut pas forcément dire être d'accord avec lui ; vous avez tout à fait le droit de ne pas être d'accord avec votre interlocuteur, mais il est quand même important de l'écouter jusqu'au bout. Vous aurez l'occasion de donner votre avis plus tard, après avoir fini votre investigation.
+
+Restez disponible, montrez à votre interlocuteur que vous êtes concentré sur ce qu'il vous raconte et que vous ne faites pas plusieurs choses à la fois (ne vous laissez pas déranger).
+
+### **Le questionnement**
+
+Après avoir écouté votre interlocuteur, il va falloir le guider pour qu'il vous apporte plus d'informations sur sa demande. Pour cela, il va falloir lui poser des questions qui porteront sur trois aspects :
+
+* L'aspect technique (que sait-il vraiment de son problème ?),  
+* Son avis (quel est son avis sur le problème ?),  
+* Ses émotions (comment se sent-il vis-à-vis du problème ?).
+
+Lorsque vous allez questionner votre interlocuteur, il va falloir choisir entre différents types de questions :
+
+* **Les questions ouvertes**  
+  La question ouverte va amener l'interlocuteur à s'exprimer sur le problème. Une question ouverte peut être : « *Quelle est l'origine du problème ?* » Souvent, les questions ouvertes ne permettent pas d'apporter une réponse aussi précise que les questions fermées. La réponse sera plus évasive, mais vous dévoilera néanmoins des indices sur ce que pense votre interlocuteur.  
+* **Les questions fermées**  
+  Les questions fermées contraignent votre interlocuteur à donner une réponse peu explicite : « *oui* » ou « *non* ». Même si, avec ce genre de questions, l'interlocuteur ne pourra pas vous parler de façon détaillée de la situation, elles vous permettront de cibler plus précisément le problème, en éliminant ou en validant des hypothèses. L'interlocuteur sera alors amené à faire un choix qui vous permettra d'y voir plus clair. La question peut être : « *Votre ordinateur a-t-il redémarré dans la matinée ?* »  
+* **Les questions orientées**  
+  Les questions orientées ne sont pas à favoriser dans ce genre d'entretien. En effet, elles peuvent influencer votre interlocuteur qui se fierait à votre avis pour répondre. Les questions orientées peuvent être : « *Ne pensez-vous pas que le problème provienne de la dernière mise à jour ?* »  
+* **Les questions neutres**  
+  Les questions neutres sont à privilégier, car elles permettent de ne pas influencer l'interlocuteur et, ainsi, de le laisser exprimer son opinion. Une question neutre peut être : « *Que pensez-vous des mises à jour ?* »
+
+### **Relancer l'interlocuteur**
+
+Lorsque vous posez des questions à votre interlocuteur, celui-ci peut vous apporter une réponse que vous ne trouvez pas satisfaisante. Si c'est le cas :
+
+* Validez ses propos (d'accord, je comprends, etc.), il comprendra qu'il est écouté.  
+* Utilisez des phrases neutres qui vont le pousser à vous en dire plus : « *C'est-à-dire ?* »  
+* Paraphrasez votre interlocuteur pour le pousser à vous donner plus de détails. S'il vous dit : « *L'ordinateur ne s'allume pas.* » Répondez-lui : « *Il ne s'allume pas ?* » Votre interlocuteur pourra alors vous donner plus de détails : « *Oui, l'écran est tout noir.* »
+
+### **Recentrer l'interlocuteur sur le sujet de son appel**
+
+Si votre interlocuteur commence à parler de sujets qui n'ont aucun rapport avec l'origine de son appel, il vous faudra le ramener délicatement au sujet principal. Vous pourrez utiliser l'argument du temps tout en faisant attention à ne pas lui couper la parole.
+
+### **Reformuler les propos de l'interlocuteur**
+
+À ce stade, vous en savez plus sur ce que pense votre interlocuteur. Pour vous assurer que vous avez bien compris ce que votre interlocuteur vient de vous dire, il va vous falloir reformuler ses propos.
+
+Vous allez répéter toutes les informations que vous a apportées votre interlocuteur, en les reformulant de façon plus concise.
+
+Rappelez les faits et les ressentis de la personne.
+
+En reformulant et en utilisant les termes appropriés, vous allez mettre le point sur des éléments flous pour votre interlocuteur.
+
+Si votre interlocuteur acquiesce, votre formulation est correcte.
+
+La reformulation vous permettra également de reprendre le contrôle de la situation, mais ce n'est pas un exercice facile et il vous faudra de l'entraînement pour parvenir à reformuler les propos de votre interlocuteur. Pour réussir, il vous faudra prendre de la distance à l'égard de ces propos, comprendre la situation du point de vue de l'interlocuteur sans déformer ses propos.
+
+Cette technique vous permet de vérifier que vous avez bien compris ce que vous demande votre interlocuteur et, ainsi, de vous concentrer sur les faits et non pas les suppositions.
+
+### ***Exemple***
+
+Vos reformulations peuvent commencer par : « *Si j'ai bien compris la situation...* », « *Pour résumer...* », « *Autrement dit...* », etc.
+
+### **Synthétiser**
+
+À la fin de votre entretien, vous pouvez faire un résumé de ce qui a été dit et de ce dont vous avez convenu tout au long de la conversation. Il est important de rappeler tous les points importants de l'entretien pour vous assurer que vous et votre interlocuteur êtes d'accord.
+
+**Gestion du stress**
+
+### ***Définition***
+
+###     **Le stress**
+
+Le **stress** peut être défini comme tout type de changement qui provoque une tension physique, émotionnelle ou psychologique. Le stress est la réponse de votre corps à tout ce qui nécessite une attention ou une action. Tout le monde a un certain degré de stress. Cependant, la façon dont vous réagissez au stress peut avoir un impact majeur sur votre santé globale.
+
+Lorsqu'une personne ressent du stress, son corps peut réagir de différentes manières :
+
+* Accélération du rythme cardiaque  
+* Accélération de la respiration  
+* Tremblements  
+* Transpiration  
+* Crampes d'estomac, etc.
+
+**On distingue deux types de stress : le bon et le mauvais.**
+
+* Le bon stress permet d'accroître la productivité en vous mettant dans de bonnes conditions.  
+* Le mauvais stress est un stress accru dont le seuil varie d'un individu à l'autre et qui diminue la productivité.
+
+Pour ne pas subir de mauvais stress, il va vous falloir apprendre à le gérer. Ce n'est pas simple et il vous faudra d'abord identifier quels sont vos facteurs de stress.
+
+### ***Exemple***
+
+***![][image10]***
+
+**Déterminez quand et comment se développe votre stress :**
+
+* Quels sont les facteurs aggravants ?  
+* Quand se développe votre stress (contexte) ?  
+* À quoi pensez-vous lorsque vous êtes stressé ?  
+* Comment vous comportez-vous en période de stress ?
+
+**Établissez une stratégie préventive et active :**
+
+* Préventive : améliorez votre hygiène de vie, accordez-vous des moments de détente.  
+* Active : contrôlez vos émotions, chassez vos pensées irrationnelles, relaxez-vous.
+
+**Gérez votre stress en situation d'assistance :**
+
+Il peut arriver régulièrement que vos interlocuteurs soient mécontents et contrariés. Ne le prenez pas personnellement. Prenez du recul et gérez vos émotions.
+
+**Si votre interlocuteur émet une critique négative :**
+
+* Écoutez-le sans l'interrompre.  
+* Remerciez-le pour vous avoir donné son avis.  
+* Ne le critiquez pas à votre tour, mais exprimez plutôt vos accords et vos désaccords.  
+* Demandez à votre interlocuteur comment le service pourrait être amélioré.  
+* Prenez des engagements réalistes vis-à-vis de ses requêtes.
+
+Il est important de rester courtois tout au long de l'échange.
+</details>
+
+<details>
+<summary>
+
+**Utiliser un script de questionnement:**
+</summary>
+
+### ***Contexte***
+
+Nous allons voir comment fonctionne un script de questionnement, comment le créer et analyser le profil type des utilisateurs qui nous contactent.
+
+### **Le technicien Help Desk**
+
+Le technicien Help Desk a pour mission d'aider chaque utilisateur ayant besoin d'une assistance sur un produit ou un service à distance.
+
+Pour répondre à ses besoins, il aura à sa disposition un script de questionnement indispensable pour résoudre la problématique le plus simplement et le plus concrètement possible.
+
+**Profils types d'utilisateur**
+
+### **Plusieurs profils**
+
+Nous pouvons rencontrer plusieurs profils d'utilisateurs et, bien que la façon de les assister reste la même, il est nécessaire de les prendre en compte.
+
+* **L'utilisateur qui n'a aucune connaissance :**  
+  Avec ce type d'utilisateur, il faudra aller le plus doucement possible et poser des questions simples.  
+* **L'utilisateur qui a essayé de résoudre le problème seul :**  
+  Ces utilisateurs peuvent avoir réglé une grande partie du problème, ou au contraire aggravé la situation. Dans ce cas, la problématique deviendra plus complexe.  
+* **L'utilisateur ayant de bonnes connaissances :**  
+  Ici, l'utilisateur devrait comprendre rapidement ce que vous lui demandez.
+
+**Résoudre une problématique**
+
+### **La problématique d'un utilisateur**
+
+Pour résoudre la problématique d'un utilisateur, la meilleure façon de procéder est de toujours utiliser le script de questionnement, aussi appelé l'organigramme de diagnostic.
+
+Les questions et le schéma de raisonnement sont faits pour être les plus concrets possible, et résoudre une problématique sans accroc.
+
+### ***Attention***
+
+L'utilisateur ne nous dira pas d'où vient le problème, mais il nous décrira les conséquences constatées.
+
+**Comprendre un organigramme**
+
+### **Un organigramme**
+
+Un organigramme est constitué de plusieurs éléments géométriques ayant chacun une signification. Il sert à obtenir un schéma de questions/réponses pour pouvoir simplement trouver ce qu'il faut faire ensuite. Si le problème n'est toujours pas résolu en ayant utilisé cet organigramme, l'utilisateur est transféré chez un technicien d'un niveau supérieur afin de résoudre le problème rapidement.
+
+### ***Exemple***
+
+###     **Éléments graphiques**
+
+**![][image11]**
+
+Cet élément indique le début ou la fin d'un script.
+
+![][image12]
+
+Cet élément indique une question, qui va déterminer la suite du script.
+
+![][image13]
+
+Cet élément indique une opération à réaliser.
+
+![][image14]
+
+Cet élément indique un lien avec un autre script.
+
+### **La structure**
+
+Maintenant que nous savons à quoi ressemble chaque partie de l'organigramme, nous pouvons en créer un. Gardons en tête qu'il n'y a toujours qu'un seul point d'entrée pour chaque élément.
+
+### ***Exemple***
+
+###     **Structure**
+
+**![][image15]**
+
+Au niveau « *Question* », vous posez une question fermée à l'utilisateur : selon sa réponse, vous serez redirigé vers l'action A si la réponse est *Oui*, ou à la réponse B si la réponse est *Non*.
+
+**Mise en situation professionnelle**
+
+### ***Exemple***
+
+Voici un exemple concret d'un opérateur recevant l'appel d'un utilisateur, avec un organigramme montrant le chemin emprunté dans la conversation.
+
+*Opérateur \= O*
+
+*Utilisateur \= U*
+
+O : bonjour, ici O, de l'entreprise Studi.
+
+U : bonjour, je suis U de l'entreprise Exemple, mes identifiants d'entreprise sont \*\*\*\*\*\*\*.
+
+O : très bien, comment puis-je vous aider, U ?
+
+U : mon ordinateur fixe ne s'allume pas, que pouvez-vous faire ?
+
+O : Nous allons nous en occuper. Pouvez-vous essayer de voir si le câble d'alimentation de l'ordinateur est branché ?
+
+*Nota Bene : à ce moment-là, l'opérateur va poser plusieurs questions pour trouver la panne et savoir s'il peut trouver la source du problème.*
+
+U : oui, mon câble d'alimentation est bien branché.
+
+O : votre ordinateur fait-il du bruit ou de la lumière à certains endroits ?
+
+U : je l'entends faire du bruit, mais rien ne s'affiche sur mon écran, etc.
+
+O : veuillez vérifier que votre écran est bien branché à l'alimentation, et qu'il est bien relié à votre ordinateur.
+
+U : je viens de voir que l'alimentation de l'écran a été enlevée \! Je vais le rebrancher.
+
+O : votre écran s'allume-t-il ?
+
+U : non, il est toujours noir avec une petite lumière orange.
+
+O : cela veut dire qu'il s'est mis en veille, appuyez sur la lumière orange pour l'allumer.
+
+U : mon ordinateur s'est rallumé \! Merci beaucoup, O.
+
+O : passez une bonne journée, U, n'hésitez pas à appeler si vous rencontrez le moindre problème.
+
+U : bien sûr, je n'hésiterai pas, au revoir.
+
+Maintenant que nous avons eu cette discussion, nous pouvons schématiser le parcours que celle-ci a suivi. Il va de soi que ce schéma varie selon les entreprises, qui ont toutes leurs propres façons de procéder.
+
+### ***Méthode***
+
+***![][image16]***
+
+Comme vous pouvez le voir, un organigramme devient rapidement complexe et difficile à comprendre. C'est pour cela que l'on utilise des procédures pour relier les scripts entre eux.
+
+### ***Exemple*****Autre cas**
+
+Prenons, par exemple, un utilisateur ayant un problème avec le son de son ordinateur fixe.
+
+L'opérateur va chercher l'origine du problème et, en fonction des réponses, il partira dans un embranchement différent de scripts, car chaque cas est unique.
+
+Il commence par se demander ce qu'il s'est passé avant que le problème ne survienne. Si rien de particulier ne s'est produit, il regardera si ce n'est pas le matériel audio qui est abîmé. Si ce n'est pas le cas, il choisira le script qui lui permettra de vérifier l'appareil.
+
+Nous allons donc suivre de façon concrète le chemin parcouru par l'utilisateur et l'opérateur, dans le cas où l'utilisateur rencontre un problème audio sur son ordinateur fixe.
+
+*Opérateur \= O*
+
+*Utilisateur \= U*
+
+O : bonjour, ici O, de l'entreprise Studi.
+
+U : bonjour O, je m'appelle U, je suis de l'entreprise Exemple, mes identifiants d'entreprise sont \*\*\*\*\*\*\*.
+
+O : très bien, comment puis-je vous aider, U ?
+
+U : le son de mon casque audio est bizarre, je n'ai plus que le son dans le côté droit.
+
+O : essayez de débrancher et de rebrancher votre casque, cela peut venir d'un mauvais branchement.
+
+U : je viens de le faire et ça ne marche toujours pas.
+
+O : avez-vous un autre casque à disposition pour voir si le problème vient du casque ou de l'ordinateur ?
+
+U : oui, je viens d'en essayer un autre, mais c'est toujours la même chose.
+
+O : on va vérifier si le problème ne viendrait pas de l'ordinateur. Savez-vous si votre ordinateur est sous Windows ?
+
+U : oui \! Il est sous Windows 10\.
+
+O : très bien, il faudrait que vous alliez dans le menu « *Démarrer* » de votre ordinateur, et que vous tapiez sur le clavier « *Gestionnaire de périphériques* ».
+
+U : j'y suis.
+
+O : ici, vous trouverez une icône « *Contrôleur audio* », cliquez dessus.
+
+U : cela m'affiche un casque audio avec une icône jaune et un point d'exclamation.
+
+O : cela doit être la source du problème, je vais donc prendre la main et vous installer le pilote qui pose problème.
+
+Nous sommes passés par plusieurs étapes : en sachant que le casque audio n'était pas défaillant, nous sommes passés à côté du script servant à le réparer. Nous sommes alors rentrés dans le script des *drivers* dès que nous l'avons diagnostiqué.
+
+### ***Méthode***
+
+***![][image17]***
+</details>
+
+<details>
+<summary>
+
+**L’utilisation d’une base de connaissance:**
+</summary>
+
+### ***Contexte***
+
+Nous allons explorer en détail l'utilisation d'une base de connaissances et la création d'articles dans le Gestionnaire Libre de Parc Informatique (GLPI), spécifiquement configuré sur une machine virtuelle Debian 10\. Notre objectif est de développer une compréhension approfondie de ces fonctionnalités essentielles pour optimiser la gestion informatique au sein de votre environnement.
+
+**Les principales informations à connaître sur la base de connaissances du Gestionnaire Libre de Parc Informatique (GLPI)**
+
+La base de connaissances présente dans le Gestionnaire Libre du Parc Informatique (GLPI) répond à 2 catégories, qui sont les plus couramment utilisées :
+
+* La **centralisation des connaissances** liées aux différents techniciens (rédigées par les techniciens, non visibles par les utilisateurs).  
+* La **Foire Aux Questions** (**FAQ**) qui permet aux utilisateurs de rechercher la réponse aux questions qu’ils se posent et de résoudre certains problèmes de manière autonome avant de contacter le service technique. Elle est rédigée par les techniciens à l’intention des utilisateurs, elle est donc visible par les utilisateurs.
+
+![][image18]
+
+Par défaut, un article ajouté à la base de connaissances est simplement lisible par le technicien rédacteur. Il est dans l’obligation de préciser une ou plusieurs cibles pour que la procédure soit publiée et consultable.
+
+En fonction de la ou des cibles choisies, l’article peut être placé dans la FAQ (destinée aux utilisateurs) ou dans la centralisation des connaissances (destinée aux techniciens).
+
+![][image19]
+
+**Utilisation d'une base de connaissances**
+
+### ***Méthode***
+
+###     **Ajout, modification, suppression de catégories de la base de connaissances**
+
+**Étape 1** : dans l'onglet « ***Configuration*** » (1), cliquez sur « ***Intitulés*** » (2).
+
+![][image20]
+
+**Étape 2** : dans le menu « ***Outils*** » (1), cliquez sur « ***Catégories de la base de connaissances*** » (2).
+
+![][image21]
+
+**Étape 3** : cliquez sur le signe « ***\+ Ajouter*** » présent en haut de l'écran.
+
+![][image22]
+
+**Étape 4 :** ajoutez un « ***Nom*** » (1) ainsi qu'un « ***Commentaire*** » (2) à votre catégorie, puis cliquez sur « ***Ajouter*** » (3).
+
+![][image23]
+
+**Étape 5** : pour accéder aux catégories que vous avez créées, cliquez sur « ***Catégories de la ...*** » :
+
+![][image24]
+
+**Étape 6** : cliquez sur la catégorie, ici, ce sera « ***Pannes récurrentes*** ».
+
+![][image25]
+
+**Étape 7** : vous pouvez modifier la catégorie (1) ainsi que la supprimer définitivement (2).
+
+![][image26]
+
+(vidéo) Configuration de la base connaissances
+
+Il s’est connnecté avec un compte super administrateur. Il faut avoir l’onglet configuration et l’onglet outils. Dans configuration, on va dans intitulé, on clique sur ajouter et on donne le titre (et un commentaire non obligatoire) puis “Comme enfant de” permettrai de définir une catégorie comme l’enfant d’une autre catégorie puis cliquer sur ajouter. Pour modifier une catégorie, on va sur la catégorie puis on clique sur modification ou on peut changer le nom le commentaire et l’enfant de quelle catégorie il est. Dans l’onglets “catégories de la base de cannaissances” (avec un s ici différent de l’autre catégorie du même nom mais sans s) on peut cliquer sur ajouter directement depuis la catégorie voulue la connaissance ajoutée sera directement ajouté comme enfant de cette catégorie. Si on supprime une catégorie, ça ne supprime pas les connaissances dedans mais les transfert à la catégorie au dessus.
+
+### **Création d'un article**
+
+**Étape 1** : dans l'onglet « ***Outils*** » (1), cliquez sur « ***Base de connaissances*** » (2).
+
+![][image27]
+
+**Étape 2** : cliquez sur le signe « ***\+ Ajouter*** » présent en haut de l'écran.
+
+![][image28]
+
+**Étape 3** : remplissez l'article :
+
+* Choisissez la catégorie de l'article (1).  
+* Si vous voulez qu'il fasse partie de la FAQ ou non (2).  
+* Définissez une durée ou non (3).  
+* Donnez un sujet à l'article (4).  
+* Remplissez le contenu de l'article (5)  
+* Choisir la cible (6).
+
+**Étape 4** : cliquez ensuite sur « ***Ajouter*** » (7).
+
+![][image29]
+
+**Étape 5** : dans l'onglet « ***Outils*** », cliquez sur « ***Base de connaissances*** ». Renseignez le sujet recherché (1), par exemple ici ce sera « *écran* ».
+
+![][image30]
+
+**Étape 6 :** cliquez sur l'article, vous pourrez voir qu’il fait partie de la FAQ.
+
+![][image31]
+
+  (vidéo) L’utilisation des articles
+
+On va créer notre première documentation et donc se rendre dans “outils”, “base de connaissance”, par défaut, on pourrai rechercher les documentations ou tutoriels ou parcourir la liste des documents qui existent. Dans gérer on pourra gérer des articles publiés non publiés. On clique sur ajouter et on commence à renseigner des éléments, dans “catégorie”, on peut renseigner la catégorie parmi les catégories créées, il y a un bouton plus sur le côté qui permet de créer la catégorie dans la base de connaissance directement. On peut choisir ensuite de placer cet élément dans la FAQ ou pas. 
+
+**Essentiel**
+
+Il est important de bien comprendre la distinction entre la centralisation des connaissances et la FAQ dans GLPI, ainsi que le processus d'ajout, de modification et de suppression de catégories de la base de connaissances. Maîtrisez également la création d'articles, en accordant une attention particulière aux étapes pour les associer à des catégories, les rendre disponibles dans la FAQ, et spécifier les cibles appropriées. Soyez conscient des différents rôles et droits des utilisateurs dans l'utilisation de la base de connaissances de GLPI. Ces compétences seront cruciales pour une gestion informatique efficace.
+</details>
+
+<details>
+<summary>
+
+**Les méthodes de dépannage:**
+</summary>
+
+### *Contexte*
+
+En entreprise, vous serez amenés à effectuer différents types de maintenances et de dépannages afin d'aider ou d'assister les usagers. Pour les aider, il est important de connaître les méthodes qui vous permettront de répondre à leurs besoins.
+
+### La maintenance du système d'information
+
+Aujourd'hui, l'informatique est partout dans l'entreprise. La plupart des employés possèdent un ordinateur, il est donc nécessaire d'assurer le bon fonctionnement de tous les équipements du réseau de façon à assurer l'activité de l'entreprise. Pour cela, la maintenance informatique est nécessaire et indispensable. Elle permettra de maintenir le parc informatique en bonne santé et également de réduire les risques liés aux défaillances matérielles de l'infrastructure réseau.
+
+### *Définition*
+
+###     Maintenance informatique
+
+La maintenance informatique consiste à maintenir ou à réparer un ordinateur ou un composant réseau. L'objectif de la maintenance est d'assurer le bon fonctionnement des services. À cette fin, les maintenances informatiques doivent être effectuées régulièrement.
+
+### La maintenance préventive
+
+La maintenance préventive est indispensable pour éviter de graves problèmes, comme la perte de données et les pannes de matériels. Elle vous permettra également d'avoir un système informatique plus durable.
+
+La maintenance préventive consiste à inspecter, nettoyer et remplacer régulièrement les pièces, matériaux et systèmes usés et trop vieux. Une maintenance préventive réduira les défaillances de pièces, matériaux, systèmes et logiciels.
+
+La maintenance préventive sera différente selon l'emplacement physique de l'ordinateur (sur un chantier de construction, dans une école, etc.) et selon son utilisation (réseau à fort trafic, réseau scolaire, etc.). Ces ordinateurs peuvent nécessiter une analyse supplémentaire, notamment pour éviter la propagation d'un logiciel malveillant ou de fichiers indésirables.
+
+La maintenance préventive de poussières :
+
+Réguler la poussière, c'est protéger les composants informatiques. En entrant dans un ordinateur, un switch, un serveur, etc., la poussière peut boucher les sorties d'air des composants et entraîner une surchauffe des appareils. Pour se protéger de la poussière :
+
+* Nettoyez/remplacez régulièrement les filtres à air du bâtiment afin de limiter sa présence dans l'air.  
+* Nettoyez la poussière à l'aide d'un chiffon sec et non pelucheux.  
+* Utilisez une machine à air comprimé en respectant une distance de sécurité, pour ne pas endommager les composants fragiles.  
+* Lors du nettoyage des ventilateurs, maintenez les pales en place.
+
+La maintenance préventive des composants externes :
+
+Lors de votre maintenance préventive, veillez à inspecter les éléments suivants :
+
+* les ventilateurs,  
+* les modules RAM,  
+* les vis (resserrez-les si besoin),  
+* les périphériques de stockage (câbles bien branchés, lecteurs ne faisant pas de bruits, de cliquetis ou de grincements),  
+* les câbles,  
+* les appareils d'alimentation (prises, multiprises),  
+* les claviers et les souris.
+
+La maintenance préventive, les précautions environnementales :
+
+* N'obstruez pas les entrées d'air des composants internes.  
+* Maintenez une température entre 7 et 32 °C.  
+* Gardez un taux d'humidité adapté aux recommandations des fabricants.
+
+La maintenance préventive logicielle se planifie à intervalle régulier :
+
+* Vérifiez et installez les mises à jour de sécurité, de logiciels et de pilotes appropriés.  
+* Maintenez à jour l'antivirus.  
+* Supprimez les programmes indésirables.  
+* Analysez les disques durs et défragmentez-les.
+
+### *Définition*
+
+###     La maintenance corrective
+
+La maintenance corrective est une tâche de maintenance qui consiste à identifier, isoler et réparer un défaut afin de remettre un équipement, une machine ou un système en état de fonctionnement.
+
+Les tâches de maintenance corrective peuvent être planifiées ou imprévues, et se produire pour trois raisons différentes :
+
+* Lorsque la surveillance du système d'information met en évidence un problème.  
+* Lorsqu'un défaut potentiel est détecté lors d'une inspection de routine.  
+* Lorsqu'un appareil tombe en panne.
+
+Une maintenance corrective peut être programmée ou non programmée.
+
+Si elle est programmée, on parlera de maintenance « *continue* » ou « *préventive* ».
+
+Si elle n'est pas planifiée, elle peut être due à une panne ou au manque d'un plan de maintenance.
+
+Les différents types de maintenance corrective :
+
+* Reconstruction (démontage des pièces et remplacement des composants usés).  
+* *Fail repai*r (restauration d'un actif défaillant à un état opérationnel).  
+* Révision/restauration (restaurer un équipement à un état de fonctionnement).  
+* Récupération (utiliser des pièces de matériels irréparables pour réparer un autre appareil).  
+* Entretien (corrections finales suite à des actions correctives plus importantes).
+
+### *Définition*
+
+###     La maintenance informatique évolutive
+
+La maintenance informatique évolutive a pour but de maintenir le système d'information à jour afin de toujours utiliser les technologies les plus fiables et les plus récentes. C'est la garantie d'avoir toujours un réseau opérationnel et d'en limiter les failles système.
+
+La maintenance évolutive consiste à :
+
+* Améliorer le système déjà en place (mises à jour, remplacement d'équipements).  
+* Mettre en place de nouvelles fonctionnalités afin de répondre aux nouvelles exigences (ajout de matériels, ajout de logiciels).
+
+En combinant les maintenances préventive, corrective et évolutive, vous assurez la continuité du système informatique de l'entreprise.
+
+**Méthodes de dépannage**
+
+Il existe plusieurs méthodes de dépannage plus ou moins structurées qui vous permettront de dépanner les utilisateurs. Il n'y a pas de méthode qui soit meilleure qu'une autre, juste des méthodes qui sont plus ou moins adaptées en fonction des situations.
+
+Il existe plusieurs méthodes de dépannage, nous allons en voir cinq.
+
+* Les méthodes structurées : descendante, ascendante, diviser et conquérir.  
+* Les méthodes moins structurées : par essai/erreur, par substitution.
+
+### ***Définition***
+
+###     **Le dépannage informatique**
+
+Le **dépannage informatique** définit la **remise en état de fonctionnement correct d'un appareil informatique**.
+
+### **La méthode de dépannage descendant**
+
+Cette méthode utilise le **modèle** **OSI** comme principe directeur. Dans le modèle OSI, les couches supérieures dépendent des couches sous-jacentes. Si une couche est fonctionnelle, vous pouvez supposer que les couches sous-jacentes le sont également. L'objectif de la méthode de dépannage descendant a pour objectif de trouver la couche la plus élevée du modèle OSI qui fonctionne correctement. Cette approche est particulièrement efficace si le problème se trouve sur une couche élevée du modèle OSI. Souvent, les problèmes décrits par les usagers sont considérés comme étant des problèmes d'application, il est donc normal de commencer par cette couche-là.
+
+### ***Exemple***
+
+***![][image32]***
+
+*Source : www.oreilly.com/library/view/ccnp-routing-and/9780133149906/ch01lev3sec4.xhtml*
+
+### **La méthode de dépannage ascendant**
+
+La méthode de dépannage ascendant utilise également le modèle OSI, mais consiste à démarrer les recherches du problème en partant de la couche *physique*. Dans cette méthode, vous devez progresser couche par couche, de la couche *physique* à la couche *application*, tout en vérifiant que les éléments du réseau fonctionnent correctement.
+
+Le but est d'éliminer les causes potentielles de problèmes afin de réduire l'étendue des problèmes potentiels. Dans le cadre d'un réseau ancien et obsolète, la méthode de dépannage ascendant est très efficace, puisque la plupart des problèmes sont liés au matériel. Pour tirer profit au maximum de la méthode ascendante, il est recommandé d'utiliser une autre stratégie pour définir l'étendue du projet, puis de passer à la méthode ascendante pour les parties clairement délimitées de la topologie du réseau.
+
+### ***Exemple***
+
+***![][image33]***
+
+*Source : www.oreilly.com/library/view/ccnp-routing-and/9780133149906/ch01lev3sec5.xhtml*
+
+### **La méthode diviser et conquérir**
+
+Cette méthode établit un équilibre entre la méthode ascendante et la méthode descendante. S'il est difficile de choisir entre la méthode ascendante et la méthode descendante, la méthode *diviser* et *conquérir* peut être une bonne alternative.
+
+Elle consiste à commencer les recherches à partir d'une couche du milieu du modèle OSI et à effectuer des tests (ping, trace) puis, si les tests réussissent, vous pouvez considérer que toutes les couches sous-jacentes sont fonctionnelles.
+
+Vous pourrez alors lancer un dépannage ascendant à partir de la couche *réseau*. Si les tests échouent, vous pouvez commencer un dépannage descendant à partir de la couche *réseau*. Que les résultats des tests soient positifs ou négatifs, cette méthode permet d'éliminer rapidement les problèmes potentiels. Par conséquent, cette approche de dépannage est la plus populaire.
+
+### ***Exemple***
+
+***![][image34]***
+
+*Source : www.oreilly.com/library/view/ccnp-routing-and/9780133149906/ch01lev3sec6.xhtml*
+
+### **La méthode essai/erreur**
+
+La méthode *essai/erreur* consiste à effectuer des essais divers jusqu'à l'obtention d'une solution. Cette technique consiste à tester toutes les solutions, une à une, jusqu'à obtention de la solution. C'est une méthode basée sur le hasard et elle ne peut donc pas être considérée comme une méthode structurée.
+
+### **La méthode par substitution**
+
+La méthode par substitution consiste à dépanner en substituant un composant connu à un mauvais composant suspecté. Les composants seront remplacés un à un jusqu'à ce que le problème soit résolu. Cette technique permet de révéler les composants problématiques.
+
+**Procédure de dépannage et dépannage par téléphone**
+
+Que ce soit en informatique ou ailleurs, le dépannage nécessite une approche logique et organisée des problèmes. Parfois, ces problèmes peuvent être identifiés lors de la maintenance préventive et, d'autres fois, ils peuvent vous être exposés par des clients. Avoir une approche logique du dépannage vous permet de définir plus rapidement les causes du problème. Posez les bonnes questions, effectuez les tests sur le bon matériel et étudiez les bonnes données : cela vous aidera à résoudre plus rapidement les problèmes. Les méthodes de dépannage s'améliorent avec le temps, plus vous résolvez de problèmes, plus vous serez apte à les résoudre rapidement.
+
+Voici les étapes d'une procédure de dépannage :
+
+**Identifier le problème** (rassemblez autant d'informations que possible) :
+
+Il est important que le problème soit décrit précisément et dans des termes appropriés.
+
+**Recueillez les faits** (observez les symptômes afin de définir l'origine du problème) :
+
+* Problème d'ordre matériel (soyez attentif à l'état du matériel  : voyants, bruits).  
+* Problème de logiciel (lisez le message d'erreur).  
+* Le problème concerne-t-il un usager ou plusieurs, une machine ou plusieurs ?  
+* Le problème touche-t-il un logiciel ou plusieurs ?  
+* Le problème se produit-il pour la première fois, ou de manière récurrente ?  
+* Des modifications ont-elles été effectuées récemment sur le PC ?
+
+**Théoriser la cause du problème** (création d'une liste de raisons les plus courantes, de la plus évidente à la plus complexe) :
+
+* Demandez conseil à votre équipe.  
+* Cherchez dans les bases de données du logiciel de dépannage, pour voir si un événement identique ou similaire s'est déjà produit.  
+* Recherchez des informations sur Internet.
+
+**Établissez un plan d'action :**
+
+* Commencez par vérifier les éléments les plus simples, vérifiez que les équipements soient bien sous tension  ; vérifiez que les éléments soient bien branchés comme ils devraient l'être.  
+* Si le matériel est correctement alimenté et ne présente pas de problème physique, passez à la partie logicielle.  
+* S'il s'agit d'un problème réseau, commencez par vérifier les éléments de la couche 1 du modèle OSI. Passez ensuite aux couches supérieures.  
+* Remplacez les éléments pouvant causer le problème afin de vérifier si le problème persiste.
+
+**Mettez en œuvre le plan d'action :**
+
+Appliquez les mesures décrites dans votre plan d'action. Si vous corrigez le problème, vérifiez l'entièreté du système, sinon revenez à l'étape 2\.
+
+**Vérifiez que la totalité des fonctionnalités est opérationnelle** (mettez ensuite en place les mesures préventives nécessaires) :
+
+* Si le problème est résolu, assurez-vous que votre solution a bien fonctionné.  
+* Si le problème n'est pas résolu, annulez les modifications apportées et testez la solution suivante.
+
+**Documentez le problème constaté :**
+
+* Documentez les procédures de dépannage avec les actions mises en place pour résoudre le problème et validez le résultat.  
+* Expliquez verbalement le problème et la solution au client.  
+* Plus vous résoudrez de problèmes, plus cette base de données sera remplie.
+
+Le dépannage par téléphone passe par la parole et l'écoute. Soyez à l'écoute des explications de votre interlocuteur et respectez ces règles de base :
+
+* Soyez attentif.  
+* Notez les idées importantes.  
+* Déterminez l'état émotionnel de votre interlocuteur (stress, colère, etc.).  
+* Déterminez son niveau de connaissance pratique.  
+* Ne proposez pas de solution hâtivement.  
+* N'interrompez pas votre interlocuteur.
+
+Pour que votre communication téléphonique soit efficace, privilégiez une conversation structurée :
+
+**Accueillez votre interlocuteur :**
+
+Il est important que votre interlocuteur comprenne que vous êtes investi dans votre mission. La communication téléphonique passe donc par un bon accueil.
+
+**Écoutez-le exprimer le problème rencontré :**
+
+Écoutez de façon active, répondez à votre interlocuteur tout en vous intéressant à son problème.
+
+**Déterminer ses besoins :**
+
+Identifiez les besoins d'assistance et de solution ainsi que les besoins psychologiques
+
+(accueil, respect, prise en charge, compréhension, feedback, suivi du problème).
+
+**Répondez à ses besoins :**
+
+* Faites preuve d'empathie, montrez-lui que vous avez compris son problème.  
+* Proposez-lui un plan d'action (les actions que vous allez entreprendre, celles qu'il devra entreprendre).
+
+**Trouvez un accord :**
+
+* Obtenez un accord de la part de votre client sur la démarche que vous souhaitez adopter.  
+* Justifiez vos choix et soyez bref dans vos justifications.
+
+**Terminez la conversation :**
+
+* Avant de raccrocher, assurez-vous qu'il n'y a pas de malentendus.  
+* Assurez-vous que le client n'a pas d'autres questions.  
+* Restez courtois.  
+* Vérifiez que le client est satisfait de votre intervention.
+
+**Plus tard, vérifiez que le problème est bien résolu :**
+
+* Assurez-vous que le problème n'est pas réapparu.  
+* Si vous avez transféré la mission à un spécialiste, assurez-vous qu'il l'a bien effectuée.
+
+Lorsque votre interlocuteur a un problème sur son ordinateur, ces gestes simples peuvent vous aider à résoudre le problème rapidement :
+
+* redémarrez l'ordinateur,  
+* identifiez le problème,  
+* vérifiez l'alimentation,  
+* effectuez les mises à jour,  
+* écoutez si l'ordinateur fait des bruits étranges.
+
+Si vous devez manipuler un PC à distance, utilisez un logiciel de prise en main à distance. Il peut s'agir de l'assistance à distance Windows Connexion bureau à distance, de TeamViewer ou AnyDesk. Vous pourrez ainsi résoudre rapidement le problème sans vous déplacer et en gardant votre interlocuteur au bout du fil.
+
+(vidéo)
+
+Help Desk et Service Desk ne sont pas la même chose. 
+
+Un help desk peut être appelé aussi hotline ou centre d’assistance, en effet ce service permet la prise en charge des utilisateurs quand il est nécéssaire d’apporter une aide ou quand il y a une demande spécifique. Les utilisateurs auront alors accés aux informations techniques dont ils ont besoin leur permettant de résoudre certains incidents. On peut parler aussi de techniciens supports qui ont pour but d’apporter les solutions techniques les plus adaptées. Le Help Desk est donc là pour apporter à l’utilisateur un outil informatique et son assistance sous forme de tchat, échange téléphonique ou courriel, prise en main à distance du poste de travail à l’aide de TeamViewer, AnyDesk ou autre. Le Help Desk utilise souvent des logiciels de suivi de tickets d’incidents comme GLPI, Remedi ou alors une gestion de documentation de résolution d’incidents. Son objectif sera d’aller au plus vite dans la résolution du problème rencontré. Son rôle sera donc d’éviter les pannes ou incidents qui vont perturber le bon fonctionnement d’un système d’information et ce quelque soit la taille du parc informatique. C’est un service accès utilisateurs.
+
+Le Service Desk est un service d’inforgérance globale des services d’information. C’est plus accès entreprise qui n’a pas simplement un but d’assistance. Ce service est beaucoup plus polyvalent car il va inclure du monitoring et de l’optimisation du parc informatique en faisant remonter les informations très précieuses alliants performance et rentabilité. En effet, à l’aide d’outils d’infogérance, on pourra auditer les équipements informatiques, identifier les besoins et planifier les remplacements de matériel, éffectuer aussi les mises à jour mais aussi résoudre des incidents par automatisation des standards. Ce service à aussi pour but de faire en sorte que les processus informatiques soient le plus efficace possible. 
+
+Donc le Help Desk et le Service Desk ne sont pas identiques mais compllémentaires. Cependant les objectifs seront différents car le premier à pour objectif d’aider les utilisateurs finaux dans la résolution d’incidents rapidement alors que le second aura une approche plus globale du service d’information. On comprendra pourquoi le help desk est crucial pour le bon fonctionnement d’un service desk. Pour conclure on peut dire que le help desk ou hotline et assistance utilisateur a pour but d’apporter comme son nom l’indique une assistance technique aux utilisateurs finaux, il peut être inclut dans un service desk. Le service desk apporte une vue d’ensemble sur le système d’information d’une entreprise et permet d’optimiser son parc à l’aide de solutions d’infogérance.
+</details>
+
+<details>
+<summary>
+
+**L’intervention à distance:**
+</summary>
+
+### ***Contexte***
+
+En entreprise, vous serez amené à utiliser des logiciels comme TeamViewer, pour prendre le contrôle d'un PC. Cela vous permettra de résoudre les problèmes à distance. Pour gérer le grand nombre de demandes d'assistance d'utilisateurs, vous utiliserez souvent le logiciel GLPI, qui vous permettra de traiter de façon organisée les différents problèmes.
+
+Prendre le contrôle à distance d'un ordinateur vous permettra de gagner du temps en évitant de vous déplacer, et donc de faire économiser de l'argent à votre entreprise.
+
+**Comment fonctionne un logiciel de prise en main à distance ?**
+
+(vidéo) Comment fonctionne un remote desk?
+
+Les ordinateurs de bureau sont contraignants car ils restent statiques, heureusement il est possible de les utiliser même si on est à distance. Le Remote Desktop fait parti des protocoles grâce auquel cela est faisable. Le remote desktop protocol RDP est en effet une norme grâce à laquelle il est possible de se servir d’un ordinateur de bureau en étant à distance. Les logiciels qui permettent l’exécution de cette fonction peuvent le faire en combinant divers protocoles, toutefois le remote desktop demeure le plus répandu de tous. Å la base, cette norme technique  a été publié par microsoft elle est donc disponible sur wandows et est également utilisable sur mac OS. Le fonctionnement du remote desktop est comparable à celui d’une voiture télécommandée à la différence que la télécommande est remplacée par le clavier et la souris de l’utilisateur et les directives sont transmises via internet plutot que par ondes radios. L’interface de l’ordinateur de bureau est dupliqué et s’affiche sur l’écran de l’utilisateur à distance, ce qui lui permet d’avoir un contrôle sur les commandes qu’il lance. De manière détaillée, c’est le port 3389 du réseau qui est utilisé par le Remote Desktop Protocol pour l’ouverture d’un canal réseau par lequel vont transiter les données échangées par les deux appareils c’est-à-dire l’ordinateur de bureau et celui utilisé à distance. Toutes les données allant du mouvement de la souris distante à l’affichage montré sur l’écran vont être envoyées par TCP/IP, autrement dit, Transmission Control Protocol/ Internet Protocol. Le TCP est le protocol de transport le plus utilisé pour le transport dans le traffic d’internet. Aussi pour une question de sécurité, le Remote Desktop Protocol code toutes les données transmises. Ce faisant, on peut noter un temps de latence entre le lancement à distance d’une commande et son exécution. La commande diot en effet faire un premier trajet vers l’ordinateur de bureau où elle sera exécutée avant de transmettre les résultats qui s’afficheront sur l’ordinateur de connexion. Le Remote Desktop est donc un outil et un protocole permettant l’utilisation à distance d’un ordinateur de bureau. 
+
+Un logiciel de prise en main à distance permet de prendre le contrôle du PC d'un utilisateur. L'utilisateur pourra alors partager son écran avec vous et vous pourrez prendre le contrôle de son ordinateur.
+
+Pour prendre la main sur l'ordinateur d'un utilisateur, vous pouvez utiliser un logiciel comme **TeamViewer.**
+
+**Le fonctionnement de TeamViewer :**
+
+Après avoir installé TeamViewer, l'utilisateur devra communiquer son identifiant et son mot de passe TeamViewer pour que vous puissiez prendre la main sur son PC. Pour que vous et votre interlocuteur puissiez utiliser TeamViewer, il est nécessaire que le logiciel soit installé sur les deux PC.
+
+**Mise en situation :**
+
+Vous serez amené à utiliser ce type de logiciel dans le cadre d'un appel téléphonique. Après avoir pris contact avec l'utilisateur en difficulté, vous pourrez lui demander s'il accepte que vous preniez la main sur son PC. S'il accepte, vous pourrez alors essayer de le dépanner ainsi.
+
+**L'installation de TeamViewer :**
+
+Pour être utilisé, TeamViewer doit être installé sur les deux ordinateurs (celui de l'intervenant et celui de l'utilisateur). Bien sûr, le logiciel TeamViewer ne peut être utilisé qu'en cas de panne logicielle ou de problème système. Si la panne est d'origine physique, il sera impossible de régler le problème à l'aide de TeamViewer.
+
+**Pour installer TeamViewer, rendez-vous sur le site de l'éditeur :**
+
+[TeamViewer](https://www.teamviewer.com/fr/telecharger/windows/)
+
+Téléchargez la version qui correspond à votre ordinateur.
+
+![][image35]
+
+### ***Méthode*****Prenez la main sur le PC de votre interlocuteur**
+
+Une fois le logiciel installé, lancez-le.
+
+Sur la droite de la fenêtre du logiciel, vous trouverez un espace dédié au contrôle d'un ordinateur à distance. C'est cette partie que vous allez utiliser pour prendre le contrôle sur l'ordinateur de votre interlocuteur.
+
+![][image36]
+
+### ***Méthode***
+
+Une fois que votre interlocuteur a installé TeamViewer sur son PC, demandez-lui de lancer le logiciel.
+
+Ensuite, demandez-lui de vous communiquer les identifiants qui se trouvent sur la colonne du milieu de la fenêtre.
+
+![][image37]
+
+### ***Méthode***
+
+* Entrez l'identifiant dans la partie « ***Contrôler un ordinateur distant*** ».  
+* Sélectionnez « ***Contrôle à distance*** ».  
+* Appuyez sur le bouton « ***Connecter*** ».  
+* Une fenêtre s'ouvre en vous demandant le mot de passe.  
+* Rentrez le mot de passe, puis validez.
+
+Vous êtes maintenant connecté sur l'ordinateur de votre interlocuteur. Une fois connecté, vous pouvez contrôler l'ordinateur de votre interlocuteur.
+
+**Processus de traitement de ticket sur GLPI:**
+
+Le logiciel **GLPI** est un logiciel de gestion de services informatiques et de gestion de services d'assistance. Il offre plusieurs possibilités, comme la gestion d'un parc matériel et logiciel, il permet d'effectuer des maintenances, de visualiser les matériels en stock, de traiter des demandes d'assistance des utilisateurs, de faire du suivi de projet, etc.
+
+Ici, nous allons nous intéresser au processus de traitement d'un ticket, de sa création à la clôture du ticket.
+
+Lorsqu'un utilisateur rencontre des difficultés, il cherche à contacter l'assistance informatique. Dans le cadre d'une grande entreprise, ce sont des dizaines ou des centaines d'utilisateurs qui ont besoin d'un technicien la même journée. Pour gérer ce flux, il est important de créer une file d'attente, dans laquelle vous pourrez gérer les problématiques de chacun de façon ordonnée.
+
+**GLPI** est une bonne solution pour gérer ce flux. En effet, les utilisateurs ou les techniciens peuvent entrer les informations liées à la panne dans un formulaire, lors de la création d'un ticket.
+
+Lorsqu'un utilisateur rencontre un problème, deux possibilités s'offrent à vous :
+
+* L'utilisateur crée le ticket lui-même.  
+* Vous créez le ticket à la place de l'utilisateur, en écoutant ses demandes.
+
+### ***Méthode***
+
+Pour créer un ticket, rendez-vous dans « ***Assistance*** » → « ***Créer un ticket*** ».
+
+![][image38]
+
+Une fois que vous avez lancé la création d'un nouveau ticket, vous pouvez entrer les informations nécessaires à la résolution du ticket.
+
+L'outil de création de nouveaux tickets offre la possibilité de renseigner de nombreuses informations.
+
+Les principales sont les suivantes :
+
+* La date d'ouverture : le « *08 Octobre 2021 à 12 h 00* ».  
+* Le demandeur : l'utilisateur GLPI.  
+* La source de la demande : « ***Helpdesk*** ».  
+* L'urgence : « ***Haute*** ».  
+* L'impact : « ***Moyen*** ».  
+* La description : « *Impossible de lancer le logiciel de comptabilité* ».
+
+Une fois ces paramètres ajoutés, vous pouvez appuyer sur le bouton « ***Ajouter*** », cela vous permettra de soumettre votre demande.
+
+![][image39]
+
+Une fois le ticket enregistré, si vous vous rendez dans « ***Nouveau*** », vous pourrez voir ce ticket apparaître. Vous pouvez cliquer dessus pour l'ouvrir, voir ses détails et l'attribuer à un technicien.
+
+![][image40]
+
+Pour attribuer le ticket à un technicien, cliquez sur « ***Attribuer*** », puis choisissez un technicien. Ici, c'est le technicien « *tech* ».
+
+Cliquez sur « ***Sauvegarder*** ».
+
+![][image41]
+
+Le statut du ticket passera alors de « ***Nouveau*** » à « ***En cours*** ». C'est à ce moment-là que le technicien va commencer son travail d'investigation et de résolution du problème.
+
+![][image42]
+
+Une fois le problème résolu, le technicien pourra passer l'incident du statut « ***En cours*** » à « ***Résolu*** » ou « **Fermé** ». S'il le souhaite, il pourra ajouter un commentaire expliquant comment le problème a été résolu.
+
+![][image43]
+
+Sur l'écran d'accueil, tous les tickets sont passés au statut « ***Résolu*** ».
+
+![][image44]
+
+**Mise en situation:**
+
+Lorsqu'un utilisateur rencontre un problème, il doit créer un ticket dans GLPI. Tous les jours, vous regardez sur GLPI quels sont les « ***Nouveaux tickets*** ».
+
+Vous constatez qu'un nouveau ticket est ouvert. Vous passez la souris dessus et lisez le message suivant :
+
+### ***Exemple***
+
+Bonjour,
+
+Je n'arrive pas lancer le logiciel de comptabilité.
+
+Lorsque je le lance, mon ordinateur affiche un message d'erreur.
+
+Pouvez vous m'aider ?
+
+Merci.
+
+Vous décidez de vous attribuer le ticket. Le ticket passe au statut « ***En cours*** » et vos collègues pourront voir que le ticket vous a été attribué.
+
+Maintenant, il vous faut contacter l'utilisateur pour mener une investigation et choisir quelle méthode de dépannage utiliser.
+
+Vous pouvez contacter l'utilisateur par téléphone et commencer par l'écouter expliquer son problème. Une fois qu'il a fini de s'exprimer, vous pouvez le questionner pour obtenir plus d'informations, par exemple : « *Qu'est-il écrit sur le message d'erreur ?* »
+
+Une fois que vous aurez obtenu suffisamment d'informations, vous pourrez décider de la méthode de dépannage que vous souhaitez utiliser.
+
+Dans le cadre de cette erreur, la méthode de dépannage la plus adaptée peut être la méthode de dépannage descendant, puisque le problème semble applicatif.
+
+La méthode par *essai / erreur* pourrait également être employée.
+
+### ***Exemple***
+
+***![][image45]***
+
+[Source](https://www.oreilly.com/library/view/ccnp-routing-and/9780133149906/ch01lev3sec4.xhtml)
+
+Après avoir réfléchi, vous comprenez que, pour résoudre le problème, il faut mettre à jour le logiciel. Après vous être mis d'accord avec votre interlocuteur, vous pouvez lancer le logiciel TeamViewer et prendre le contrôle de son ordinateur.
+
+À ce moment-là, vous tentez de résoudre le problème en mettant à jour le logiciel.
+
+Une fois le problème résolu, vous pouvez raccrocher et laisser votre interlocuteur reprendre son activité.
+
+Connectez-vous sur GLPI et passez le ticket de « ***En cours*** » à « ***Résolu*** ». Ajoutez un commentaire renseignant la solution au problème.
+
+Le problème de l'utilisateur est maintenant résolu.
+</details>
+
+<details>
+<summary>
+
+**La gestion des situations difficiles dans le cadre d’une relation à distance:**
+</summary>
+
+**Anticiper les situations difficiles:**
+
+### ***Contexte***
+
+La relation client permet de renforcer la satisfaction du client par la qualité de son écoute et de la réponse à ses attentes. En tant que conseiller de la relation client à distance, vous serez les interlocuteurs privilégiés des clients en représentant l’entreprise. Vos missions principales seront de satisfaire les clients et de les fidéliser, de répondre à leurs besoins et attentes, de gérer les problèmes.
+
+Dans le cadre de problèmes clients, d’incidents et de réclamations, les clients vont exprimer généralement un mécontentement vis-à-vis de l’entreprise. En tant qu’interlocuteur principal, vous pouvez être amené à gérer ces situations difficiles.
+
+D’après une étude (PEGA 2020), « *81 % des entreprises affirment que les problèmes relationnels constituent le plus grand obstacle à la mise en place d’une expérience client de qualité* ». De ce fait, il est fondamental pour les conseillers à distance de pouvoir prévenir, anticiper et gérer les situations difficiles dans le cadre d’une relation client à distance.
+
+### **Connaissance client**
+
+#### **La qualité de la relation client**
+
+De nombreux éléments peuvent causer une insatisfaction client : des délais de livraison longs, des prix élevés, un problème de facture, un défaut de produit, etc. Même si un client va exprimer un mécontentement sur un point, vous devez vous assurer de conserver une qualité de service client optimale.
+
+Un client insatisfait du service client ne sera pas fidèle et se dirigera très probablement vers la concurrence s’il en a la possibilité. Étant donné que les consommateurs sont aujourd’hui très connectés à Internet et qu’ils n’hésitent pas à donner leurs avis, une mauvaise réputation viendra vite impacter l’image de l’entreprise.
+
+Bien connaître vos clients reste le point de départ de la relation client. De ce fait, vous devez utiliser tous les outils de la relation client (comme le logiciel GRC) vous permettant d’analyser les informations concernant le client « *mécontent* ». Ces informations peuvent être sa typologie, ses historiques d’achat, les anciens échanges, etc.
+
+Cependant, il est également essentiel d’analyser des éléments qui ne sont pas issus de données dans la gestion d’une situation difficile ; il s’agit des émotions ressenties par le client sur l’instant T. En effet, le contexte et l’influence de l’environnement vont jouer un rôle fondamental.
+
+#### ***Fondamental***
+
+####     **L’analyse des émotions du client**
+
+Les émotions négatives que peut ressentir un client mécontent :
+
+* **De la colère** par rapport à des attentes, des engagements non respectés (exemple : un prix négocié non respecté pour un client professionnel). Il faudra dans ce cas faire preuve d’écoute active et traiter son problème/sa réclamation.  
+* **De la frustration**. Il attend donc des excuses de la part de l’entreprise (exemple : une réclamation non traitée).  
+* **De la déception.** Il ne fera plus confiance à l’entreprise.
+
+L’émotion ressentie du client ne sera pas toujours exprimée clairement, mais s’il éprouve ces trois émotions, il deviendra le détracteur de l’entreprise.
+
+*Par exemple : un client ne vous énoncera pas clairement au téléphone « je suis en colère », mais certainement hausser le ton (parler avec force, par colère ou mépris ou pour affirmer son autorité).*
+
+Vous devez donc analyser l’émotion ressentie par le client et détecter les raisons de son insatisfaction.
+
+#### ***Complément***
+
+La plateforme Q°emotion propose des outils aux entreprises permettant de réduire le taux d’attrition, en analysant les émotions des clients durant le parcours d’achat. L’objectif est d’identifier les émotions négatives (colère, frustration, déception) qui peuvent pousser les clients à partir.
+
+![][image46]
+
+### **Principales causes d’insatisfaction client**
+
+Les principales causes d’insatisfactions et de mécontentements dans les centres de contact sur le service client sont généralement :
+
+* **Le délai d’attente** : le temps d’attente moyen dans un centre d’appel (appelé aussi vitesse de réponse moyenne) correspond au temps moyen pendant lequel un appel entrant reste en file d’attente ou en attente de rappel, si cette fonction est active dans votre Serveur Vocal Interactif (SVI).  
+* **L’échange humain** : les outils à distance comme le self care, les tchatbots peuvent apporter des réponses rapides aux clients, mais certains peuvent ressentir de la frustration face à eux. De plus, pour des demandes spécifiques, les clients doivent être en mesure d'échanger avec une personne.  
+* **Les erreurs d’interlocuteurs** : échanger avec un téléconseiller en lui exposant le problème et se voir répondre « *vous ne vous êtes pas adressé au bon interlocuteur* » constitue un motif de mécontentement assez fréquent des clients dans un centre d’appel.  
+* **Le manque de compétences des conseillers** : les clients ont accès à plus d’informations et leur degré de connaissances augmente. Le niveau de compétence des conseillers doit s’élever en conséquence, pour répondre à leurs exigences de plus en plus pointues.  
+* **Devoir rappeler plusieurs fois** : à l'ère de l’instantanéité, le client est de plus en plus exigeant, il veut sa réponse tout de suite. Cela a d’ailleurs donné naissance à l’indicateur « *first contact résolution* ». Il faut faire en sorte qu’il obtienne sa réponse au plus vite. Si ce n’est pas possible dans l’immédiat, il faut disposer d’outils qui permettent de connaître son historique, le nombre de ses demandes, leurs motifs, le nom des agents qui ont déjà répondu, etc. Ceci afin d’optimiser sa prise en charge et d’accélérer la résolution de son problème.
+
+#### ***Exemple***
+
+Dans le centre d’appel de chez Genesys, il y a une fonctionnalité qui permet à l’entreprise de lui proposer un conseiller avec lequel le client a déjà été en contact. Cela est rassurant pour le client et montre également une continuité de service client.
+
+### **Répondre aux différentes réclamations clients**
+
+#### ***Définition***
+
+La réclamation client est l’expression de son mécontentement, sa déception d’une entreprise et dont il demande le traitement. Il peut s’agir de la demande de réparation d’un préjudice ressenti (remboursement, geste commercial, bon de réduction, etc.) ou d’une action correctrice liée à l’offre de produit ou service (modification produit par exemple).
+
+#### ***Complément***
+
+La norme ISO 9001 concerne le traitement des réclamations. Elle indique que l’entreprise doit mettre en œuvre des processus efficaces permettant d’améliorer la relation client et de comprendre les causes de la réclamation.
+
+#### ***Méthode*****Gérer les réclamations clients**
+
+Vous devez en premier lieu identifier le type de réclamation qui justifie le « *mécontentement* » du client si tel est le cas. Les réclamations concernent généralement :
+
+* Un non-respect du contrat (prix différent, conditions générales de vente non respectées, etc.),  
+* Les services (erreur ou retard de livraison, non prise en charge en SAV),  
+* Un problème sur le produit (défaut de fonctionnement, mauvaise qualité, rupture de stock, etc.),  
+* Le personnel (conseillers indisponibles, pas à l’écoute, incompétents, désagréables, etc.).
+
+Afin de traiter au mieux la réclamation du client en conservant une bonne image de l’entreprise, vous devez identifier le profil du réclamant (le client qui émet la réclamation). Le niveau d’insatisfaction d’un client est assez difficile à cerner, car il va dépendre de son comportement.
+
+On distingue 4 profils de réclamants en fonction du ressenti (et de ses émotions) du client, mais également de l’enjeu (en fonction de la « *gravité* » du préjudice subi).
+
+![][image47]
+
+#### **Affectif**
+
+Le client hausse le ton et va employer des mots rudes par mail ou téléphone pour une raison qui n’est pas réellement très lourde de conséquences. Il souhaite être considéré et attend une reconnaissance de votre part.
+
+**Ressenti fort / Enjeu faible**
+
+#### ***Méthode***
+
+Vous devez faire preuve d’écoute active (écouter réellement le client) en reformulant et en prenant en compte sa demande.
+
+#### **Procédurier**
+
+Il s’appuie sur des procédures, des règlements et va se manifester pour des détails. Il attend d’être rassuré et des réponses précises et professionnelles.
+
+**Ressenti faible / Enjeu faible**
+
+#### ***Méthode***
+
+Il faut également l’écouter, prendre en compte sa demande et lui répondre à l’aide des règlements, des conditions générales, etc.
+
+#### **Opportuniste**
+
+Il expose une réclamation non fondée (non basée sur des faits précis) et n’est pas réellement insatisfait. L’objectif est d’obtenir un geste commercial de la part de l’entreprise.
+
+**Ressenti faible / Enjeu fort**
+
+#### ***Méthode***
+
+Rester courtois, neutre et lui expliquer concrètement à l’aide de preuves que sa demande ne peut pas être prise en compte.
+
+#### **Sincère**
+
+Il argumente un mécontentement assez fort par rapport à une insatisfaction fondée (justifiée). Il cherche à récupérer son « *dû* ».
+
+**Ressenti fort / Enjeu fort**
+
+#### ***Méthode***
+
+Vous devez l’écouter attentivement et répondre efficacement à sa demande.
+
+**Gérer les situations difficiles:**
+
+### **Répondre aux clients en colère**
+
+Il n’est jamais facile de devoir faire face à un client en colère même en relation à distance. Afin de gérer efficacement ces situations difficiles, il convient de cerner la typologie du client et d’adapter son comportement.
+
+Dans tous les cas, vous devez écouter ce que reproche le client pour identifier son problème et le traiter si cela est possible. Veillez bien à rester calme. Une fois son problème compris, reformulez-le et faites-lui une proposition pour le satisfaire si l’entreprise est en tort.
+
+#### ***Exemple***
+
+***Client*** : « *Bonjour, je devais recevoir mon colis en 48 h, mais cela fait une semaine et je n’ai toujours rien reçu \! Vous êtes des incompétents dans cette société \!* »
+
+***Conseiller*** : « *Bonjour Monsieur X, je suis désolée pour ce retard. Je viens effectivement de trouver votre commande qui va être expédiée demain. Je vous propose une remise de 20 % sur le montant de la commande pour nous excuser.* »
+
+Nous pouvons distinguer deux types de clients dans les situations difficiles : le client autoritaire et agressif. Identifier et connaître ces profils va vous permettre de gérer au mieux la situation.
+
+#### **Client autoritaire**
+
+Le client autoritaire donne des ordres et va chercher à vous déstabiliser. Il peut « *abuser* » de son statut de client et va chercher à obtenir un maximum d’avantages. Ce type de client va utiliser des phrases affirmatives et l’impératif.
+
+#### ***Exemple***
+
+####     **Client**
+
+« *Je suis client dans votre société depuis 10 ans \! Vous devez me répondre rapidement au téléphone, ce n’est pas compliqué pourtant \!* »
+
+#### ***Méthode***
+
+####     **Attitude à adopter**
+
+* Laisser le client s’exprimer,  
+* Ne pas le contredire,  
+* Le valoriser,  
+* Ne pas lui imposer les choses, mais lui donner le choix entre plusieurs solutions.
+
+#### ***Exemple***
+
+####     **Conseiller**
+
+« *Bonjour Monsieur X, effectivement vous êtes un client fidèle et nous vous en remercions. En quoi puis-je vous aider ?* » / « *Nous faisons notre maximum pour vous répondre rapidement* »
+
+#### **Client agressif**
+
+Le client agressif va chercher à vous menacer de contacter vos supérieurs s’il y a un problème. Il peut facilement vous accuser d’une faute non commise et demander le remboursement de sa commande. Il va énoncer beaucoup de critiques en haussant le ton, mais ne va pas vous écouter.
+
+#### ***Exemple***
+
+####     **Client**
+
+« *Si vous ne me remboursez pas, j’appelle votre direction pour me plaindre \!* »
+
+#### ***Méthode***
+
+####     **Attitude à adopter**
+
+* Éviter la confrontation,  
+* Ne pas se laisser déstabiliser face à l’agressivité (prendre du recul et rester neutre),  
+* Reformuler son problème,  
+* Adopter un bon ton : rester calme et empathique.
+
+#### ***Exemple***
+
+####     **Conseiller**
+
+« *Si je comprends bien, vous rencontrez un problème concernant votre facture ou votre produit ? Pouvez m’expliquer de quoi s’agit-il pour que je puisse vous aider ?* »
+
+Afin de rester neutre et calme face à un client agressif, vous pouvez suivre ce processus en 5 étapes.
+
+**1\. Avoir un bon état d’esprit**
+
+La première étape est de vous placer dans un état d’esprit axé sur la qualité du service client. Cela signifie que vous devez mettre de côté toutes les émotions que vous pourriez avoir face à une situation difficile. Gardez bien en tête que ce n’est pas votre faute \! Vous devez simplement réaliser que le client est contrarié et que vous devez résoudre son problème.
+
+**2\. Pratiquer l’écoute active**
+
+L’étape la plus importante de ce processus consiste certainement à écouter activement ce que le client dit. Un client mécontent veut être entendu et pouvoir s’exprimer. Ne l’interrompez pas et donnez toute votre attention au client.
+
+Vous pouvez commencer l’échange à l’aide d’une question ouverte, comme : « *Pouvez-vous m’expliquer ce qu’il s’est passé ?* ». Cela instaure subtilement un partenariat entre vous et votre client et lui permet de savoir que vous êtes prêt à écouter.
+
+**3\. Repérer les problèmes du client**
+
+Après que le client vous a expliqué les raisons de son mécontentement, vous devez repérer le problème pour pouvoir le régler. N’hésitez pas à reformuler les propos du client, et à lui poser des questions pour préciser ses dires.
+
+Vous devez utiliser une formulation calme et objective. Par exemple : « *Si je comprends bien, vous êtes, à juste titre, contrarié de ne pas avoir reçu la commande que nous vous avions promise la semaine dernière* ».
+
+En répétant le problème, vous indiquez au client que vous l’écoutez. Cela peut réduire son niveau de stress et sa colère.
+
+#### ***Remarque***
+
+La reformulation consiste à ré-exprimer avec ses propos ce que vous énonce le client. La reformulation permet en effet de montrer au client que vous avez fait preuve d’écoute active. Vous vous assurer que vous avez bien cerné le problème et elle peut également permettre de « *dédramatiser* » la situation.
+
+#### ***Méthode***
+
+**4\. Faire preuve d’empathie**
+
+Après avoir cerné le problème du client, vous devez vous montrer empathique. Ou en d’autres termes, se mettre à la place de votre client. Montrez-lui que vous le comprenez et assurez-vous d’utiliser un comportement verbal et paraverbal adapté (ton, élocution, rythme de voix).
+
+Par exemple : « *Je comprends pourquoi vous êtes contrarié. Je le serais aussi. Je suis vraiment désolé que vous n’ayez pas reçu votre commande à temps* ».
+
+**5\. Proposer des solutions**
+
+Si vous n’êtes pas sûr de savoir ce que votre client veut de vous, ou s’il résiste à la solution proposée, donnez-lui le pouvoir de résoudre les problèmes. Demandez-lui d’identifier ce qui le rendra satisfait.
+
+Par exemple : « *Je vous propose de contacter directement le transporteur et de revenir vers vous pour vous donner un jour et un horaire précis de livraison. Si cela ne fonctionne pas, je peux vous renvoyer la commande en livraison express 24 h* ».
+
+#### ***Conseil***
+
+####     **Maîtriser un client difficile au téléphone**
+
+Même si votre client est furieux, voire agressif, vous devez à tout prix rester calme et courtois pour éviter l’escalade. Faites comprendre à votre client que vous voulez l’aider et résoudre son problème, laissez-le parler en lui demandant de le faire calmement pour traiter sa demande.
+
+### **Méthode DIVAS**
+
+La méthode DIVAS (Débit \- Intonation \- Volume \- Articulation \- Sourire) est le point de départ d’une relation client réussie. Dans la gestion des situations difficiles, vous pouvez être amené à utiliser cette technique. L’objectif est d’éviter le conflit avec le client. Pour cela, la communication verbale et paraverbale sera l’ingrédient principal de votre relation client.
+
+![][image48]
+
+#### **D pour Débit**
+
+Il s’agit de la vitesse d’élocution. Vous ne devez pas, en effet, avoir un débit trop rapide et donc parler trop vite. Le client doit pouvoir vous comprendre directement sans vous faire « *répéter* ». À l'inverse, un débit de parole trop lent risque d’énerver encore plus le client mécontent.
+
+L’élocution courante est de 180 mots/minute. Au téléphone, il est possible de descendre ce débit à environ 140 mots/minute. Vous devez tout simplement vous entraîner en vous chronométrant afin de cerner si vous avez un débit de parole courant.
+
+#### **I pour Intonation**
+
+Toutes les informations que vous communiquez vont permettre de relever des émotions (colère, joie, indifférence, tristesse, etc.). Une voix monocorde va être mal perçue par le client. Vous devez utiliser des ponctuations et de l’intonation afin de transmettre notamment de l’empathie aux clients.
+
+#### **V pour Volume**
+
+Le volume sonore est aussi important. Vous ne devez pas parler trop fort, mais ni trop bas non plus pour que le client ait une bonne compréhension de votre réponse. Cependant, vous pouvez réduire le volume sonore pour détendre la situation et pour « *calmer* » le client. En effet, si un client « *hurle* » au téléphone, vous pouvez lui répondre avec un volume plus bas pour qu’il se mette à porter et puisse peut-être réduire son volume lui aussi.
+
+#### **A pour Articulation**
+
+Une mauvaise articulation peut être source de confusion et de mauvaise compréhension. Il faut en effet bien articuler et bien « *détacher* » les mots pour avoir une prononciation claire.
+
+#### **S pour sourire**
+
+Le sourire s’entend au téléphone. Vous devez donc l’utiliser afin de donner de la chaleur dans l’échange quand la situation s’y prête. Bien entendu, l’objectif n’est pas de sourire et encore moins de rire quand un client exprime son mécontentement, mais de sourire à l’issue de l’échange afin de vous montrer agréable.
+
+**Essentiel:**
+
+Pour gérer les situations difficiles, vous devez :
+
+* Améliorer la connaissance client à l’aide des outils de la relation client  
+* Analyser les émotions négatives ressenties par le client  
+* Repérer la cause de son insatisfaction  
+* Identifier le profil de réclamant  
+* Adopter un état d’esprit neutre sans exprimer d’émotions  
+* Faire preuve d’écoute active  
+* Reformuler ses propos  
+* Rester calme et courtois  
+* Traiter sa demande et lui proposer des solutions  
+* Utiliser la méthode DIVAS
+</details>
+
+<details>
+<summary>
+
+**Rédiger des comptes rendus d’intervention:**
+</summary>
+
+### ***Contexte***
+
+Dans ce cours, nous verrons quels sont les points clés pour bien rédiger des comptes rendus d’intervention dans le domaine IT et quels outils utiliser pour les présenter en se positionnant dans un centre de support informatique.
+
+### **L’objectif**
+
+Au terme de ce cours, vous aurez une vision globale sur la rédaction des comptes rendus d’intervention et de son intérêt.
+
+### ***Rappel***
+
+###     **Le rôle d’un Helpdesk au sein de la DSI**
+
+La popularisation des ordinateurs personnels dans les années 80 a augmenté le nombre d'utilisateurs et le besoin d'assistance également.
+
+Les entreprises ont commencé à mettre en place des centres de support informatique dédiés, avec des équipes spécialisées dans l'assistance technique et le support utilisateur.
+
+Au fil du temps, les helpdesks se sont développés pour inclure des outils de gestion des tickets, des bases de connaissances, des solutions en libre-service et des options de support en ligne car ils permettent de maintenir la productivité et la satisfaction des utilisateurs en résolvant rapidement les problèmes techniques.
+
+**Les principaux acteurs du support informatique sont :**
+
+**Les techniciens** : ils sont chargés de répondre aux demandes d'assistance des utilisateurs, de diagnostiquer les problèmes et de fournir des solutions ou des conseils pour les résoudre. Ils peuvent travailler par téléphone, par courrier électronique ou en personne.
+
+**Les spécialistes techniques** : ils peuvent être appelés pour résoudre des problèmes plus complexes ou pour fournir des conseils sur des problèmes spécifiques.
+
+**Les superviseurs** : ils sont responsables de la supervision des techniciens et de la gestion des demandes d'assistance. Ils peuvent aider à résoudre des problèmes plus complexes ou superviser des projets spécifiques.
+
+**Les responsables de la gestion des problèmes** : ils sont responsables de la gestion des incidents et des problèmes, et de la coordination avec les équipes techniques pour résoudre les problèmes.
+
+Les acteurs des centres de support informatique sont responsables de fournir un service d'assistance technique ou informatique de haute qualité aux utilisateurs, en diagnostiquant et en résolvant les problèmes liés aux logiciels, matériels ou systèmes informatiques. Ils doivent également assurer une communication efficace avec les utilisateurs et les autres équipes techniques, suggérer des mesures pour améliorer la qualité du service et pour se faire les comptes rendus d’intervention sont indispensables.
+
+**Attentes et exigences des comptes rendus d’intervention:**
+
+**Introduction:**
+
+### ***Définition***
+
+Les comptes rendus d'intervention en IT sont des documents essentiels pour documenter les activités, les problèmes résolus et les mesures prises dans le domaine IT. Ils sont généralement utilisés pour suivre les progrès, partager les informations avec les parties prenantes et créer un historique des événements.
+
+**Les attentes des destinataires des comptes rendus (superviseurs, équipes techniques, etc.):**
+
+### **Les attentes**
+
+Les comptes rendus IT doivent être adaptés aux attentes spécifiques de chaque destinataire. Ils doivent fournir des informations pertinentes, précises et claires pour permettre une compréhension complète de l'intervention, de ses conséquences et des mesures prises pour résoudre le problème.
+
+### **Attentes des Superviseurs / Managers**
+
+Les superviseurs attendent une description précise du problème, de son impact sur les opérations et de la manière dont il a été résolu.
+
+Ils souhaitent avoir une vue d'ensemble du déroulement de l'intervention, des actions prises et des résultats obtenus.
+
+Les superviseurs s'intéressent aux implications commerciales, aux coûts et aux gains liés à l'intervention, ainsi qu'aux éventuelles perturbations pour l'entreprise.
+
+Ils attendent des recommandations pour éviter de futurs problèmes similaires et pour améliorer les processus.
+
+Ils peuvent souhaiter recevoir des rapports réguliers pour surveiller les performances globales du département IT.
+
+### **Attentes des Équipes Techniques / Collaborateurs**
+
+Les équipes techniques ont besoin de détails techniques précis sur le problème, les actions entreprises et les solutions mises en place.
+
+Ils attendent une description claire des étapes suivies pour résoudre le problème, y compris les commandes, les configurations et les modifications effectuées.
+
+Ils s'intéressent aux leçons apprises, aux erreurs évitées et aux solutions novatrices qui pourraient être utiles pour résoudre des problèmes similaires à l'avenir.
+
+Ils apprécient de savoir comment leur intervention a été coordonnée avec d'autres équipes, si nécessaire.
+
+Ils attendent des annexes avec des journaux, des captures d'écran et d'autres informations techniques pertinentes.
+
+### **Attentes des Utilisateurs Finaux**
+
+Les utilisateurs finaux attendent un compte rendu dans un langage clair et compréhensible, évitant les termes techniques complexes.
+
+Ils veulent savoir que le problème a été résolu et que le service est revenu à la normale.
+
+Les utilisateurs peuvent être intéressés par des recommandations pour éviter des problèmes similaires à l'avenir, surtout s'ils peuvent y contribuer.
+
+**Les exigences spécifiques de l'organisation en termes de format, de contenu et de délais de soumission des comptes rendus:**
+
+### **Introduction**
+
+Il est important de noter que chaque organisation peut avoir des exigences spécifiques en fonction de sa culture d'entreprise, de ses politiques internes et de ses besoins opérationnels.
+
+Aujourd’hui on utilisera soit un outil en ligne mutualisé ou pour les plus anciens des logiciels de bureautique présentés dans un format standardisé sur un partage.
+
+### **Compte rendu d’intervention avec un outil numérique collaboratif**
+
+Les comptes rendus IT doivent être rédigés en utilisant les fonctionnalités de texte intégrées à l'outil mutualisé. Utilisation de la mise en forme du texte, tels que les titres et les puces, pour améliorer la lisibilité.
+
+Les comptes rendus doivent inclure une description détaillée du problème initial signalé. Les actions entreprises pour résoudre le problème doivent être enregistrées dans une séquence chronologique. Les résultats des actions entreprises, y compris les résultats des tests et les mesures de performance, doivent être documentés. Les discussions ou les interactions avec les utilisateurs finaux, les équipes techniques ou d'autres parties prenantes doivent être enregistrées.
+
+Les comptes rendus doivent être complétés et ajoutés au ticket dans un délai spécifié après la résolution de l'intervention.
+
+Le délai peut varier en fonction de la gravité du problème ou des politiques de l'organisation, mais il est généralement court pour garantir la fraîcheur des informations.
+
+Les comptes rendus IT peuvent nécessiter l'approbation du superviseur technique ou du responsable avant d'être considérés comme complets.
+
+L'outil doit permettre l'ajout de commentaires ou de validations de la part des parties prenantes concernées.
+
+Les comptes rendus IT doivent être accessibles à tous les membres de l'équipe technique qui travaillent sur le ticket. Les parties prenantes appropriées doivent pouvoir accéder aux comptes rendus pour surveiller les progrès et les résultats.
+
+L'outil doit conserver un historique complet des activités, des discussions et des modifications apportées au ticket, y compris les mises à jour du compte rendu.
+
+Il doit être possible de suivre la chronologie des actions prises depuis le début jusqu'à la résolution finale.
+
+### ***Conseil***
+
+###     **Compte rendu d’intervention avec un éditeur de texte présenté dans un format standardisé**
+
+Utilisation d'en-têtes et de pieds de page avec le nom de l'organisation, le titre du compte rendu, la date et le numéro de référence. Utilisation de sections clairement définies avec des titres et des sous-titres pour une organisation logique.
+
+* Introduction : contexte de l'intervention, objectifs et problèmes identifiés.  
+* Description détaillée des étapes prises pour résoudre le problème.  
+* Résultats des actions entreprises, mesures de performance avant et après l'intervention.  
+* Analyse des causes profondes du problème, si pertinent.  
+* Mesures préventives, améliorations des processus ou des systèmes.  
+* Pièces jointes telles que des captures d'écran, des journaux de système, des rapports de test, etc.
+
+Les comptes rendus IT doivent généralement être soumis dans un délai spécifique après la résolution de l'intervention. Ce délai peut varier en fonction de la gravité du problème et des pratiques de l'organisation.
+
+Certains comptes rendus IT peuvent nécessiter une validation ou une approbation par des parties prenantes spécifiques avant d'être considérés comme complets. Il peut y avoir des exigences pour la signature électronique ou manuscrite d'un responsable avant que le compte rendu ne soit considéré comme officiel.
+
+Assurez-vous que les comptes rendus IT soient accessibles aux parties prenantes appropriées. Cela peut impliquer un système de gestion de documents partagés, de les envoyer par courrier électronique à des destinataires spécifiques, ou de les présenter lors de réunions pertinentes.
+
+Utilisation d'un langage clair et simple, adapté au public cible (technique ou non technique).
+
+Éviter l'utilisation excessive de jargon technique, sauf si le public comprend ces termes.
+
+**Les conséquences d'une mauvaise rédaction ou d'un manque d'informations dans les comptes rendus:**
+
+### **Difficultés de suivi et de communication**
+
+L'absence d'informations claires sur les actions entreprises et les résultats obtenus peut rendre difficile le suivi des progrès et la résolution complète des problèmes.
+
+Cela peut entraîner des malentendus, des retards dans la résolution et une frustration pour toutes les parties concernées.
+
+Supposons qu'une entreprise rencontre un problème majeur avec son serveur de messagerie électronique, ce qui entraîne des retards dans la communication interne et externe. L'équipe IT est chargée de résoudre ce problème rapidement pour minimiser les perturbations pour les employés et les clients.
+
+* L'équipe IT signale que le problème du serveur de messagerie est « *en cours d'examen* » sans fournir de détails spécifiques sur la nature du problème ni sur les actions entreprises jusqu'à présent.  
+* Quelques heures plus tard, l'équipe IT mentionne qu'elle « *travaille sur le problème* » sans préciser quelles étapes concrètes ont été entreprises pour résoudre le problème.  
+* Le lendemain, une mise à jour indique que l'équipe IT « *continue de surveiller la situation* ». Il n'y a toujours pas d'informations sur les progrès réalisés ou sur les actions spécifiques entreprises pour résoudre le problème.
+
+Cette communication vague et manquant de détails peut entraîner plusieurs problèmes dans le domaine IT :
+
+Les parties prenantes, y compris les employés et les clients, ne comprennent pas la gravité du problème ni ce qui est fait pour le résoudre. Ils peuvent imaginer le pire et spéculer sur la durée de l'indisponibilité du service.
+
+En l'absence d'informations spécifiques sur les actions à entreprendre, il peut y avoir des retards dans la résolution du problème. Les membres de l'équipe IT peuvent ne pas être pleinement informés des progrès réalisés et des étapes suivantes à franchir.
+
+Les utilisateurs et les parties prenantes peuvent devenir frustrés par le manque de transparence et de communication proactive. Ils peuvent également perdre confiance dans la capacité de l'équipe IT à résoudre efficacement le problème.
+
+### **Perte d'historique et de connaissances**
+
+Un manque d'informations ou une rédaction imprécise peut entraîner la perte de détails importants sur les problèmes résolus et les solutions mises en place. Cela rendra difficile la compréhension des interventions passées ou la prise de décisions éclairées à l'avenir.
+
+Une mauvaise rédaction peut entraîner une perte de connaissances précieuses qui pourraient être utiles pour résoudre des problèmes similaires à l'avenir.
+
+#### ***Exemple***
+
+Supposons qu'une entreprise rencontre un problème de sécurité informatique sérieux. Un analyste de sécurité de l'entreprise, Axelle, est chargé de résoudre le problème et de documenter la solution pour référence future. Cependant, en raison d'une rédaction imprécise et d'un manque de détails dans le rapport de résolution du problème, les informations cruciales sont omises. Voici ce qui se passe :
+
+Elle identifie une faille de sécurité dans le pare-feu de l'entreprise qui permettait un accès non autorisé aux serveurs internes. Elle parvient à résoudre le problème en appliquant un correctif de sécurité et en mettant en place de nouvelles règles de pare-feu. Elle rédige un rapport de résolution de problème, mais il est vague et ne contient pas de détails techniques sur la faille de sécurité ni sur les mesures spécifiques prises pour la corriger. Le rapport se contente de mentionner que le problème a été résolu en mettant à jour le pare-feu. Le rapport est archivé sans fournir suffisamment d'informations pour comprendre pleinement la nature du problème, les étapes de résolution spécifiques ou les raisons pour lesquelles certaines décisions ont été prises. Les détails techniques manquent, ce qui complique la compréhension de l'intervention pour les futurs analystes de sécurité. Quelques mois plus tard, une situation similaire se produit, mais avec un pare-feu différent. Les analystes doivent résoudre un problème de sécurité similaire, mais ils ne peuvent pas tirer parti de l'expérience passée d'Axelle car les informations précieuses sont manquantes.
+
+### **Inefficacité des processus et impacts sur les décisions**
+
+Les équipes techniques peuvent perdre du temps à rechercher des informations manquantes ou à déchiffrer des descriptions ambiguës, ce qui peut retarder la résolution des problèmes.
+
+Des informations incorrectes ou manquantes peuvent conduire à des décisions basées sur des données incomplètes ou inexactes, ce qui pourrait avoir des conséquences négatives à long terme.
+
+Si les comptes rendus ne fournissent pas suffisamment d'informations sur la résolution des problèmes, les utilisateurs finaux pourraient être insatisfaits et avoir le sentiment que leurs problèmes ne sont pas pris au sérieux.
+
+#### ***Exemple***
+
+Supposons qu'une entreprise de taille moyenne utilise un système de gestion des relations client (CRM) pour suivre ses interactions avec les clients. Les employés ont signalé un problème avec le CRM, affirmant que certaines données clients ne sont pas correctement enregistrées dans le système, ce qui entraîne des erreurs de facturation et des retards dans le service client.
+
+Un technicien du support technique, John, est chargé de résoudre le problème. Après quelques jours d'investigation, il parvient à identifier la source du problème : un bug dans la dernière mise à jour du logiciel CRM, qui provoque des erreurs de saisie de données.
+
+Cependant, lorsqu'il rédige son rapport de résolution de problème, John omet de fournir certains détails importants, notamment :
+
+John ne décrit pas en détail la nature spécifique du bug, comment il affecte les données client ni comment il a été découvert. Sa description est vague.
+
+Bien que John ait réussi à résoudre le problème en rétrogradant la version du logiciel CRM à une version antérieure, il n'explique pas les étapes exactes qu'il a suivies pour rétrograder le logiciel ni comment il a vérifié que le problème était résolu.
+
+John ne formule aucune recommandation ou suggestion pour éviter que ce problème ne se reproduise à l'avenir. Il ne mentionne pas si des correctifs ou des mises à jour supplémentaires sont nécessaires.
+
+Conséquences de ce rapport de résolution de problème incomplet :
+
+* Les futurs techniciens du support technique qui pourraient rencontrer un problème similaire devront peut-être passer du temps supplémentaire à rechercher des informations manquantes pour comprendre la nature du problème et les étapes de résolution.  
+* Les responsables de l'entreprise pourraient prendre des décisions basées sur des données incomplètes concernant la résolution du problème, ce qui pourrait entraîner des problèmes récurrents.  
+* Les utilisateurs finaux, confrontés à des erreurs de facturation et à des retards dans le service client, pourraient être insatisfaits de la manière dont le problème a été traité. Ils pourraient penser que leurs préoccupations ne sont pas prises au sérieux.
+
+**Informations à inclure dans un compte rendu d’intervention:**
+
+**Éléments essentiels à inclure dans un compte rendu d’intervention (date, heure, description du problème, actions effectuées, résultats, etc.):**
+
+### **Les différents éléments à inclure dans un compte rendu d’intervention**
+
+**Détails Techniques :** fournissez des détails techniques pertinents sur les problèmes rencontrés et les solutions mises en place. Utilisez un langage clair et précis, mais évitez de vous perdre dans les détails techniques excessifs si le rapport est destiné à un public non technique.
+
+**Description des Actions Entreprises :** décrivez en détail les actions spécifiques entreprises pour résoudre le problème. Incluez les étapes, les outils utilisés, les manipulations effectuées sur le système ou le réseau, etc.
+
+**Résultats et Impact :** indiquez les résultats obtenus à la suite de l'intervention. Évaluez l'efficacité des actions entreprises et expliquez comment elles ont résolu le problème ou amélioré la situation.
+
+**Délais :** mentionnez les délais clés, tels que la durée totale de l'intervention, le moment où le problème a été signalé, les moments clés de résolution, etc.
+
+**Mesures de Suivi :** indiquez s'il y a des mesures de suivi nécessaires, telles que des vérifications périodiques pour assurer que le problème ne réapparaisse pas.
+
+**Parties Prenantes :** Identifiez les parties prenantes impliquées dans l'intervention, qu'il s'agisse d'autres membres de l'équipe IT, de clients, d'utilisateurs finaux ou de gestionnaires.
+
+**Recommandations :** si approprié, fournissez des recommandations pour prévenir des problèmes similaires à l'avenir ou pour améliorer les processus.
+
+**Documentation Additionnelle :** si des documents, des captures d'écran, des journaux ou d'autres éléments sont pertinents, incluez-les en annexe.
+
+**Clarté et Organisation :** organisez le compte rendu de manière logique et structurée. Utilisez des titres et des sous-titres pour faciliter la lecture. Assurez-vous que le rapport est clair, concis et exempt d'ambiguïté.
+
+**Langage Adapté au Public Cible :** adaptez le niveau de détail et le langage utilisé en fonction du public qui lira le compte rendu. Les parties techniques peuvent nécessiter des informations plus détaillées, tandis que les parties non techniques préféreront une explication plus simplifiée.
+
+**Signature et Validation :** terminez le compte rendu par une signature ou une validation de la part des personnes impliquées dans l'intervention, afin d'attester de son exactitude.
+
+### **Accessibilité des comptes rendus d’intervention**
+
+Les comptes rendus d'intervention doivent être stockés de manière centralisée dans un emplacement accessible à tous les membres autorisés de l'équipe IT. Cela peut être un système de gestion de documents, un intranet, un système de gestion des incidents ou un référentiel en ligne.
+
+Mettez en place des contrôles d'accès appropriés pour garantir que seules les personnes autorisées ont accès aux comptes rendus. Les niveaux de permission doivent être définis pour refléter les rôles et les responsabilités au sein de l'équipe IT.
+
+Si votre équipe IT travaille à distance ou en télétravail, assurez-vous que les comptes rendus sont accessibles en ligne ou via des outils de collaboration à distance sécurisés.
+
+Mettez en place des systèmes de recherche et d'indexation pour permettre aux membres de l'équipe de trouver rapidement les comptes rendus pertinents en fonction de critères tels que la date, le type d'intervention, le système concerné, etc.
+
+Définissez des politiques de rétention pour savoir combien de temps les comptes rendus doivent être conservés. Les comptes rendus plus anciens peuvent être archivés, mais ils doivent toujours être accessibles en cas de besoin.
+
+Utilisez des rapports et des tableaux de bord pour résumer les informations clés contenues dans les comptes rendus d'intervention. Cela permet aux parties prenantes de comprendre rapidement l'état des opérations IT.
+
+**Exemples concrets de situations d'intervention et d’identification des informations pertinentes à rapporter dans les comptes rendus:**
+
+### **Les différents contextes d’une rédaction d’un compte rendu d’intervention**
+
+La rédaction d'un compte rendu d'intervention en IT peut être nécessaire dans divers contextes, en fonction de la nature de l'intervention et des objectifs comme par exemple :
+
+**Astreinte 24/7 :** certaines entreprises ont des équipes d'astreinte disponibles 24 heures sur 24, 7 jours sur 7, pour résoudre les problèmes critiques en temps réel. Cela peut inclure la surveillance des systèmes, la réponse aux alertes de sécurité et la résolution de pannes critiques, même en dehors des heures de travail régulières.
+
+**Support interne de l'entreprise :** les équipes internes de support informatique sont responsables de la résolution des problèmes techniques pour les employés et les systèmes informatiques au sein de l'organisation. Cela peut concerner des problèmes de matériel, de logiciel, de réseau, etc.
+
+**Prestataires de services externes :** les entreprises peuvent faire appel à des prestataires de services externes pour des projets informatiques spécifiques, tels que l'installation de nouvelles infrastructures, la migration vers le cloud, la conception de réseaux, etc.
+
+**Assistance sur site :** certaines situations nécessitent une assistance sur site, où un technicien se rend physiquement sur les lieux pour résoudre un problème technique. Cela peut inclure la réparation de matériel défectueux ou la configuration de nouveaux équipements.
+
+### ***Exemple***
+
+###     **Exemple avec un éditeur de texte présenté dans un format standardisé**
+
+| Compte Rendu d'Intervention en IT : problème de Connexion Internet   Date de l'intervention : \[date\] Technicien en charge : \[nom du technicien\] Numéro de Ticket : \[numéro de ticket\]   Contexte : L'utilisateur a contacté le support technique pour signaler des problèmes de connexion internet persistants. L'équipe IT a été informée que d'autres utilisateurs dans la même zone avaient également éprouvé des difficultés de connexion.   Actions Entreprises : Nous avons commencé par vérifier les connexions physiques du routeur et du commutateur pour s'assurer qu'il n'y avait pas de câbles lâches ou déconnectés. Une analyse rapide des journaux du routeur a été effectuée pour détecter d'éventuelles erreurs ou anomalies. Nous avons exécuté des tests de ping pour mesurer la latence et la perte de paquets. Après avoir exclu les problèmes matériels, nous avons examiné les paramètres de configuration du routeur et du pare-feu pour détecter toute configuration incorrecte ou bloquante.   Résultats : Les tests de ping ont révélé une latence élevée et des pertes de paquets sporadiques, indiquant un problème potentiel sur le réseau. Après avoir analysé les journaux du routeur, nous avons identifié des messages d'erreur liés à des tentatives de connexion infructueuses.   Actions Correctives : Nous avons réinitialisé le routeur aux paramètres par défaut et reconfiguré les paramètres réseau. Les messages d'erreur suggéraient une surcharge du pare-feu, nous avons donc ajusté les règles du pare-feu pour autoriser les connexions entrantes et sortantes nécessaires. Nous avons également mis à jour le micrologiciel du routeur à la dernière version pour résoudre les problèmes de stabilité.   Vérification : Après les actions correctives, nous avons effectué de nouveaux tests de ping et constaté une amélioration significative de la latence et de la perte de paquets. Nous avons également demandé à l'utilisateur \[Nom de l'utilisateur\] de tester la connexion internet à partir de son poste de travail et avons reçu confirmation que la connexion était rétablie.   Recommandations : Il est recommandé de surveiller attentivement les performances du réseau dans les prochains jours pour s'assurer que le problème ne réapparaît pas. Envisagez de mettre en place des mesures de surveillance proactive pour détecter les problèmes de latence ou de perte de paquets à un stade précoce.   Conclusion : Le problème de connexion internet signalé par l'utilisateur \[Nom de l'utilisateur\] a été résolu avec succès grâce à la réinitialisation du routeur, à la mise à jour du micrologiciel et à la reconfiguration des paramètres réseau. L'utilisateur a confirmé que la connexion est rétablie et que les performances semblent normales. |
+| :---- |
+
+**Exemple avec un outil numérique collaboratif:**
+
+(vidéo) Intervention GLPI
+
+On va stimuler une demande d’intervention avec GLPI. Et là on se retrouve avec un utilisateur qui nus a envoyé un ticket depuis son interface où il indique: “ Bonjour, moi et mon équipe, avons des déconnexion internet à répétition depuis 2 jours,. Merci de votre intervention.”. a ce stade on est technicienne de niveau 1 et donc je vais dans un premier temps faire des petites analyses de mon niveau. Pour ce faire, j’ai un outil de supervision qui me permet de voir l’état du routeur de l’équipe de l’utilisateur. On va considérer qu’effectivement il y a bien des soucis pour la démo. On va devoir escalader cette demande. Avant ça, je vais devoir expliquer:” j’ai regardé l’outil de supervision, ou est surveiller le routeur du service du client et effectivement, les dernières données indiques des déconnexions de ce routeur” puis il faut cliquer sur la petite coche à droite qui permet de cacher cette info à l’utilisateur, puisqu’on va avoir des échanges où on explique des choses qu’il n’est pas utile de montrer à l’utilisateur final. On clique sur ajouter. Maintenant qu’on a fait notre commentaire je vais affecter/escalader le ticket à mon ami admin (dans attribué à, à droite) et enregistrer. On se connecte avec l’admin. on va dans ticket et on voit le ticket attribué à admin. Je clique dessus et on va imaginer que j’ai pu examiner l’outil de supervision et que c’est plus compliqué que ça donc je vais devoir me déplacer. Donc je vais réaliser certaines analyses dans un premier temps, donc je vais noter en tant qu’admin tout ce que je fait dans l’outils “actions analyses” et “résultats des analyses” et cocher pour cacher ces infos à l’utilisateur. On clique sur ajouter. Maintenant qu’on à analysé le probleme il va falloir trouver des solutiuons donc pareil on va indiquer toutes les actions de correction et les vérifications que mes actions ont été efficaces. Donc on remet un commentaire “j’ai réinitialiser le routeur…”, on coche et on clique sur ajouter. Là de noitre coté admin on estime que c’est ok mais on va quand même d’abord envoyer un petit message à l’utilisateur pour vérifier que de son côté tout est OK. On envoie un commentaire sans cocher. Là on va attendre que l’utilisateur nous confirme quye tout est OK, on va donc aller sur la page d’accueil de l’utilisateur dans les tickets en cours et on voit bien les messages de l’admin non cochés. L’utilisateur répond que c’est OK. Avant de cloturer le ticket le tech evnoie des recommandations et des conclusions pour éviter que le problème se reproduise dans le temps qu’on coche pour cacher car c’est pour en interne. On passe à la résolution et pas la cloture il y a toujours un délai entre les deux parce qu’il faut attendre un moment selon les entreprises entre les deux. On fait sauvegarder, c’est pour éviter de réouvrir un ticket puisque en terme de KPI ( key performance indicator) c’est vraiment pas bon. Une fois que c’est terminé on peut revenir à tout moment même sur les tickets cloturés car on a tout l’historique dans le détail. ça calcul les statistiques de résolutions TTO et TTR Temps total d’ouverture et temps total de résolution, ce sont des paramètres mis en place car il y a des délais à respecter. 
+
+**L’essentiel**
+
+La rédaction de comptes rendus en informatique (IT) est essentielle pour plusieurs raisons :
+
+**Documentation :** les comptes rendus documentent les problèmes, les actions prises et les solutions mises en place, créant ainsi un historique précieux pour référence future.
+
+**Transparence :** ils favorisent la transparence en permettant aux parties prenantes de suivre les actions entreprises et de comprendre l'état des opérations IT.
+
+**Communication :** ils améliorent la communication entre les membres de l'équipe IT, les superviseurs et les utilisateurs finaux, facilitant ainsi la résolution de problèmes et la prise de décision.
+
+**Formation :** les comptes rendus peuvent servir de ressources de formation pour les membres de l'équipe IT et les utilisateurs, en partageant les connaissances et les meilleures pratiques.
+
+**Responsabilisation :** ils responsabilisent l'équipe IT en suivant les performances et en identifiant les domaines d'amélioration.
+
+**Prévention :** ils contribuent à la prévention des problèmes récurrents en identifiant les causes sous-jacentes et en permettant la mise en place de mesures correctives.
+</details>
+  
+<details>
+<summary>
+.
+</summary>
+[image1]: <data:image/png;base64,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zjm2PXHiRLsuiTdu3Djze/zxx+065ZpdYYUVwqWXXupJFsSFNM9nn302rLHGGmHNNdcMzzzzTOa/1lprWXrt2rUL11xzjfmR97rrrmv5e95CCLEg4ONFrtBq2rRp2H///UP79u1tnxtdfOyQQw4JvXv3Do0bNza/m266qeCYO0QMILQ4vvHGG8/OPRQKrYsuusiOb7HFFmG77bYLjRo1ysoUCy0Xanfeeaftz63QYgAg3tFHH535rbTSSiYqP/7447DzzjuHM844I4pRNd9//3214nm4SsH7z7fpM9r4/fffD+utt15YZZVVws8//xzFKIRz688mtL777rtw2223pd4LBL///rtdZw0aNCiY2t92223t3KVvcD/99JP5b7TRRuHtt98Ov/76qwkf/K+//vrQrFkzaweuUa5fjj/33HPWX47Hzcvzs88+C02aNLFrkT4iHg9ycN1111kc0ltkkUWyvBFt5O95CyHEgkBJodWpUycbBB9++GETIYsttlh2bIklljABddxxx4WWLVuGWrVqhaeeeipXaPlgh9BabbXVzEK2+OKLh88//zwTWrfccovF3WOPPf5/0WYzZMgQcy60evbsaSIMeIJGtBUTWn379g1dunRJvY0ePXpYeo8++mg44YQTbJsBBNh2y5RbLw488MBw0kknmRWNAYNBCYsM9WZgii1asSg8/fTTbbBYcsklLb3YovXJJ59YW7Ru3dqe4rHyvP7667ML+D+C19W3x48fHx0N1p+IecTzCy+8YH60AZYLiIVW8+bNw6hRo2zgxaoxZcqULB344IMPLN7dd98dfvnlF8uPc4+pR+J6PAb4NC79zHnm22555b+Xi7TZji1a999/v1lp6Nfdd989HHbYYQX+XD+xf5we9YzTI3/Pm2NffvmlXR+Um3pw/XldvB3y6gJYj2LLsTN9+nT7T3ouesiT8xjRc+GFF5qVGgsSHHXUUfYfyzLC2DnggAPCsccem+2Dlw146PK4eXleccUVoXv37rMj/h877bRTOOigg2ybsnAt8P+SSy6pVt5CCPFnxceLXKGVurPPPjv32GabbRYeeeSRLMHUxRatbbbZxm7m+O+5556Z0HJr1sCBAy2sc9VVV4V+/fpl4gVrEOJk8uTJto/gKSa0SkGexN93331D27ZtTTxhbQL8Y6HVrVu3LB6WjJNPPjnbZxqymNBaffXVLQyDBPuzZs0qEFojRoywbZ7g33rrLdtGuP4v4XX17VRoHXzwwdanbkGhfZhSQrxDLLTiaSc48cQTC/aHDx8eNthgg2x/6aWXtsH96quvLohLn6dx6Wf6zcHSRpneffdd26dclAkRFwst6sP5SN5YYRz3J2zsH6dHPeP0PH/yvuOOO+y8iHnxxRerVZfqEIse+OGHH7LtHXfcMbP2MjUInKtYmh2uSR6iHB5AsHjz8AE8MHlcJxV3CDosnFiuEJF9+vSx5Qc33nijCVTuKVjMqspbCCH+zPh4kSu03DKF+OEJOT6GtQurAU+dHTp0CB9++GGWIMfycKHFzdTFB4MsoseFT69evQrisPZr8ODBBUKL/9zI+c9Nel6EFmXhJu7Tk/vtt192jP1YaO2yyy7ZsZEjR4Yrr7wy26c8xYTWVlttZWHwY58wsdBiMGMbCwZrUtjGwvO/hNfVt1OhxaB+zDHHmBhByLRp08bagOkhiIXWwgsvbPvuGJhjjj/+eLMeOWuvvbYN7pw/cVzaOo1LP8dgCaVMiBgvF2W666675lijdcMNN5jIYPrZrxP3J9/YP06PeualR94I+nh9k1OdulSHVGjFDBgwwK5DLGZc43DZZZcViFisSv3797dtxOPKK68cjjjiCGsz4rFu0+M6aZ5YkLHIrb/++mbVREClU71cl6XyFkKIPzt+f88VWnmCKT3mYoGBxhfD58UDF1rA2g2m1AiPyPr0009tv06dOll4poKYouRJPhVaCDwsBtzU50VoATds0sLFC2zZj4XWXnvtlR1jsT4DOlBfBtFiQsvrWkxoYSFk+4ILLgivvPKKTdFOmzYty+t/Aa+rb8dCCysIYgELBpZL2tFZaqml7D8DsQstzrGYr776qmAfERyHYUqWgZupp9iffNK4eUKLMiEYvFyUKRVGnKNvvPGGbZ966qmZQHR/6hj7x+lBmh640KJdYrDeVqcu1SEWPWyvs8462THEL4IwviZYFuDT38CDEg8cTH3SLvEieOLtuuuu2b4T54kIY0qRawg23HBDa28s2zFYPD1vD+t5CyHEgoDf3+dZaAE3VoQP665cuKQOkRULLWB6gHTitw5Zq8U0AtMKDDgXX3yx+cdCa++997ZtpmugmNBygVMMbtxMG8ZTgUCcYkILsOBhheJFABYRs9ZqXoQWIK6oZ6tWrXItGAs6cV3j8wFBjQWE9gCmVTl/ECK0t1sDsaZyLnAeMKgzyCLOaK88sBxxTnEO8UabW0iI6/HOPPPMJFa+0KJMrAf0clEmpsFjYcQ5RBkRG6w5QjDH/licYv84PeqZpud5+2J74mJ1ZYrahU/cDnl1AdqAN2iLkVqXnn76aZsiJx7rFoGHiBjWbfFwQ5gnnnjC/OI+dUe8eBrWSfNkapTrD2vVa6+9lvkz5U4+WMm4HwB5Ew5/z1sIIRYE/P5eILREcXgKj9+C23rrrbO1XWJOdE4JIYSoZCS05hKe1Fkjw7TfaaedZtuiODqnhBBCVDISWvMAUztMTeF8ikvko3NKCCFEJSOhJcqKzikhhBCVjISWKCs6p4QQQlQyElqirOicEkIIUclIaImyonNKCCFEJSOhJcqKzikhhBCVjISWKCs6p4QQQlQyElqirOicEkIIUclIaImyonNKCCFEJSOhJcqKzikhhBCVjISWKCs6p4QQQlQyElqirOicEkIIUclIaImyonNKCCFEJSOhJcqKzikhhBCVjISWKCs6p4QQQlQyEloJ33zzTeolaoDOKSGEEJVMrtD69ddfbfuQQw75d8j/Y4UVVijYn1eGDx8eOnToEP71r3+lh+aZN998M9StW9e2azK4L7/88qmXqAFxX7Cduh122CE7np4X3p/FjucxderUGvX//GLixIlh3XXXDR07dgzjxo3L/LfeeutQv379sMwyy4RRo0aF119/PdSrVy/ceeedWZjRo0eHNm3ahJkzZ5Y8Rtz4GMTHiBtD3PhYXrqljlUVt1xlEkKIBZmSQuuggw4KX375ZRYYoRULGlhxxRXDfffdZwNcq1atwsorrxxatmxpN8n+/fub3z333JOF32CDDULjxo3DqquuGh544AHza926ddhrr73M/9577w3du3cPDRs2DJ06dQq33XZbFtcZP358WGONNWzAYiCDYkLr1VdfnSM/ykoZTznllNC1a9dw4oknmv9OO+0UatWqNcdAAZTlrLPOSr1FFeSJnn322ScccMABBX55/RSfZ3nHW7RoEY444oiw4YYbhlVWWcX8XGgNGzYsNGnSJJxwwglZGul5Vew8gLz8UoqdD08//XRo1qxZ+OOPP2wfwXX11Vfbecu15bz22mvZds+ePcP6669v18Kll16a+cfHvvjii5LHiJsSH8uLW+pYsfJUdbxcZRJCiAWRkkLrjTfeCLvssksWuCqh5fFvuukm2x45cmS48cYbQ7t27cyfJ1ee4kmfp3wGwilTplhYBrsPP/zQ0r/mmmuyMAyMKQyACDnCkDfp5gkt/Js3bz5Hfl7WIUOGWDiepHmi9rTzGDt2bHjnnXdSb1EF1RFaxfrJ+7PYcdIePHiwhZkxY4YJGe/bQw891Pbr1KkTXn755fD+++/PcV4VOw+K5ZdS7Hy4/PLLw3rrrZftU9djjz02nH/++eG0004L7du3D2uttVa4/fbbszBff/11WG655ULv3r0zv/QYDy0p8bG8uKWOEbfUsWLlgVLHy1UmIYRYECkptBAvDDLXXXed+VdXaPkgOGvWLNtmsAOe6mP23XdfsyIQ9tNPPzU/LBExhx9+eME+uPXC+eGHH3KFFvm5xQs8Py8rT85AenfccYdtFxNaYt6ojtAq1k/en8WO165dO/z444+Zf9++fbO+dUssfYv1Ku+8KnYeFMuvuowYMSJsscUW2X6/fv1sGn7QoEHhuOOOs3xvvvnmsOiii0axQjj66KPD/fffX+DncCyvLcGP5cUtdQxKHStVHih1vFS+pY5BqWNCCLGg4ffuokLrhhtuMPHx0UcfVVtopdsMiID1gbTcMfXXp0+fsNBCC2XpDRgwINuGc889t2AfevTokXrlCi3yW3jhhefILy4fdOnSJZuilNCav+SJg1RoFesn789ix7E6xTDtlPZtt27dwpgxY3LPqzSsnwfF8qsul112mU2RO9SVafShQ4dGoWa3g/P444+HBg0a2FTmZ5999u9A0THEWqljxE2Jj+XFLXWsWHmqOl6uMgkhxIJIlUILsA5w48Pv22+/tSfxiy66yLYRSdUVWtw4r7rqqvDbb7+FyZMn24LgK6+8MjsO06dPz6Z4nnzySRvkUpo2bWphSIcnXywSeUKL/LDIpfkVG2CBdT/ff/99dsx59NFHLQ0xd1RHaBXrJ+/PYsdJmzVaP/30U3jqqafChAkT5uhbF1p551Ua1s+DYvmlFDsfyINF3KzhwnLVqFEju4Y4r7BqYYF9/vnnbfqSsEwz7rHHHhZ32rRptr7rzDPPtP34GMTHiBsfI258LJ6+9HTjY3l5ljpWVVw/Pr/LJIQQCzLVElrw4IMPZsevuOKK0LZtW3sy3WyzzaottICbKVYC1mH4TTQ+DqxfIW3eMLv22msLjgGDFAubGcA6d+5sfnlCC1544YU58is2wMLAgQPDxRdfnB1ztBh+3qiO0IK8footp3nHSRtLFZYtfyM27VsXWpCeV2nY+DzIyy+l1PnAW4dYtThvnnjiicx/yy23NBHHOiXE2zHHHGNrtphmd3h5BIsaa8xKHSNufAziY8SNIW58LC/dUseqiluuMgkhxIJMrtASYn5RznOqnGkLIYQQ8wMJLVFWynlOlTNtIYQQYn4goSXKis4pIYQQlYyEligrOqeEEEJUMhJaoqzonBJCCFHJSGiJsqJzSgghRCUjoSXKis4pIYQQlYyEligrOqeEEEJUMhJaoqzonBJCCFHJSGiJsqJzSgghRCUjoSXKis4pIYQQlYyEligrOqeEEEJUMhJaoqzonBJCCFHJSGiJsqJzSgghRCUjoSXKis4pIYQQlYyEligrOqeEEEJUMhJaoqzonBJCCFHJFBVaQ4cOtX13jz32mPlvvfXWoX79+mGZZZYJo0aNCqNHjy4Ih+vTp4+FffHFFy1su3btwjXXXGN+H3300RxpwLPPPhvWWGMN83/mmWdmFyIUL4dYMIjPKbYbNmwYfvjhh8zv+++/Dw0aNAgrrrhi5pcydepUi/vmm2+GunXrpocXKE455ZTQuXPnsMQSS4SmTZuGIUOGhFmzZqXB5hvedkD7CSGE+M9SVGg1b9487LrrrmH99dcPY8eONb/x48eHX3/9NQvz2muvZdvw888/h4svvti2v/32W0vvjz/+yATXu+++G1q2bDlHGjfccENYeeWVM79tt902nHPOObZNOTp06FBQDrHgkAqtgw8+OPTs2TPz22abbcLee++dCa3rrrsurLbaaqFx48bhqKOOMr/qCK1OnTqlXuHKK680MTNjxgzbX2mllUzkuT8gdNw/Dot/HBb/OCz+cVj80/w8Dfjkk09Cq1atwltvvRU22GADE5e9e/cOffv2tfN/rbXWsnAPPPCAtQXp7LXXXuH666+3+hN3wIABdv3wcNO/f38Ld88991g8x9uuWbNm1n7VEVpc1/6Q89BDD2X+Tz/9tAlj2va2224zPy8H1ytl8XLgn5ZFCCFEEaHFzblWrVph2LBh4cILL7TBbeLEieH8888Pp512Wmjfvr0NDLfffvu/U/o/zj77bBNWzjHHHBNq165taV1yySXmt912282RxhVXXBG6d++e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wYMHh3322ScTWp988okJuvPOO88EE2V//fXXwx133GFh+vbta9sIn4kTJxbU1eO2bt26IG5eOVK+//57i0d8r9vf/vY3az+EWdx+nTt3rlJosU14xCHl9XJvsMEGuWWHLl26hFmzZqXeYi7wa0NCSwghxDyTjh/sY4HJ49Zbbw1HH310tn/44YeHe+65JxNavXr1ClOmTLHtjTbayMKwvfXWW9s24QgDHg4+++yzgnAIj88//9wEBP6jR4/OBI6z3nrr2f7NN9+cCRmHfdJwoQdvvfWWbR933HHhlltuse3VV189nH322eH333/P4joe97rrriuISzmI51COVNDce++9Fv7kk0+2fdJAQNJ+cR1oPy8r/4sJrW7dumVxKLuX+/nnn88tu5g/eF/NIbSYV3/ssceyfcDM6Kq4FMsvv7xdCNWlqvTmF5hM77vvvtT7f5pKrLMQ4j9Peh9nmo01WQghGDBggIU58cQTTSgcddRRWViEAvcpF1rsv//++7a92267WRi2t9xyS9smHGHAwwFTXB7uggsusG2sN1iG2M4TWoRl//bbb7f/WLMc9hEviBG2Gf9eeeWV8PDDD4dp06aZsHv88cdt+9FHH7UwWNhiPC7lieNSjm222SYLRznSKToXWi5K99prrzBy5MiiQuvTTz+1/z169DD/FVZYwfZdaBHfoexebrfepWUX8wfvq2oLre+++y7cdtttBf4pmCDnRmhVld78ohJFRyXWWQjxnyceP4A1Wfg1aNAg7LDDDra9xBJLmHBB+DCFtv/++4f99tvPpr5+/fXX+Sq0fLoQ6xECh+2LLrqoqNDCmsQUYtOmTcMVV1wRBg4caP6U98MPP7SpPeIjYvC//vrrw4UXXmjbWNDcIsZ0ZozHRfTEcasjtHzqkPhYB4l7yimnmD/rquL2w1pFGzZq1MjCn3nmmWHhhRe2OHlCi7J7uffee+/csoOmDmuOn2/VFlqxRYuFgJyYOE4YTsiddtrJ5sXxu/POO21xYffu3W2OuVOnThYP0ycnD52OKIvzRRQsvvjitriPeWP269atmx33MPDqq69amFVXXTU88MADBWEcwnKhM2ePpS2NS/4el/rw5BDXJw/m/Gmfjh07hoceesj84nq6cKStWrVqFVZeeeXQsmVLe5riiQHxg5m8VBj8PAz4As1mzZrZkyDxCM9F17VrV3tK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/VY0zH+TVq1ahenTp6feFUN1xw8hKo2iQuuLL74Izz//fLbvMIg3bdo0XH311QX+/fr1C6NHjw5PP/106N69e2jYsGHo1KmTHZs6dardhAYMGBBatmxp4fr3728DIv5VhbnnnnuyfBB5DN7NmjULRx11lPkRHrHXtWvXLD1AWBH/0EMPDcsvv3wmtDbYYANLY9VVVw0PPPBAFj6PVGjdfPPNlk88qO66666hQ4cOYf311w9jx44tCLvJJpsUhG3evLmFLxY2TtvDkraHRQRQXwdxO2PGjExoff/992GzzTazQbIUZ511VupV7T6gj71/b7vtNvPL64Oddtop1KpVKyy55JLhzjvvtL5D1Hj/eZ4el3gnnnhiFtfjpZxwwgl2jqVCC79zzjkn8/e2wooD3lYxpcIU61dn4YUXDg8//HDqncuIESNC7969wzLLLBNefPHFzJ92+Prrr02InXbaaWGJJZYI22yzTTZgkz+QP+ctQvKpp57K4sPf//730KJFC0sb4edC8bzzzgtLLbWU1QPrIPWizLQz+4hMtomz3nrrhVdeecX6Oc4zj2L5QZon7LnnnmHppZc259dsjNeNfqV+pNGmTZssHcQe5wLnEnlCHMbzSdvIw8RlIczZZ59t9SWuCzXCLrfccnZufvvtt7ML9v/90/pwD4zrQ98B/XbDDTdkcSsNCS0h8skVWp999pkN8nkXzrhx48zqwoCex6KLLhquueYaG7gIy02YwZS0Bg8eHG666SbbHjlypIW/8cYb7X+pMDzJwjvvvBPq1atn21gfyOuFF16wsEOGDMnS4dgHH3xgx++++267sRIGocXNctSoUVn5sGCUIhZa06ZNC23btg3dunXLxBD5DRs2LLz33ntm4atbt25B2I8++qggLIMF4T3sxIkT7ZiH9bTjsKTtYc8///yw3Xbbhfbt24e11lor3H777Raf+iGANtxww9ClSxfzKwVtmVKdPsCCSbt6+yG43KKW9gHEFi36jv4CjrPteRKXbcJ43GIWLRchqdACF9fgbYWAob28rWLiMHF7FutX56uvvrL+IS93zzzzTEEYh4F78cUXN0sSIhjB6Xj7IjA7d+5sg/bhhx9ugzYgUgABSRoIaASSg+hBvHK+cd0ipH744YcwdOhQqzPpHXDAAfawAfH5zHVBPMIgdNddd91w6qmnZnmSRkqx/KBY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802YOXNm6l0t5jWemM2vv/6aeglRNjR+CJHPPAutxx57LGy++eahcePGYbPNNgsvvPBCGuRPxYorrhjuu+++1LtKNt1009QrLLvssmHMmDHZPu0Wu9GjR8/h16dPHws7dOjQAn/aEbbeeutQv379sMwyy4RRo0ZlaQNiJc7P/eJykNarr76aHd9pp51Cp06dwvTp0zO//wbLL798mDBhQupdLYrF++ijj6y90rYq1YYxY8eODR07dky95+jXlL/+9a+hUaNG5rbffvv0cMbnn38eNtpoI/s/N6y33nqpV0nOOOOMgv1DDz00/PTTT9n+lltuGR3N5+qrr7b/nCu333574cGENL/5BeXec889s7Jfc801YYkllggNGzYMb7zxRm6Y/yaTJk1KvUSYu/FDiEqiqND64osvwvPPP5/tOz/++GNo2rRpdoN2+vXrZwLj6aefDt27d7ebJDdvmDp1amjVqlUYMGBAaNmypYXr37+/iR/8qwpzzz33ZPlcd911Ju6aNWsWjjrqKPMj/CmnnBK6du2apQcIK+Jzk2bAd6G1wQYbWBqrrrpqeOCBB7LweaRC6+abb7Z84gF51113DR06dAjrr7++DeIxP//8c7j44ouz/ebNm1v4OOz48eMLrA+vvfZatk1+m2yyyRwCAL+4HC60vv/+exO+s2bNKgifctZZZ6Ve1e4D+tj797bbbjO/vD5A7NWqVSssueSS4c4777S+W2211bL+8zw9LvFOPPHELK7Hi6GtCO/tRVvNmDGjZBs6J5xwgp2b55xzjtUpJq9fnc8++ywsvPDCqXcuI0aMCL1797ZtBJ/z0ksvWZ1///33cNppp9kxxIQLYdqXc4hzgvOTsjZo0CCL77Ro0cLi0i4IPjjvvPNCmzZtwlJLLWVWQNqDvCgz+3/88YflSfsi5l555RWL531KnksvvXSWR0xefuB5ci675ZF7A2KItLg2qWsKeXndnnrqKUuHcns6H3/8sZ0z5HnvvfdaHK+bh0nbKK4/YTyftddeO5x99tnmf/3112dlWG655ewc3HnnncO3335rfmkbQqn63HDDDdm2mI2ElhD55AotBhYEQd6FM27cuLDQQgvZgJ7Hoosuak+kDHqEZQBkMCWtwYMHh5tuusm2R44caeFvvPFG+18qTLt27ez/O++8E+rVq2fbr7/+uuWFJY2wQ4YMydLh2AcffGDH7777brvZEgahxU0Ua4eXr0mTJhavGLHQmjZtWmjbtm3o1q1bNiCT37Bhw8J7770XLrzwwlC3bt0sPJA3A52HZRAhvIedOHFiOP/8820gbN++fVhrrbUyy4LnhwUnFgD44xeXg/ohgDbccMPQpUuXLGwxaMuU6vTB+++/b+3q7Yfgoo/z+gAY0NwyRd+55ZPjbHuexGWbMB43z6JFW2233XbWXnFbFWvDGBc1LsCdvH51vvrqKxv06TfiuHvmmWcKwgGD9uKLLx6mTJli+wheZ+ONN7a2REh27tzZ2pGBe5tttrHjp556qg3qiEDSQMCmYvnvf/+7lZXrkz5GSGEhpc60HenxUAGXXHJJdu5yDiIiiYugXXfddc2fPIE0evbsOTuTiLz8IM7zgAMOyPK86KKLwlZbbWXX2EorrZRd2zHUz+t25plnWjqUO04n7hvy8rp5mLSN4voTxvNZZJFFwh133GEiy6+J4cOHW9tz/8JCSRmKtWGp+hBHFJI3Xgghigitxx9/3LbzLpxbb7214Mk2BUtNzIEHHpgNptywGITY9kHEB6VSYerUqWP/mTZ49913w9dffx2effZZs2wgpAiLBc7h5soNladeQOjwVMoAm1ri9t1334L9FB+sSIOBk5t23oDs7Ljjjtn2Dz/8YFaZGPwcwh599NFh0KBB4bjjjrM2wLKCkInzA8/P/SEVWkx9MZ3LADMvVKcPEIlxHx9++OHWx3l9ALHQou/A+4++8zw97iqrrJLFzRNatBXtQ3t5W5FWXhsWIxZaVfXrl19+aRZcyoh1B5c37QhYAOO2OeKII+z/gw8+GFZYYQWzbiKuX3755SzMYostZv+Z9uSc7dWrVzbQx2Bdia87BBviCYvOo48+mvl7vfbff3+z+AB1QGRiLSIeYhzIE3bYYQcTJjHF8kOgxHkilj1P7g1YhH777TcTaHlTp9QPSqWz1157FYRxPEzcRoSJ6+9CnjA+XX/ppZfavYByYUV0eDh6++23i7Zhqfocc8wx2baYTd54IYQoIrQYEHr06JErqLCa8HTvJneHmxB+fpN0WCfigynE276f+qdhateubf952uSGj4mfJ3CmR+666645LnCedI8//viw++67Z35MIzDAYq1h8HfHmp5SuNBiSmiXXXax7bwB2WHazSFM69ato6OFEJYBIX063meffQry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EDK0hBBCCCEahAwtIYQQQogGIUNrLtlnn31SJyGEEEKILDK0FlDefvvt1EmIhvLuu++q3AnRRlD/WppG+Dk/0ui2K2toTZw4MR7369cvnj/99NOhU6dOoWvXrhXX/v3vf1dce+2116L+17/+9XD66adHXdMzf0yv2jMM8+fXv/512GCDDcIiiywSevToUVyfMWNG2GKLLULfvn3D/fffX7h73XHjxhXu5k/qXouFF144htXLVlttlaoVPPfcc21utD766KMV5z/5yU9ier733nvx/KmnnorxqqaToyXi1hJ+fFW5/fbbU6eGssYaa1R9ps9H6lVa7jw0Zt26dSvOzznnnIo69Zvf/Ca677TTTmGxxRYLK6+8crj44otLda+88som9bJRPc65+rIgUS2PyxgwYEA488wzK9wsj2+44YZ4nsu3edEFrwtp3hv/+Mc/Yhny5edf//pX+POf/1zofPLJJ2GdddYJr776auGWA3/9fa3N3Na/5sI7wLf/OT9rvSPamnreYym12q7mYvnUpEdr1113jedffPFF2HLLLePxpEmTKq6df/75Ta5RcDn/wx/+EM9Nz/wxvVrP8P5gNK2wwgrh6KOPjgXvl7/8Zfjss8/CaqutFhZddNGw7LLLhi5duoQ333wzvPjiixW6FifczR9zx596oIGlgr/88suFzJo1K1UrmB8MibTQDBo0KEyfPr04z704Up0cLRG3Dz74INx8882ps6iDao1uI6jV0Pt8XHLJJZuUO8/ee+8dFlpooeJ8l112CWeddVZRpz7++OPYFhxzzDHx+MknnwxLLbVUqe7s2bOL8zvuuCPqck8jyNWXBYlqeVxGztCyPDaDKJdv86ILXhe8LgKUn/XXXz+WISs/vEO8ofXRRx+FnXfeOb4vakFbNz8bWmn9ay68Azw5P2u9I9qaet5jKbXaruZSamjR67T00kuHE044IbpTMNNrGC7pteuuuy5+jX766afx3PTMH0+1Z3h/6IX62c9+Ft3plTrxxBPDfffdF+859NBDw3nnnRePr7nmmnjd69ozrTeLa+aOPx6+cM4999wKN6CBTb+uPBtuuGEM69prrx2mTZtWGCMXXnhh/KoifgaGJA3BMsssE4488sjohv4pp5wSe/dWWWWVIly/+tWvYkWjl49GjTQBKj4F4xvf+EbUSdl9993D8ssvH37xi1/E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>
+
+[image2]: <data:image/png;base64,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KiGhJQiCIJQaElqCUAkJLUEQBKHUkNAShEpIaAmCIAilhoSWIFRCQksQBEEoNSS0BKESElqCIAhCqSGhJQiVkNASBEEQSg0JLUGohISWIAiCUGpkCq1NNtnEnXXWWe65555zkydPdgceeKBbY401gqQ1w//8z/+4Sy+91P3hD39I/Hr16uXuuOOOINZPi912283/Wl0BdYRz587Nq3910KZNG3f//ff747S2KDWOOeYYt9NOO7lHH33UbbDBBu7xxx/3/s8//3wOd9llF/fPf/7Th1199dUF0//f//2f69+/v1u8eLF7+eWX3dZbb53EJ62lv+yyy9yGG27ovvjii8TdpEkT91//9V/eHYaBMKyqcPIKw3CHaWsCCS1BEASh1CgotEaOHBlEda5Pnz457lKBDv5vf/tb7P2TwYRWiE6dOrnbbrst9q42ttlmm0RolRs//PCDF8evvfaad1955ZWuR48euZEqMHv2bPfxxx8n7t13393/ZqVftGiR++Mf/5jER4gbSDtv3jx/zD3Vrl0717t3b+8mr2eeeSaJG4a9/vrrOWFVhZN3GFaKPwESWoIgCEKpUS2h9cILL7jf/va3/vibb75xBx10kGvatKk7//zz3f/+7/+63/3ud+6WW25x9evXd/369fP5bbXVVt4yQadImj/9afkGix999FGSz3rrrZeTD+GWz9ChQ5OyLB5xQmARIs1DDz3kmjdv7gYMGODef/9916VLF5/m66+/TuJ++eWXPl/O7/TTT/dWJSwz3bp1c+uss47r2rVrIrSsrltuuaX/hS1btsypP3lj6dl88829EDEsXLjQ7bHHHm799dd3e++9t/v888+9SLF8wvzJi3odcsghSd2ol53X2LFjc9owDaSN8eyzz7q1117b/etf//JuLFfrrruu+/e//53EIaxjx46J+69//asvH2Sljy1HU6ZM8b+W9v/9v/+XhCHSVl99dTdhwgR30kknJf5xGKIqRlXhYVicd00goSUIgiCUGtUSWnT8M2fO9MeIETr3+fPnu+23396deeaZXmhh+XnppZd8PPL76quv3LfffuvjnHrqqXlCi3wQOmE+hFs+CxYsSMqyeMQJYYIEIcMxgqlRo0bujTfecD/++KMXVADx0qJFC/fee+95Kw7H1KlZs2bu6KOP9nUaM2ZMntBC2O26667u5ptvTjpj4jKE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>
+
+[image3]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAAB5CAYAAADh/I9bAAAtiUlEQVR4Xu2dB7gVRdauB1FBVBBMgAqI8itBwICoY0AxzIAZhVER4+iYAAXEgGLCgFlnHL2CjnoNv6KjMmb9BVEwC4oihjHna86x7vPWvatn7Tq19znA2XrQ732e9Zzu6q7qVfnr6j67f/fZl9+GcePPDf9++2OZTCaTyWQyWT3Y4MGDA/zuwr/9Pfzud7+TyWQymUwmk9WjRaHFihY7qRKTyWQymUwmk82fSWjJZDKZTCaTVckktGQymUwmk8mqZBJaMplMJpPJZFWy34TQeuCRWTFv62+wURh/7l9Dt+494/4v9V+WT8x+Keyz/19qhMtk1TLrA+PP/VsYc8K40LpN23rr79dMmhz+cujw8NKbH9Y4hnEdtfdfl/Xpu1X4/SZ9wtHHnRSG7PPnsPjiTcKUGU/VOG9+bObzrxZtc9bzr4UxJ54aJk2+u8Z5C5v5cd/ylZ7zc5iV7+577vOzlu/905+otzGnNrvljv+J10rLGB8OGTaiJOzuqY+EF1//oEYa9Wm/KaE1cLc94z4NrXnzFqHDqqvF/XbtO4RmSy4Zem/4+3DbvdPCVf/9z3j+nvvsH9p36Bj2PeDgsO+fDwotW7YKrVu3iXGYVPb/y6Gh1bLLhXYdVg1/n3BlDL/ngUfDHkP2CWv1WDumudnmfWP4aWedH9q0XSmeT1p+4kH8+eun/stkC2rWB2z/9LMviPs2IP2h//ZhmWVaxmMIp+491wlNmjQJxxx/cnj5rY9i+IQrrgtNmzaNfeK8v10aw2i7af8h3Ld3E1p3/s/0wgf6CdtHHHlsyfXpo2maaV5kv6z99z9vrzFX/PWSy+PEbXV85DFjS+qYc9J6nf3SW2Hb7XcOLVosE9vVjZPvied17tItxtu0T99icmZy9O2SMdfapV3Hj7lPzXmlJG2OpfkgDj6v2blrWLp58zD7xTeLY3YtrmN9gLyRL39Ntn0fsjnGrNy4b/ny88iiiy1WzCPYmeddFJZbfoV4zcaNG8e4xPHzC/n0PlvZmM+5MrDyxXz5cuz8iyZEX4aNOCqWCXOgr1MrN1+nad+3srD+bP6lQsvaQ27e+9c9DxT1gx877TIo1g9lnabt2wT5JszqhPwTf8cBA8MzL7xRQ2ilPtjczxhHudncz7zP+GfxcmNeJSPN35zQwiggwq6+/pYw9Igj498Nf79JWKVd+6Kw1+3Vu2gce+y1b9xeYcUVY3wK97/W7BwOH3VMrOBO/7VGDKcDUgm33/dgrHTi0mgaNWoUNt508zhI/XHbHYoOZ4OWv/6Lb/yfGnmQyRbErA88MnNuvIPbcONN474NSLQ7JsupD8+MgzKDMYM+x44de0q478HHwmKLLR7+cc2k2E6XWnrp8OisufF42n/S9s45tQktu/7ku6fWSFP9oWEZK6JWj2ZzX3svdFurR0WhldbrCePGx7C//a9/hFvvmlJM5AgGwhlDvRDw7ZJVNNol59t1/Jh7/Mmnl6S91Tb9auSD40yotNezL7g4/Pmgw2K47wNch/O4Vm1CizZM+/XXKDfuW778PHLDLXcW88hd98+I4ur6m+8I2+04IJ5rQsvPL+TT+2xlYz7nysDKt+9Wfygp33unPRoaL7pouPK6m8LOu/4phlcSWuXmLisL689WFl5oWVzaQ27eM6FF/VA3bFM/lLVPm3z7NmHpW52svEq7MHrMCXEbQeuFVs4HxjfCOG+LrbaJ28z9zPsIcouXjnm+znNGOr9JobXBRhvHsL32PSBOGqheFCpL4Ca0Thx3ZjyX7Tvueyhu9+q9YZHGlOlPxsGC1TETYHTAAw4eWhwnrnV6OhLhNGjrcJzLMX/9aY8+XSMPMtmCmPUBbwMG7lYMSAcPPSKex6Mg9hlE2G+70sqhS9e1Yl+w8eH5V98tHhMSlvaftL2znQotxB7bJrTs+rk01R8altkE7sOi0Ores2RS9nXMOWm9nv/3iXEVhzbDax0znpoTz/OPDr0Q8O0So13y14seG3MPHT6yJO3hI4+ukQ/vG2YTabk+4IWW5Y3ttA+l18iN+1502Dyyy6Ddi3nERCjbDz0+O26b0PLzC/n0Ptt1zedcGfhHh758TznjnCINHnOyXUlolZu7ypWFz7PFpT3k5j0TWlY/PH2ifihrnzb59m2CfPPX6mTU0ccX4ZSHF1o5H2yln+OHHT4qbjP3M+/zuoXFS8c8n8+ckc5vRmghrs658JJ4h8E+jRn13n/7naJK7bhap3i3YEKLZV/is00FsW2PMqzj/+/rb46dY/kVVojhdPphI0aXXPeuKQ/Hu5Nt+m0XVwYG7T6k6HBcn3P89XUHL6tvSx8dmqXvMtjKVddu3cPfJ14VjyGcLJw7R97NoT3bwJn2n7S9cw7t/fFnXiza+jZ/3DZum9Dy71Kkaao/NDzjsd7Wf+gf9t7vwPjYhjpjdcHqeJ11e5XUMXHSemWS5CaVxze0k2bNmkXB9uzLb8dzmUC9EPDtkuvaao4XWtbOOd+nzbhN2j4PnMfrIKz4HHns2PCXQ4bHcN8HuI71AfJGvnz75fy0D3krN+6nApJ5ZPoTzxbzCJM7q2E8ruJ9OM4xoeXnFxMNRf/8/2VjPufKwMoX8eX9oP4QDcxJrH4RjtDydWqrQNRpubmrXFl4oWVxaQ+5ec+EFvVD3bBN/VDWPm3y5duEpW91wmPQkUcdF7cRpV5o5XywFS2OU85sE4eys9eGcpohzWtqpPObEVpmq3ZcPS5/23EKi2XXnuusFyu4LkKLNHusvW4cZBBuiyyySHyUkhNabLP8iapu2WrZ2GD8O1qoaH/91H+ZbEGtrkILu+LaG+P7HLRtVi/sXZhLr7g2htF/Lrh4Ygyj7ab9h3Df3pdYYomivdM3mExshSwntNI0U59lv7zNeeXd+MoEKya8L8MdP+/KEE4dL7vc8iV1TJy0XnnnZtc/DY5thHZ1+dWTivR5dIVA8ULAt0smt/QdLba90PJp83gpzQPncY01OneJKxS8M2bH7Fpcx/cB8uXbL2G5PmRWbty3fPl5ZLXVOxXzCOcgkFZcsXUYMXpMPNdWYHJCy3y2sjGfy5UB5Yuw9eVLOO9okcf9DjwkhiO0CLc6Je9pnaZ9v1xZeKFlcWkPuXnPhBb1Q92w+k79pEIL823CHidbnRx02OFx5WmXQXuE5/79TonQyvlgcz/HygktLDfmVTLS+dULLZlMJpNV18aeckaNsIZszHf2OKyhGe9o9dtux0JY4Csvx6fnVcv8o8P02M9hJrQaav3Mq0loyWQymew3Zw15IufnBnh/mJfTWTEcvPd+P+sjdAmt+jUJLZlMJpPJZLIqmYSWTCaTyWQyWZVMQksmk8lkMpmsSiahJZPJZDKZTFYlk9CSyWQymUwmq5JJaMlkMplMJpNVySS0ZDKZTCaTyapkEloymUwmk8lkVTIJLZlMJpPJZLIqmYSWTCaTyWQyWZVMQksmk8lkMpmsSiahJZPJZDKZTFYlk9CSyWQymUwmq5JJaMlkMplMJpNVyQqh9dNPPxU7QgghhBBiwSmE1qWXXhp3ZDKZTCaTyWT1Z1FoedUlhBBCCCEWHAktIYQQQogqIaElhBBCCFElJLSEEEIIIapEVmh98MEHcXvQoEH/ObOK/Pjjj+GMM84IRx11VHooy7/+9a+w7rrrhqZNm4Zll102zJkzpzj2zDPPhGHDhsUw/xIaHHDAAXH/xRdfLMLmh5yvjz32WEz73HPPLQnnWscee2xJWH3x2WefhVatWoV99tknPbTQQZtr0qRJNOq1ffv26SnzxWabbRZOPfXUNDjSo0ePNGiBmTZt2jynm4vj/Z4xY0ZYY401So4Tp2vXriVhPycPPvhg2GijjcIyyywTtt1225I+SN3df//94Y033sjevBH2zjvvpMFl+eGHH8KZZ54ZOnfuHPs7fe/bb79NT8tCOdWGjXfW/vDf92OOcY6nf//+4ZVXXonHvv/++xjGuER/vOWWW0rOFUL8tpknoYUgWn755cNiiy0WVltttXDjjTeWHIfJkyeH7t27hyWWWCKsvvrqMc6IESOKeBbHhMmAAQMKQYRts8024bLLLgsdO3YMSy21VJxwUjhvhx12CG+99VbcHzt2bPj000/jdiq0evXqFZ577rnw7LPPxv3evXtnhZa/5syZM2PYF198EcuAvKy33npxwgPvq2H54fwWLVqEwYMHRyGUCi0mIHyi/M4666zAz2rANddcE1ZdddVYTieccEI45JBDYl5I87TTTivyc/LJJ8fzc2WUy8PCAm3u448/Lgk755xzYpmvvfbasfy//vrrMGHChNCtW7fYxvzkfvHFF4e11lorbLnllkW7QIwTt0+fPkV5nH766bFdkh7ixgsWL3i4Lud06NAhXH755TEtn04K6XL+3nvvXaRx7bXX1ri+p1wc7zfgy8orrxx23XXXsPHGG8d24f3OlQnlgTDx5QFcj3Mpg9tvvz2MHz8+bnO94cOHF+eZHznfP/nkk9iX6VOAEKKMqB/wQqtx48bh+OOPL+JeeeWVsR3Pi9BafPHFw3vvvVfsv/nmmzHPwF/yTT4t776OKVvw5Zrmx8Y73/622mqr2P6AY7UJLfqub49CCGEwTsS/fqec0GKAOumkk+LdLEKhS5cuJceBQfGPf/xjuPPOO8Pmm28e7rrrrjiwWzyLY8KEAYoBje3tttsuzJo1K24zON93330xDQZyz6GHHlqIHe70586dWxxLhdbo0aNj+meffXYc9LkbToXWAw88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>
+
+[image4]: <data:image/png;base64,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
+[image5]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAADRCAYAAAAUsxzYAACAAElEQVR4Xuy993tVV5Lvff+BmR+m7/P20zNz79yZ6Wl390w/7p7Ojt3Ose12wBmcjcE2YJtokk3OGZFMzjkjghBIAiEECAkJCQkkUM45HoV661P7LHE4xoDb4MDs4tkc7b3XXqFWrarvqpX+l/jkk08++eSTTz75dEPof4U/8Mknn3zyySeffPLp+pAPtHzyySeffPLJJ59uEPlAyyeffPLJJ5988ukGkQ+0fPLJJ5988sknn24Q+UDLJ598+h9J7e3t0tTYKLXV1dIaCIS/9sknn3y6LnRTAa3W1la72traTIlyfRXi24Aq3I6OjvBX3wp9V/IRTuTLXd8EUZ8tLS1XTY+6ow598ulK5GT34K5IWTpjpkwcNFiGvNvDANfViO/QK8jZ1eTxctTU1HRddEyjAsT6+vrwx98KUR7K1dzcbOWivXI5XoXrYd45/n1dPoTH79J3xN/wyvE8NLyzFaHEu/Bn3yVyZfi6fIOIw9XdN11OIj6s5ceI01Zpix3tHQq0BlnekXvkd0D/Ad22tx8Ga7mBQB7QwwBwkTR7CvV/uEFZ3/AL3t/qEzFq8WyJj8yQps0IulNVJrYIZ7dZIqwB5TeUZQA+PlXmxNJ+AJPLg8puvhtOt+MLLka00+OHD+M0331SQaGlu1ky83/nOd/DWW2+p62WZvsCDXMCVtN4kWOV+PtC/dty2NPsxMTGB6Rtp8jMKSbsTGySC4dQlV9gGU13XD2z6BJTl2Nvmcn31eUFuFm/HUcOijtd2C/lnlo8nm18/THL+xja7k2hrnUSydl12LLnMgoc3egZVfVQ3fpjIL73m5PYfTwOTe3Md1avYNCJSmuZOq4TDLpkEtxD87jjHMYjG5Pxd9+/ih8/HYaA+Gpxtc5qnfvxOXegHptXod0AVsAEySZuyA4le9u8/YL5sWG7InzJSdwCDe5h+BTaBKKabt+/YbpYjxhjXM/UIcLz2+mv6k3vGAjFMDfrnI5/95re/sbbxY45zjBugFqsRfU2aWIG8VQ/I4SUDYPH12+0gcqgrH2MPQKSNuY+pUOr2xptvmEWM74kHLfqTtgR++M698OIL1q9Y5WgXpk2BOyCY/GlzrK+AH+lzH30M2PLd81awESNH2Jh83L3wMDYQrmNcYB3Wzhs0nHLBbXNrNqZaZv0/70NG35fLGWfPTbtq0WRZ9yUWfKAxDgj8e9pMF1gAsWHPrdaY3gAUIAMPx7aCQABYt9xYDB0yBAdcPl60OArgM89/7ylD1yi9FOdwuvqIAQF17z5G5Y+vg8xF[[[[[[3YXGi5xeZcyr0jB8sycXNqy9Lx
+[BfPn1q1ft+ssXLiqotbPrir/5roEibrRDWJGYM2ilKyCP0tm2crEdm6ZgUlQBk2DwDP9oyY8YMWa9jTP8GDhwofbQuxuO8jjkQN1SJ0PYkX5Vbd7+QQ8euy9rtZ00x46rACpS067d6b8Qv83/RXcKVOy599ueh1dx48kaZ91+ov2UdnaQ5YCfj2zbft/rffeVtOnzlt9YnXcisNItC2w+bxCL6sRgQFAoLbKUELlI7geeXApUp4IwX731vXfc2/z/rn9E/67/v/x//MPyrdTIsvHp61o5LnZhvaZW+pgueTvJBx8co5x82ycvNlhtlUAiY1eL8nvxnmdsfeZdgF8bBCKT9PEV1OfI60BLfeBPAOZ6LtxNahBQe0CWpzaTjvtVI4yJujjrDkDhrJUfG2WKrAAU0tpZX1TL5oThFub1r5vnc3B63Z4D+Qi5bG90569k04a6F6YlQC7NDBhciJhz2yZdNK9OrIhnWqPj03ZSP6UvI1vfrZbpPi0l4Ry39c6J5UwJRo7Jv1n1oNH2SJWhMfYVmEGNG3xnOOY/1uTOorZRuPm222WdC19lprd0T9l2frbbaO5UxywHAcdNDBEaZE3Tl2ycuZZzmhPKTquXPPODWch0PQo3/FrNN+ZaMLDQnS0WfsL7f88nGDgNsn6kGAJUBTaBA3OwjXor7lS97vfu97Uf4VhUYnVfHrwAMODB4IFSLoL7rq45DuFKPOfauug9qhAEx64drrrgu+4pnbEPDW4Q3AQ0gY4U+Ub0KY10kJbwIc1w01+ugA/HHYxHInI0zGvW8c1E/1WrrquUvPOImt3/FCnjlN3cwJexrS2NZZYDwtjxQvAo0W+AAYfuDJ9lBUof3xiNc887txpTZqSMAKChnbuXeiuFhVQiZQwITO0XmGkoFL48fw2zBOCYsELoKy7zwhjukzgDqaUReqgEdDeAFg6L758+N/R54njJ9QLVy4MPKJ3eTYvvcIC2MhBEAmAUb/9V//NcoXLuK73/1uRKFuDOKRHVGqA9i98HxHBGkhAdQnhISgh3nPX4KuvFxa6Ae/X3/D9VGeoI3icFEk3vXegIEDI7wCWgEvF1l/+ctfjtnabbfeFmUAJ203toWR1B5l+jjBCJygT5wuISTwwPePSvoBu/nEo5Fx2yHXgPwJa5fdJky4pymi70rmPVOOKgBlIZnHHn3B8oOzGhvnGpvRmoOV/IMLAZQQILgNAYVLAmXLpkBFJ5Y0eYIiXZMqUS0OhAlrTCtDafLPNqxWWX6F6odRt2RDYMOsZtMh7QngN0gRa6LS/YLXVVmt4pArQ+vrXvx4DEACRLy9/pbAoBWDEHi00DxrU8GjhCX7hI3rNaHMGAhwaAAbff/7nf4ZHjHH4qMT46Lf68kUCLW036AxwCoWyy32VZ6EJztnW1fPTl857xrP/dd2+kqQFafSEiO809eaUhQSm7gJ0EGulhRhOac7pI3lkew8YZ
+[eOuCERNDh+a5tvsorR2BIR7H34tXXHzUA/Y34558Iwf7pZr2zW3xATuF3v8h5Eu3VTIr0Cwu0d2TyicgqUPRiG7sm5/5a1P57LqVgGIrKOPGPNyBisMRma1ZxhDp/4P5DYZJkWkYBzGqyGkE8Oo51pHJWtIzhQfjQBC0WcNxHpgBF5B1eDseVI5UIL0tAplNEC/K9Wwrlm49jWs3fyydHw4O2vl9lwNvPGJHKSrN/4BWoJMryEVI7FXgGIqp0LNAwIEcDYcl4rCAqH01mplbp1jPCpvsgmO5PcrdqxvtxB5zRFAS4m5IdAipyUCEBhXIXxwC7/1cVppx0vy2yQ2i2u9H9HhnSpnTkBfaNnyMqD+2A+/mtiy/k6PryAOZF6AOeAQ46bV7jZN+SGDYuL7YN96BRUnRbpGUaJdOmP/yBKLEpHpJtkY1qlGNfok02T1a0yupGHDcZY9WIU5d1ax6uWd6IQHJHi0Vlffeqz3S/UsgVbBq8F2jicQGy7JoeeKU7k+PtlmjGtWoRtOCflZAS4VK1aLstSmkIlP9RNr0RAIM3mT/pVpQo583qSg11MEaVagALU8mqv7VAFaNalSjGZ1+VkCrRjWqUY1qVKMa1ejnRFMEWqpD9lP43XB/1tQkfZU+/agKwyDQNpKfshXBmIA+saAkOuwEiBU7JMIAG5cYB+8C69/Y5aRrvMm1BWnAS/DbacKMMiAVWZvCWnVS2+s9qIvBVI/hdyOAaGINGEBxD8H77nxzgd6Lq6WHO/ffeLNSRQKvS6RnGOHJbpJKfuXtslZhIAqmfQ7wUdHQIv90Q52IfxO6Zf7uc+yjIJFkhyjSJBh95lFtlkHAyQyoxTawwjjYcHazOprFcTN2dSvfu5x0HkYtc2LHMD44yidNrCvREOUDjlNNNdUYyVQZfRnnOTa9SjsBBOM2xgDa2GQqE98ZO23SH/3do7TLXlH6zN5Fuli3wNDq3XvDkIPfzTBDbZJJJgmZ1Q9yARQBfNkj8OMaSQWCsGQIGx/KTJcWBAweGkWWgeOCMWMPYMQnYLHdFzfbq3SstvsTiAbRMVrPCAeACg3EHfgdne3TIYZGP3qW/7NoDWo2GD2jicHuwIAtASjqPHq6+9GoAQI+M78GWcAErA4DrrrBs2U[[[[[[UhksYipCQs47rvqpSQawnTVFJJV
+[G3MhDD7b4zF2Pc+tPoBmrS3uegXzw5IN4ubR5wUI/3+lCZRSCYfGZsWCghDfkr0CGGCvCazlzjgSk0ZahnodStrtOMb2I+QU1JSIK5cydmKhpoauau0wV85oV8nK8++h5+/eZmPnhrYIuKYPlu3grHTK8ISPV1KMzN7lfepmO3nix/LNqIYKAhnl1ldzTRQVlwUlSRwZEO8lQw0AMD6esGgqcSac4msDpdgeGPyJkSU6pAVfwv7gkjiTr7QAUEXb74DnaXD1Utfdh9NAtvrIvHX1bIAi4C+BlJyDx2p75hXBoOkE4q2kxgnA6+1kmsXINzk/ZhHDjsZ9GhZHvMQxkIe+HXlCKhLq2dH/Pm4EFwYO5zbhwpBdcGHgjAWd2GhXlq0k6sylmOHdv2s/7NGiUMP+fkokOiwJ+fm4tZn+agS5wSho3b9xOZeQ2lFXVY+OOtC8O3S1ciHIkiPMYzGCj3jTAsO9SATzcJOJw7zoYzHew3xoWBMxmxWjQQla5kqNpOZKzPZpJ9l2GxOjDvq1s7fU8vPaz58XvUCLtxtF0EYWcd/vLeZ2zdqhW/okIoxilypK6RNuOdeV9BImnDV7nb0VhXiZdfex/ni0/jjQ++QOmFs/joi4VorDqL3c0StChF2dWkDYcQ9DsQMlZAX70FUiY9BMHmwX6OvIUzDglpbBLjyInpgPBpUIkvYyGBq2QF6RXo+OsXc221NTU3YeeA4/vuTz9HY1NwdvmrjTvzp03dz5x+Ls4nFmTltAT6Z/DmcWH5bWNiUqY5leRgkMlKWfB5NhkQ01Jeh2mCGMos3/j3CwM/lDXYc+Gndiy2qlfij++kTD0wFe5lMd1DsYLjWFqPPfUOvL39Stj9mYpMNcHQGRhALzPKUxwL6RcKzFA5+5nz6B2xggGGvZLb7TyxjJFvA19DFZN4ZwUD+Ic1d7DfvCkCltuFCtRE6pxd7JsnfIMvQjXMtnfzzvmwVLB4/TpZOvPFNrjbxaZYTPR2Xkk61mN1IHpPjYqZCOV1oui014EPf4R9jUgQDCQVSLzyFNMWv7u7FlcJqnkL63+8u512toZWgYDzjBcMc/H5hIh7fk4Xfrz4LCsQUuv2/Nybhvz4+hIe2puH/tqbirhelSIz3/2c1Hvs2Bfd/dQEPf3UUdz8xD3c99QX+sjYFT+7Nxj3zKYtxDBhLMLYDBZ+hiyTP8Mv5lVi+PZ63yu597xsM8xklOHLB/bft4nk/p7nTM3eIsXLMnufvAG
+[image9]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAi0AAAJvCAYAAAC3eeEVAACAAElEQVR4XuzdB5xdR3U/cHrvvffeeyeEkISEEBJCgiFADPwhBkK1Y2rAENOLIQQMGBzRW6g2GMuSvO4VbMA2pllrdcmyVSxbXZr//c7qKKPRfatdaWU9SfPTZz5P+969U87MnfObc87MvVZqaGhoaGhoaNgLcK36i4aGhoaGhoaGYUQjLQ0NDQ0NDQ17BRppaWhoaGhoaNgr0EhLQ0NDQ0NDw16BRloaGhoaGhoa9go00tLQ0NDQ0NCwV6CRloaGhoaGhoa9Ao20NDQ0NDQ0NOwVaKSloaGhoaGhYa9AIy0NDQ0NDQ0NewUaaWloaGhoaGjYK9BIS0NDQ0NDQ8NegUZaGhoaGhoaGvYKNNLS0NDQ0NDQsFegkZaGXmzevHm7VP9W/92XStS/1df0fdewY7n1XdMw3Kj7ayJpqlHnv6Nyyt8nek9Dw1SjkZaGXpQT0qZNm3Kqfyv/jmvKVE9m9URX5zPovv0dtbxquUEpu/q3huFD3Zd1qvtzd/RpX5njlVPWY7znvKFhd6KRloZtUE+aMSktXbo0XXDBBemDH/xgeut6PeER25VFELAr/7//9v7yy1x7WAH1izGg32ekTyU419yIbVunqo5+NAWQBKUWG1MlAMIgueTSQaaUFSjDEQs2XMaUuMFeMAOUTo9lLRUplU/5/V0jL3opof7hNAGlhaRH8zK0SAh3FipLFAxGTHyVy2mmn5XsGWVqAe40yQkCQIQ5EJFF0yzpFfnn3eXk3Aa3YMikJrFud5naf6O5PRSBqfj92fH6P7OSR+tbCcsmNxyYK9+CGH9Z6/hxuMi3dRef02amvq0MBx+llVNs1OaBoaKXv/uCefO1vDt64lJA0fCpqMCvd/Qw+t/IXaXOOwaZJZgNTJCViOdkBZC1wLXIitgLbb5QsFluK1En+weIkIXzeYtx2GOl19UZeeUZ0Ok/aeZPRv2Y+fBacoaWPitgqn/OkrzFgXpIg5TzySRC8pEriHrnWwxOTsPgGRkIe+sr2eND8n8onfoO/GbVFk37TMWjedgyatQl1Ow7HP03b4l9m7WB93BMLzzxElxmr0aD7CPRbsB2Lb4fDfIQ12k9egr5zVmGI7RbU7TcRNT4dTmW9gvL/THjKXeASJwgLQ9qyqKTlvwFJWpig0kcbPb/WbjGwdpW9XjPcsjDHIRbfPoyHY3iytBUUEx30W11VKpuopOUNkgpJC3tkFKQlnw7pIGxdihCRngv3yDRY3Y7FbOd0elFzJWlxjhXTMW3Y6ZVLOjWe7JpdJS2VEkRY5lLd8rTnGUQupt2Nw6JHCVjRi4eD8a95qKdl8sx9xzj7HyDrtHTxKYy8yzOH96P3Tu24vPxY7H2qxW4eO4McrMzcPXy6iFNnloSCUtqvy8qKRFlQpEv6+WpyAq7v4LxLtVQ8IwaiWazR2Of/Vohbbk4PWiXIlUjYD6sAYdWnel+Fg38SzlSQsGvaNHYeqmHaNwGMq0s5SjTSPgdtVTjAHyfRGFuZedMPf0Wiw6vh5z9iFNoC9OQGUOxq/lZDE0ehoeCeyIkJwRFVYUCongX9pYWzR4bvG6nylOkmG+mLEvTuskmX+us6bDl1MhILpj+IEX1vwf13/gkLZvfH1k3j8daZ9ykDghbWqWTBLelcxmMd0lcBEcoq1UzQwDhbR18H5vf64c0CNRwQaD78NJEBwJQBzgTWXqErFAGOzM3T8rDtBhhs5d3c8P+WK60fckL/b4Ewssy5duoheN45t4lgWe8yTLFmy3l0ytMiSN3bkdqwNooESicS6R5KWRGKDIDbK0Dpw8SC0rF7CoxV1RToRX2OKyUm59YUxiqwiPNFfyBgwASaJBcFCWEz8d6y34do7TVAlXp6U6jKsVqCqWsx[[[[[[TNYmZqsh103iJiKTDa0CIaRO6sf
+[exceqkK01CRi5pAZOPM4XRCYVswaMw3Hg7IXboZv8zbaVg3+5kHZi5YicSAM5i4aDtSy/SXTfQoWiZF7mkKCViL0SHYxelc/6DwQuw49h1Nx0FhuPzyaPx1mw/FFY61tVdaagpEX6UBNpEKZy
+[[[[[[[[0Nsb[0Nsb[0Nsb[0Nsb[0Nsb4
+[0Nsb
+[image13]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMoAAAB6CAAAAADbxJMBAAAAzElEQVR4Xu3csRFBQQAA0cuEVGAkYplYLDACgU5+A4Y2dUKugnXzXgfbwI7dekxhfx3ry2sGy/04xvMzg/djJyVHSpGUIilFUoqkFEkpklIkpUhKkZQiKUVSiqQUSSmSUiSlSEqRlCIpRVKKpBRJKZJSJKVISpGUIilFUoqkFEkpklIkpUhKkZQiKUVSiqQUSSmSUiSlSEqRlCIpRVKKpBRJKZJSJKVISpGUIilFUoqkFEkpklIkpUhK0WQpq/Pvp/0vLbfD2KzGFLanLwNgPL9rd/JQAAAAAElFTkSuQmCC>
+
+[image14]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJEAAACRCAAAAADmswX/AAAHd0lEQVR4Xs2cW1ATVxjH98mnPvjoTKcz9KG2M20dxqpVq1M6dmydMh3bToUoSFBkQhkwchEKhWASQC42CoIIShTElDJcVdCADTZCQECKgIAgGEESY7gEExJyYUs2BJJjLhvYZM/vJbv/w+W/u9lz/b6DoGtGJ3lUx0kM9jHy/gbkPS/sKJR16XbXjB78YfwgoIALSa/gEjM6KjY+icFKN5LN4fyZhR0xk/+Ijz0Vl35FOPgG/DVcuOzIoJqSiAVlmYd2f7L9x+PM3HKREckCqnyJHZVlJwb7bvnMJ+B8xUOxZGreAP4BZ7jsSNEQe2DT5770hmENWGSBorea9u3mTQfiBHNgkTNccqQYK4oN/o11kdfU1itVOvquaBWT/7XweReZoSFJNyeUYLEj8DtSy7qbbsYF/hrHa5tyZGYV/VTbzVN+xxgVzb3Tjm6oNfgdiau/27aF0+Lq1/UVn/HRTj+BBNTtgtORvCaUQi1tHnqj1IFFTtDOSQf5lw8FxtyfAYtsg8eR/nVzaVpUYu4TV++Pmcn2jITTmX+1zuB58fA40oiObKfeewHKLvG0/ODe8AEtKNvAuaPZsuNfcwfVOjzXZx+9dr7zgvfpO2qw4B2cOZL3pDJZxU9mQX0NyB7lM1mZowpQB3DiSNVzbSu9BlTXzJWQrbeHndwmJ45SQ/3lTv6CSyjHfSK5oGiNI0fq/gx2sVCDrzrEh07Fz2MUPHdUhdh3ZJjv/zuoqAOU103T2YjbI9pFUF7BviPNQEhAg0stEk5muUciJfbvkl1H4saAQuE0kU/MjO41/2JQqxSUzdhxZBiq4cS2yEGZICaa6Hl3xXYenB1HOg71yAyeGnZtzI/9fIJn5/7bdKS5ezKaP22wcxEEsKiTVAVltoMyhk1Hd/KT68ZAkVh0g2UppTYt2XBk0NESboCiG0hLydTbeAw2HA1xoutAzS2UBfHEoGbL0fOqkMYxUHQLg1Vh9a9A8R1HBk39uWM4e3vrRSc9nNOsAx8c6Gh+ICAWV1ePCPSSCIoErGMAR+q+o1fbHTQ6xLKoacyJHAEaFMBRf/khkYP
+[image15]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlUAAALuCAAAAACiYLzYAABPwElEQVR4Xu3deUDM+f/A8Y/97n73+93v7ve7vstvrS92bXbXsrtyrPuMDDYhCSGiMCpJiRxJCUOO3PeRY1QUOZKQjBxFUUmH0al03+ccn9/MdKi3qZlPc70/0+vxx1fz+rR8jWczn/mcBAmAshHoAACFQVVA+aAqoHxQFVA+qAooH1QFlA+qAsoHVQHlg6qA8kFVQPmgKqB8UBVQPqgKKB9UBZQPqgLKB1UB5YOqgPJBVUD5oCqgfFAVUD6oCigfVAWUD6oCygdVAeWDqoDyQVVA+TCsSijglZcW5uflZAOxnNyCwrJygQB9njCGYVWC/ARPR/2+3b76lABEu0/bdx2s7+aZXYA+TxjDr6r893evblk912jiqKFDBoMhQ/UmmMzduCX4QW4R+lRhC7+q/E52/nXher9HyYXVdHrRVxV+dU7yXT/bhV16et9Fl2ELr6qEguhHG9dMX3NaWO305ZLOqu+OgKqKplbbyqRkftlenoS9j8Qy18MmnWFJ2qqqnmvj643WjeKq/4upOUyVSSsqr4bqwaD+n3231Fj0KkKdVdbVd3RP1rFfujS6Qd0pnzfKViVOTpShZd3OzAK1Xm6pLPaqnJGRyq21nqOEzpTPnM6VHXSc5xNuTr3YmlvVVfOTlv6XOVX/qJFVcbTdlxAZyqlvVWRFWOnuF9Ch8pGi6rOnQ1T7+UItbiqmsPbJ62OUfF58rSo6v37SvUeV6zFVQlSg7+b5K/i273RoqrKSjWfe6TFVQnLU9xt9Y6iY+WiRVVqp8VVkWTxrU1fb0SHygVVSaPVVfFL3seq+CR5qEoara5KDa9nz4jcVV/U9Xb6LIhFF/ENPDW/fjqeaq5qfq[[[[[[HQIEKl+Tvp30CEesKwqcYbtief
+[CKE/jsgUgDBhmjAmJUdzudx9wuWaX4SKVbu5hHjI083cIZYoU4W3oOoDbZdmYlMQaAQZcHUE6PEH3VKqnP8Ndnb/kHL9mQNieflGV66T9+T7voUzAegs0FZAYgGqouXJF3RulE5oQelIsNzwuiZ6jAAUhi7T/IN+BRE75F283lSA9wLplpupANDd2d+xcFGjD/AC/ChXQ9/d5+TdeknWWtjICwBJ1MMAGZK+K5wzNrPBML3Pc8e5iUYJkfr/hciHlWcR15HvJ3sgFSrMfjlXPtsfwTYjERcbwcM3m6FBQ7HOM527IwZeWzmg6Ywiq1df9ZteLg8rsam6avAyW46l5+d4WCCI0BHusKFhHgg4fReGGKh/z7i7eo683Z35XQeH1AYTm60X/3QMeDB6vPk39aZGCpR/+ub2qVx19ZqBazsWAKMAKAXv1w9fBxsKBdCYmTW6Z/o8HU/uP+Ci24+ZzP4F7DYoTrEchyNGDOl+Ou3nbcnPst3QfAWf4nOnclSusDsj3n7RRJprA53zlyP501k76xqdXkUeO8yVFlNb9lYcrKapYEROkMvzhSZ/gwdAk7guednp6KxLh+AT0YmLtnytBMa/3ajsBuCVJ6z4VhpQvcG6b7jYfC1FKFibvdrk9lNUk5i4/2w4DKPqifwoALKLIffltoRPzQWlAMKOyEmScvJ+trydml0tjS4fkVKz8R1qT6620SkZAY7yvKcFPMZTBgIx3QtwYj5jN7mAp1kzmsgd405QNLJLuq3fPl8wbkCP0K3gJqWaGvwiPliIWsi48tQS9fa1a9ibiqE+zrQsPUODKtwfrmTW35sf0JNwbHQd3j62JyyZsrBYOFgyFbiwZMrOumqxusNKAnHatVA0BBpxOUTPJXt0UpCoWpM
+[M4dDMGhkTBGR92BMkeJsdkxNaBtw0zc5x/7OWNKMj2skZdXSrej6lajRzMjLbViZkyEKmkl6PCV3jqC2Qwq8yZdzQFPxuoio0rRmo41fu9pZHF7T14egqO43Kmnp05uxHXtQ1GJbutkDUOEYa7+L1V7/2fKDxHv749514M2zrmSkr1zHBxcy4ZslQbVCjeyEJBy6mSdcsx7fXbyDA9k9UCwqILqWMjlG+UpK9i7eOxGO0XGPmZo3UYOOYWiMg5iYnBK9we3JmMvMV4qxAZn9uha5UY+TQyNcpyUWcslD9bcWwKRVwWWshnphexKsS3zeY6YuoKn1Lj9OKW3HkM3A96k7KmE2KhbKGCy+lo4bKbZdBQdbaded57lOQypU3S0Yc+rgFrarGnNhNLHj2qGVxC3co0kw+/y8lhbo2/Lg4rlYEkKbD5aEzfr7eabDsmE3dG7JBHWWYO609MLIpi87MjHuHqQEc2LNIDNFECskq7oTbx8L4ybgt19c5zk/YrNAerJiClvw1lHPCsnffekHs21I/JiJTcbM9CSvScUMFSsd4LZrvAzLZhaLrOm6crmcJqn46xHEqiAzRRArZMDpRkR2HV7dF8DNwLX4MvQbnV6GgbS0dINu7DgfM1cGwRf7/ZLFj5jYpLA2KgMqCU9MN/YWw2mWepmWzaghaz+PRplkFTB0nZjbYrydu56C8TcVX0YkNylaUVGvDv89OHUHqRfaARAxxSzpNAEmm2gc2yI9jQ1cUeqv4xdjWhBhMPQfNcb/8g8NjsLqGaEMq09mQVy/2+5xswMb12Z3kzmLqPLmXU4jebI2gF8WVm3zNRih8/jqh/vwQamywUODhWYwyd17V78cQu7+LW4HpOLgnibuIlDJlBBw59Xp1BAZ7PCM+86t02gW6rpLYaJlM+PDMBuNUFiHCAFj1GXnrukEme84MzUMq1rNfTHy9dgvHNtvhkyigMY5halZ7nil+t4yWqPc9VXmJTmhJrzkvn3HitRWcN+r6dqZRo0OWt/DYXpID3FqzLITgIwS8jwaGLn3PO11+M+lhtbhhIE7h2fcRGEq5Mx1xFT0ctvI58eLQEfL1/vrfbiOq0VMQ1yqCfb5jHPAg5cg6a7cg2KhLd0dNYLKybi5LAz4RflV7o7ZELx4hid0a+ZQkJJK38f7D2tS9RJ+ygsLC1Tj4YRwJl
+[image18]: <data:image/png;base64kMBTSWz4/CxUJtq/BSm/foQPfr+MWylZuJN4BW3rHd+L+ANdV6Vsqy7CgK4VY4MbfjusYr/GH8kEYcrGk+SJxApeq5L2eUKrX2tchUixvSEE/p9++FNR0fdGs65WwyRDF85sDFfGPFpmqMFsB/VTelHHqIrr72drrrjadrwbSPZYvK1N3L2IL3bhiVmSWjB62MLJGryRCHciSpFlObibgCVJfBMAV7lgtPXIRJlq11IdIb73qCyHDh8bB+4obTjcoMvt5UChfbVYU3E8cyWLFgrzlcfoHOU1n0Hd
+[image19]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAAH4CAYAAACSZ0OSAACAAElEQVR4Xuy953tT57avff6Ufb1f3k/n7POetfdZa6+1s1IJoaQQSkIPJEACCWSl90YIkNBDCCTUhF4S05vBGBvce6+yXOQuWbZlWXL5vXM88hTytI1lW832776ucdmWpro15z3HM57x/A8QQgghhJCg8D+MFxBCCCGEkMBA0SKEEEIICRIULUIIIYSQIEHRIoQQQggJEhQtQgghhJAgQdEihBBCCAkSFC1CCCGEkCBB0SKEEEIICRIULUIIIYSQIEHRIoQQQggJEhQtQgghhJAgQdEihJDJRG8PXA4rKsuKkJCcjvspWcgqrECDvdO4JRrLs1BY12q82Ac3MtK0+5D78UYGkrMKUVpjRWd3j3dLV2sjCnOz4HR3+9yekIkPRYsQQiYJvZpkWSsyEHV4N9a9vhKPTJ2L/3p6HqYvfh/f7DsP5wMvUlzbPB/vnMnuf2E/mvHitOfwf5+ai0eemYdHps3DP57Wfn/hVSz/5Ef8diLW0hlNsl0wX0drvw9sI5eO7D/Ugye6TIKFofvfIDRIoSQICMH8+omhzq477hSoGYlcnZbaJHD13yGiISHHyXPpLWGqM50D4MNaOxpBoJWQ8EaLi4Gp/ZT7RyS6tgFA5jjFS0qrXvSWxKwYBGoqEOY8PSq/FZSC8wDXh9wRIt+XyKLa3YIZNPNOEaaaPa3l4nylPOYenzi7Di1xRY2nrg739Q1Pr38X9eeBN7U/RLulB0/RBeXPIO3rvofx+9oIhWbQxee/ZVHM1oQofbDXdXj3bC14gnX/kGv2f6P+JE0RoF7QjQmsLoQovL+Zmv5Y9QGnH1Idt/JOeUIj69dbo2UpcNTa3Ku+TtxcWOIMi60hEMXZfz4dF61PSv0uLC4ol7T6UhEERpau6Sg3x3A0GxoRKB0CFUtnuelKxN+iXaTZDy3PGUU+/S8uZxTNj6MQz55fNRioVyTBjKzISnbp5YsEi+PY1mu2MCJz[[[[[[[wfus[wfus[wfus[wfuscNGd+C
+[wfusBoeaNosfSk5dZQfEaVCEWT8yaqACDQpat1LFo8SzyX6uFah2Uzl0tRai4w7eCVKxOJ
+[image21]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAADnCAYAAADGkPhoAABhjElEQVR4Xuy9d1AVW7/n/Tw1905NTd35Y6pmqqbm1tTU/DHzvvd97jz35Hw8OXmCJ3mSCcMx55xzRBQxkERyBskoSlAxoiKKggQjGFARCYJiOL93fX/YnM3ahN4IKL1/36pv7b27V6/uvVav1Z9evXqtv/zbeyNI3JGH09/fHUYikUgkEjmix48fU9WdaqfxnTs1VF1d275raunBw4d6Uj13un6vjBYUutDcwoGmvb9yhx4N/cUeKsT2FtASiUQikeO6d+8+w5Yz2Yzq6u7qi9rVQwVmADSz8dvq4aNHLX7fv3+/xW/o7t16fRGVN5y3A6mOnHFzux5Nz4HWyx+Nojc/H0cffz+N+g9dRMMnutL7/Sa3CPPZjzPoR5eF9MrHo+y2f+H9Ebyd4e+HLLALg+XvfDnBbvnT2xxo/fHHH3T+wmUqv3qdv/eE6tTJkbXvEJ+0nTkBe1JIk5u3btODBw/0VSKRSGRJOSto3a2/r65P6r+D3ps/3mz7bM8bVeqGV5Z31Cyb22VXWE8+xadzi7vvzLIaxr36bw9u9+fk4u+PobuuJZ8Yx9Z0AL51R1TS3X297bwmhrQAS/+IC+c1mqT5n8K[[[[[[GLGze/u/vDOLBTT/9fjJ9/uMUHmK
+[eerYWEQPKsG7ev2WvKk4+I1nCv5AuHj5umXZtpbXD6GHuCNq24E9plz17oJQdXzGErq4fTQff6[[[[[[Gp0n4UoFoAQAAAMAIVovWBO/ZtA
+[NTwimiv9x4xOGq7LyR+q41nK+USuH8w0VVv3odLBaLxeLBZQGtHvhtQeuzTam0X928UfuB5SvVzRKvEjsCLdugOwwW6KVYUtFIvupmi9dRFQoIULOF119o94NaF7yywza7FRThlSBAIERBCF4tofYDy1Erk6QgIlKBw251M7dVAOAWVcJ5Qa0PAASvC61VWIATXglW1T3lmz8gzCemtQZL10gDNVGbVJ7w+g7DVlgHFHIt2cGQuwxt8Qpm8DoMcWO9vcr77H3XuIbKQqUVc62SQhX0ALz2nbN1ZM4cejpiBD377DNqHDOGMmbN4nHrWr75R0KD1+/JjXUW0tUVLS4PG1a7q7oFW3QOsPoxdQwIF5ZLzEkOy2GtBqo1bIaRtm+WJDctrRumza9PkU4jSPLNcbkrNaBihK9Z1LBgbzKfzIPDrlMI8CD86j9Qqe0o7PpcXz59PMmfPp+L55FOcxlzYqILPZYsDrli4wpEjXuXRabQOvWWZIsSqMv/088tk7jzauMtTL79vaVKU7bvICMlvTeZwCWiKRSCQS9a6am5vJw82NCseOpeZf/5qe/83f0LO/8+/lEvvO7y14XpTwtoiUQikUgk6kx9Alr
+[image24]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAADjCAYAAABdAbp+AABDdklEQVR4Xu2991tT2du3ff8n7/vLcz/v+9wz3xnHaZaxj733glQB6b0K0nvvICgoCmLDrliwF+y9995FsGCZuZ51XRgm7KAkY0DAz+c4ziPJWmuv7CQk+8zaYa3/+qHvLAKt0MeOLJ1iCEHaKm/fvtMWIQiCIF8pf//9N916fdlIrtCr9/XaLujtuw/06s17+i8DqQCGQLSQNg5EC0G6VvhA/e7dO6p9UUe1tS++Afhxfp4X6rl486ZBnpuOnhuvLlLwOQujybsWru0ComUSEK3OlStXOheZmc1E69279/Si7lWbUf/ytXzQvXz1hl7Uv/pq8D789dffsj/aui+lrv613h8EgrR/Pnz4SyTrr7/++mYwJm/fvqXXr99oiz8Z7vfEyTMiaabm8tXr9OjxE7n+/sMHunrtpqYF0bnzl7RFkurHlQYy1RraQLRMwQTR4j+K9rT1xoOVcX/gHSGdaV/bLRUVzUSrYvVOsnZPazPsfTLpybM6qtpxjI6euvrVePSklq7dfEC7DpwxqPtSDp+4rPcEI0j7B6LVckwVrWfPamn/wSN0+849uqLEiY95l69co0NHTtC5C5fkeWZZamhokHY3bt6W7bjduo1bae/+Q3L94KFjtLV6D127fpMOHz1BJ041ytsl1ReXnTh1ttn9djrR+mmAA1nMjqbAiAJKza2geSVrqHzlNrJ2iWvWLiFjCWUWrKDeI99upQmJJyBaAAAAQCfFbKKlIy1vuZKsQIPywT+FpNSk1O0skXRSlRyxDPHWzpGkLNvMiVlLRE7k
+[image25]: <data:image/png;base644vAMDHw7RoWXAxPGd/4g6c0pX/bbeIFgVsF6AThPQKBQCAQn0OYEi3GpGj5B0ebfczwMjsdStmYkp4ts74vWRmpa+e1dCMFb4yjHoOm0QoY
+[image26]: <data:image/png;base64qOlCHV5TDK9ev9v80I5ePEVCDMqg3XgEn9qXdTrFwzuaaa0Grc9+mM0eKl0Yj2UsA33SwzzNKmzsGq1AC+/hhRo0ZgX96xfj6au+s1TeVAVoM23K
+[image27]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAADJCAYAAAD7NpwuAAA5ZklEQVR4Xu29Z1BV2b6uv+uc2vecDzfUv+6599O5VefWPV/u7T57tx12t22b2tZW25wzSg4KKBkBySAIiKKCAhJUwJxzDm3OOeecwGy3+v7Hb9CLDXMiCybB9L5VT821xhgzsFhrzYcxJ2P86a+tnUHeQisnpE2dC4ZhGIZhPt2U/nYfV5+dqwXn8eDlXbx586Zi3T+Z5IL8HYoWwzAMU888f/4CpaWP8LC0jPzBo8dP8OrVK+NL9V7m/stbSDwzCqEnhtSKuNMeuPH8csX6FK2aoGgxDMMw9cxvv/2G169ff1LUJqVlj4xFNebFy5fYtWc/du85YKyymzNnL2jBs+X3382Sd/zkaWORzv6HW00yZY/t91ZVrE/RqgmKFsMwDFPPULSqT2XxqU1OnjqLcxcu4dbtOzh/8bK+PCfLU2fO4crV67qH7OjxUzhy9AT27T+MGzdvV6w7f9EK7Nl3UK9z7vwl7FX1l69cw8FDR3H8xGR6SFRp1nZH3p1Xry5Km+AdwoPe8CyatXrwr+xKzskfl4CCFPcOXqNSxduhTh4eFati5fuQ1z[[[[[[13JWFgTp5XoIRyKFqzX8iTPw+N
+[Ek3LGEnImKZ7qozlwpqN+3Rb1cv2HjiFGfPWfTojvTcWZg0bTk69vGvUf/374bjq/YupvWEV/kJ
+[image29]: <data:image/png;base68Lr/vBN+tplvqM8t5W8LNRLdtzxFlB1VrauxUtbmnP7UlJvcQB7vGj0sMniEIVOD4uCWiJttixlOx07bkH29vb69UtKSrTZWHgOSwtV9OGdC5KLTAqKkVGTI2RqSLw889K3KlhIWDrD3E4E8+IOLHsOk5doeajUi2/148zxhnXYFRYv4Av2B32[[[[[[v8HEoXKn9UUQggAAAAASUVORK5
+[+UVldNM1nGEJIBajlq+pbaBw9TsiNoPDHNwjIy25GQGPBhlwvpKSkrIw8OD40xMTLj8yKdJXAoxcCxwm1RlRH0jPeoTwjpQ1ygbvmM/IQ6/XFq8[[[[[[[[3pUUrjchf9dmLVxlxf75j3wmw
+[26mTrceGSstbR2yZuN2efblD3wPe0oZ1NizaZQzW4BI7Pnr5CNW8IVrAAtslYYSW/pzCqc/CParuiYRN3vdgdQ+CjiExm0dbfuj2PTql6j5R977i1ZuGyjvPD6p1JV0yiXHXy99u6Cv
+[image32]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfAAAAIkCAYAAADh63lCAACAAElEQVR4Xuy9B3tWx5YlfH/G9DXKZJNMzlERkcEYYzImB5FzzkkJkFDOEsrSG5QQyhI5Z4fbPc/M9Mx8/6DvdVjfXrveF2Rsd98eg926lHgWbzqhTlWdWnvtvavOn+Kjz+FSbLQgVhCniI+OQdyFaFyMicbl2AuC8/L9BcTzNwsLCwsLi19BrCAuJlb5I+lSHHIyUtHR2gz+/dtfv8P3P/yAH3/8Efjxe/3u3f99jx9+/A5/+57nktMIvn75FeLPR6O7ry+6+/ki0M8Pvr7+6O7v984RIPDz84efjz96BfZEgG8g1qxep9f+I0vHcn3/N1Ow3/j3p4iQYISHhCAsOAQhk4MRMiUMocHhipApofJbqPwWrOB7CwsLCwuLX0NIcJgiPCQMEVMmY/XyZcjOzMB33/2g5P3dD9/L6/fvjcC/+/6vgn/D90KQPwhj/vD9j/jqxStcFFHa098fAT6+8PP1g39AkBL5u4a/kLe/fyCCArrD/yN+F4gN6zfqtbNMhsC/ezcE3j1ALAY5aZBcTJ/e/dCv/2AMGDAU/QV9+34i74egf/9B6N9vIAb2t7CwsLCw+HX0Fw7p+/Eg9O71sRBYN4RPCUa8KHISOAn1OyEvQqj1bT56J3+GwP+qalcJXP77+uUrXIqJRg/huj49emLE8BGYOWsuZs6Y/V4wLXIGwkLCXxP4xg2bpCw/vjZefhAyB/Eb//7k7+cD327dpLL7YuIksaAi5yAsci6Cw2djYvB0hETMEcwSzERY+HQLCwsLC4t/B3OESyIxdMgo+P6TDyJEiV+Ov6iEQ0L929+EwLtNXH7thrR7GSIjZiAiLAIJCZnah2ls0uXf27HYPxMjZBAOn76MgtJaMQ4rZMDdDf+A3mqgH21DogrAEbgncwsLCwqILwhK4JXALCwsLiy4GyFZ/fkVDP3wDkuDjE4fysmaplSA57KQ137rxoCGo7e1DZ1IIzufnw8fLFbmc3VFb3YnrpiSa1tjCS5TXGhGVcApf2dthn9M+es4h7N17CLaFavHIMzZEWTlre+Vq9RuBWjuC62/0rHJjFwqWgXVfUxN4Ns3oonnnFF3C4RPZWLxqLSZNn4cBkc7g+XgPYKmgNcMIcTeiaOtcI/I+HEbgRuKDwDz8Icf34SPDvGnT0W/09QwQe5CPwDmHhWtG2bOlouyA0KETHXh3Axfu8/7+QmLhcw7H0q9LKi3nfeW2qIXTZt9Df9w5iFy9Dny8GYUzMdiyUCvo1ISFiOKVPnYODgMdKeI/H5l4Px2WcXfxaLs9aBKg/5s1y8R5bKte4LOUgVm487KIEvssjCO7iXe8hp2IvJqetEO3QC7MXrxLtrEW1VKimr5EwftdkHfbj6MG82BUzoh62nVkTCbSHzxu
+[image33]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYsAAAG1CAYAAAAIkNhWAACAAElEQVR4Xuy9h1dVWbot3v/FG+PdUhRRwAwCIkkEieYEmDNGzAkVzBlRcs45HeAcsgGJBsxZK717b3V3he77fuPdW8lQ8/d93zpHae3blNV1e3Tp2o4p5+yzw1pr7z3nF9Za+3fPAXz/8iWe//QTnoPw8gVe/vQCPwl4zUsCNDQ0NN5v8H8vzaDPL4j/fvzpmfDh8+fP8fIl//A/v/zEXPz8JZ33Jzx78aOU4ye84F/wySefIHzFKhTkFeA//vwfVKYXePHyOW3zUpj6BZX72Uv6+4L5+6e3wMuzZ89+UV1+N3roUDiOGIUR9kMxYugwOIwcBYfhI+AwjGA/HA7yu4aGhsb7C4cRwzB8+EgMI85zHOGAFUuX4YcfviPyfYEfnv8o5Goh2//J5ZVQyPn473Mx3J89+wGfPP0Y88Lmwm6IHRxGOSA1OQV/+uYbs2GvxIJ04i2BsIAFxFKPX1KX3w3p9xFs/uUjDO5vDRsrG1hbDYbVv1hjYH8bDOo/mEDrBwzQ0NDQeG9hPWana+LW3dOxW/szb3JOyqfem82tx78p+jfxeNsQm9R8U2/euxp/C1os+lq0WLwjZLroNvNYCSN+Gj6GBPE0uPvrtgPxmDQlDPZDhmLu3GWIPPSTulalzQP0G6FxtHOfhg0Yos/cBxo7v/+Jfbk0lJ002ShoaEx56HJwnTTZKGhoTHnocnCdNN7ehIeZcqpq5zB9EStEeAUTU7XHRLhpNwf124+d8WMuTfu7TVe4hDPnr5AcXGZkDHnxXVyde4fTJGuCgG3Md3ULDr2IiWHSDMWEybNwIhRYzF8zwLroLJtrXqrfX19VXm0IFT/XvO36rBtT1Ug/kEFq0kG0wgfl425Z+I+Tpc7sDFkOxJ2ZaCFK
+[image34]: <data:image/png;base64hv2wLVeoYZtSkf28CGUKs6ljIq7okhJMYKgQ8l2OQdGnsZGoK8jIG8k48vNzQOhW6JRVH0HV6JcCAuHeOCF2LYqPEY6jMOs+dtoGMUILeoVALkeTbUNLkXQhG8EkMVRfBvFbwm9wN6KY/icv8AklMyYe/sgz1HkoUcZLna585RUFD4PaEIXomhiiL4twi2yjm73eHjWdi4yRemK63h5r0dueVtsl2WjX3BeQoKCr8fFMErMVRRBP8WwYl02C2aUdyKQ5GnEZWQi+LqHln2k9udV6Sbf46CgsLvC0XwSgxVFMG/RbRw0JMkmxlHHc8r7xlBO71MOCMcb2+Wvnj+PAUFhd8PiuCVGKoogn+LkEAtmXushuIPcc31CTEJURGxFTQPIrrqG+DMNiDhVhYTcZuTVXad994l0BoXYi4iM8mqvE2HdpPOv0z3bkZDTCs19T3VhzwO7nbu43KMoONcLO49ABO0PRV5Nt9SF58Dz81Qpc95HJZiumIPSiLBy6vqRW3sVpS13NDJkRYbd8xKAN0WKwyTdvw9uHsEwXbQYpY23yGoeR2H3QxR2PqD2mkBmfgf8g8Ph7rMHafkNUm52mbOno4COZ8KNTKtG9OlanC7tQQHHRtmoj+OsIiMxGXQIoXKRmxZOWvM9+IQ7Q8IAmdU3ZbnbSlJ2zlR0wW9XNMJIcWBSl2eFM+hxHoD0CjjSvTPKu2QWQ3nblETiy0p8KtHNG4IieCWGK4rg3yK4fdMrL+NUaRfSituQXtSCzOJWZJS0y+9TRe3ILOvC2YbbqLjwAIVNA0jKqiOLOI+s7ULadwGlrUNE1LeQlNOAuKxzMq5b2j0jAVwVDVexbOlKItAw5Fb2yOptPH7Obl2OSudENVWtd8ji7UJkYgGOJeYiLr0EJQ29qJa52jx9bVegMznLHLqml9KmgoKDwrsFkEafyXoalRku/JqPaRx9jzfo9al3vP3wG3YV0e/YZigck9wdD86BFuP0xGcFiqkHwabkWkIigs2ZC+hYWFx1Mm7ikhyWo4qGZlZ+R4FjPW7GXgH56W/Ll+PWSCQOmekX1Jz5+P8EJGcXSoK6LWqH2y7zPn85No/efvCy8vLwLMSpk6ZoQF1dxnkxvpI/dSRGzdDBiT71PxLavGmMB4g+80RIpU4E9RnlVOvIHbbMcyaHwlf32pCrm0QULkylgm5JO7D3wZsieGfc3RmLp+XuPr1MIZbyTz/+hEMHDZ
+[image35]: <data:image/png;base64uyW3Qo5N021URwamcdPiV0k2X3bsMgjZS76jmA83lxTpu99k6sR3Szs208SJxBy5lpLQSND3S1eME4T8pc68jKjX75+/zWpsrZ/iSmkBl9FuHt4wFyWLh4/xB4SCfkT3XR/0/5DAuVxfYEQohRbuhe80dP3rE4Uu4ruAWZzsex3Mqe6X6vH83EzjnnzmFu9QzCACBFkaYFiqjfqXNIVKfq7oukL6s4v6tt32Hg/WtThBwFtHY6TpKfBP/ql74jFDgwUkDRGSgaQHR04DXTYhxysQu8qSHBvkGUWzwK5hT2Dk06C02FLo2453tV+ctKx2Ayr6fnFUsWSMA1JpNzSQcfeD9d7hnT28M7Ndgx4Z
+[image36]: <data:image/png;base64DdIgvnODpPqe4uM+GGmkZp6d4rNGWFEgODyfdKxsbG3kq5n9PElLbr7rMQEIcAALPyScShm+IyR522OZWWXV3Yz3RNvMM2k1GGaetpyE/12tZw93sjqR1O2V35PiF5lXZI6Wn98oeWfniiHHb9Vlnv65V6ttXXu6ur1aYLZlf1JeZ19VX39eA
+[image37]: <data:image/png;base64FczGLTEAZKg51dfVPrmycXNom7q4PlwTbOR7crnLvV9eswk9jENwXOzpcgujq055I1S+VCkX0Va6oiyv//YPtodxKJcI2Aw2H7izGm1vvMUd+7wFiEPpvRtutesMcLRKqfChtXv1xJYUjDQqZXuFz/U//rcDnCzV8FhUKrhlhmv3FRQaXJoCOo1UxGXwxBfoPqfo4jhUq8S02VLzq7fsInK5PLFUChNKBWw6UyBTyLlrLb53r2PhsiBQZ5WUS7v7wLt5HX4HkEy0fBYOKeNlDg9cskc3gQ8jle4eyy4Y7ukbm0QtEOlc3eZQd9/QDoWzn8P2+sbKLpUCHCAWe3mTQtlb54kaH+npHxqcmZ+ZWoeEoNMwi4szGAKRCQri47Eb4wPD3b1DGCIDgx7rHRjq6RvqndnA6d+D5AobUwrKaru6x8e6e0fx0LvibK3MDwwMjqPXl5fxBCp5YXame3Biap1K3/O9GGwebhsDaji9hJme38Ez+Awub7R/CJTSM7iwSd97pZIrpLMo4DC7h2fnt6hUFr0XfB6cnMGQKBED5NzZqkFFyrNhN1OEqRCbeZrqYmsiMHClpqYMosZxfgKs8Rkc/bRMQ2VqpCnwU0kBTSD3qqjLhPaLWZcIKcaYkjNgqXoEMhG2tQa84zEBBplSc0SdLEqp0iCYDq7JzHNSM1WKyFRWMQGwoqTIJ1BpVtkKAn6qdc5KpFbLSjGczQEPKfBUdyOGq2zChC+UrNkBUqzCAGUIaUKs7MGs82+epOz7dEhgf93ielKpxkFY/TanWsFiDgxgX/965/yO4h+quL4DC2qlXj87VRty6apvWEr9oEgg5dUmhEVnplJfY4BDlUq1tvxydGgU1IeGN8yqLKRtgdF01w5KbgcdeBuMXwSm7Mm4dvB8tI00z/bln/veh52bVtG2qPEFgh7L9ei8NuzT1qDPJUlJKq+a+bGh3CxFHjdAB0CuHN6Hf7uzTfFMrXF4ZUpd
+[image38]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAACtCAIAAADnMUY1AABzPUlEQVR4XuydB1wT6b73973ve9/39ntPu+funrPn7NpdXV377toVu2IHRUBEpKgUUZqASkcQEAi999577x1CCTWhl0B67wHfSQFjgooIbsTn9/l+NJn5T8lMMl+eeSaTr9b8oAUAAAAAwBfOV7KDAAAAAAD40gA6BAAAAAAA6BAAAAAAAKBDAAAAAADWAB0CAAAAALAG6BAAAAAAgDVAhwAAAAAArAE6BAAAAABgDdAhAAAAAABrgA4BAAAAAFgDdAgAAAAAwBqgQwAAAAAA1gAdAgAAAACwBugQAAAAAIA1QIcAAAAAAKwBOgQAAAAAYA3QIQAAAAAAa4AOAQAAAABYA3QIAAAAAMAaoEMAAAAAANYAHQIAAAAAAPHVtl8tvmROXna7fNMP8F7OXvOU3XoAAACwYvhK4aLPl4yFS7V3XD/gvdj5tMhuPQAAAFgxAB0CHS4IoEMAALCyAToEOlwQQIcAAGBlA3QIdLgggA4BAMDKBugQ6HBBAB0CAICVDdAh0OGCADoEAAArG6BDoMMFAXQIAABWNkumw2OXfS/ejlLXixahphN+VT1AtkzeWBodxg6FZQ5HZI1EZAxJj3oLPokDwRnDkVnDsqMgAtKGw9MHAhJRsqN+K5ZVhyeVAy5rvX7zqOuEX1Rd0JtHUSNCTS9K7U4I9PiyZqSqXrTqneBLN2CylSsSyU/cZbVA2YI5LtyOUtWNVrkdoHAh4LRS+A3BJFG3kodbsVzG5EB8aLFABrYlirL5rW8EIvTUX0Y3lc/iL0SGk2xuNovWs2Xlt/a/qO06aHFNPN/LumasHOpTDtDVF4uMlA+hQEqDDFZBF6VCc8b7mytyUqLDZM6QISdjAunZLJ1AiZfkHYUKz8ACv2uayuCCMT2AV94[[[[[[[ii67[ii67[ii67[ii67OY6nol
+[ii67Fh+bByVK0aEjEYHJ5waOyauNGfc9+mzz3sTqFX6udPE5XAp0o784VlEvAwMDLXbC1Sh7U5rPFk+ifdvo6GgbG5vY2Nhbt24FBLMrV1VUNxTGR3i7uXn5+HZO5zCmvLUlJa6gq0wF9QEuCNigafwSgG1NzczjQWJaXkjvIeDCuuU0znMKU8LqW9p6+js6GxuL4ksYUySqyowzVWhZmaFGyiHeDy+rKyMyWRqlQ9yCGYsKYduv/37n/7y/Msvv2zmUIBnskml1k8/99I7b7/+47b9sznksYixN7999sWXA9JaBiv8v/78g5de2vLLV+EzTwNyiQUGH7/7yrN6iRWZBl8+9e1eg2zMMBOffvjFl/7x1pk7doe2bX3vozf1fTOTbN78+9XAzv8IpHe0r8be2Ta0gzB13fiioPBZnYlLde+A0usqyY/LzSmMwNJFcQO8pTlFfIpE3qbkx5Ehi9HjZ2dnfT/7CduF+IQAABsj/662U/cLsQhAMvmc[[[[[[[[[B3RCO+MlG3zOr/Jtu2IQ4B7
+[2awmo9HuVSqVOp6v9UMNVxWEkHLh9+xlTEQ5H2+rokSxN4ocXNlsbKWNdZC53izpNbr
+[image41]: <data:image/png;base64Bl9tFQxE91ioDWE9Pz83NDZ06K9YVWm/R0dH9akabjSaOj4+j80J0dlhUVFRVVWVhYZGfn49z9HRrLpx5uOQ/F6rHB7Y57H6CZeZmRl0oBAe8B74xOLYs2aOdRoO2a1clpvffKJmMKqWrlOpfYD7CeOtq4doFDxSf/IM33q57bd7+WvdDdK2/NM[[[[[[AAAxAc5xB3kEAAAiA9yiDvIIQA/
+[6ekarcZxFKUGzeIq1XdeCdry5rLrRYxllyMju
+[image43]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAAGXCAIAAADkp2lKAAB8V0lEQVR4XuydB3QTV9aAFdL+zaaXTbK7SQjZTe+b3kghoXcIJIRuDAZT3Rs24N57w9249957b3Ivsi1ZrrK6xr37vyODLYRNCAhikfudOTnS3PfuuzOZMx9vikyZRhAEQZC/PBTpFQiCIAjy1+MP6HBkZIRAEARBkLuRP6DD4eFh6d4IgiAIcleAOkQQBEEQ1CGCIAiCoA4RBEEQhEAdIgiCIAiBOkQQBEEQAnWIIAiCIATqEEEQBEEI1CGCIAiCEKhDBEEQBCFQhwiCIAhCoA4RBEEQhEAdIgiCIAiBOkQQBEEQAnWIIAiCIATqEEEQBEEI1CGCIAiCELeoQxGvW9BeEbwwVQxGdTuzPDKqLDikiMosbOCyuEKpJLOIiN72uhJoSU3LrWUSLV3SDX4XdlsZqymTRmdC926OdPT6iERC2JaokMqo4Mo2HquTYDcUxdTlBMdEXLVFEcHZ0KC8uqOTIOYdgdfLYFCDawsvtw8JC0ESNGdU0MS8yFxid4YMRsWwNn90DL2NLouMCieL9f3ooO++jJrCztxAh/A9eqwARqK728OCXOVZO3Ts+pr0bZm6kAX7xV4e+dxicKaAvS2NP0O1h9qU[[[[[[[q9g5r4opasMcihWq2WyWRNTU3d
+[ajCb0111ZxIV73cQP1a1verh7oHeJwem6FBn/BExFyWTCSAtaH1eh2fy1LphzweV9jvEPBYFMAM+Bo0NOIfP56L67eGjhewhc39uAZmIIt5EkW+
+[image45]: <data:image/png;base64,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
+[image46]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAAEvCAYAAACdXG8FAACAAElEQVR4Xuy9d3QUx7b2/f79vd9d9/qec89xzjkbMAZf28c2zgFHcg42OecMxiQDJucgwOSMkBAZkXPOIKIkEBJCiCyQtN/67Z4ejUajkVDgGFzPWhs0XV3Vlbrqqb13Vf+fYi99KMVe+sCKFStWrFixYsVKPuWN5/8lP1VrIrdu3ZKUmzfl/5R9dbRYsWLFihUrVqxYyb/8+NIo6Vxjnty8dVNuQrQqvDpBrFixYsWKFStWrORfyr40XrrWCLuDROsVj/hft2LFihUrVqxYucfkjhGtim+Mk4pFR0vFImOlwuvjs4RbsWLFihUrVqzca1K4REu1VyEOySo5RCqUHGz+HyyVSg414SFZ77dixYoVK1asWLmHpPCIFiTrtfFS6a3hUv2DYZJw9pKkpaXLtaspEj51h1QqMVzDrRnRihUrVqxYsXKvSuERrVdDHDPhW0OkY60Z4ovkpG6JxeCOEXqSfKX/HSpV3xumfmCVSg7PmodXPiHkbte6h1Byjftd0yEO+i7iu46XVJN/yCIm3AJ7YUjWcVdiVdZkkRiV1cccWQvBijKky0jksPWXy+GJ5iNZKDhn1MxNmIlgeDZZzVIOrwXJ09BFdxzNfSXMKV7uanB/WwoV66wRKwNDeqUD8Af2oDLZv9aqPKwZyr/2/jYMtwzu/5oXLgpw9jtoMqG68ZVTCGtpjfZA1aVL0IUDw+1SnugPEXWxtxzxSI5j1gtXeqfjwuqoaEMFasZ19It5cdL9x/D8kMnBJSexUpxzVacKEA2Z2qK5ww1DunMYL/PCDIM77ExM9UdJycnnDp9Sr7H3CSRJDCLse8O+W0OMbFsDHn0aYPqQxlhg+h4ix3yng/PmeOBshodnzfDgtCkenDJB8QljFJ80EV5FBSZa2UsbvD3iOe8ujYP43K+WClqKI1OuRWRIu7FY7XgB9uLam2K/V0wKbobH4/q9WLgERC77n/9z7AWy7x8ukH3c54+PgQA1lka/JTXPWUUKF1YhJmgmWZSguWIgQxAN9xr45VrdzEQ8h6i
+[image47]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAAG/CAYAAACAOnlGAABppklEQVR4Xuy9h3Mc96HnuX/G1W1d3V693a27uqqt21rX7j7v8/N7fkFZspxtyenZsi1Ztizbkq1gEyBAgiRIIoMRDADBnBGIDBAkCIIAiJxzDgMMgMn5e/3rGUwG2U2hSTT4/ag+JXI6TCT6g1+H+XcghBBCCCGa8O+ibyCEEEIIIZsDQ4sQQgghRCMYWoQQQgghGsHQIoQQQgjRCIYWIYQQQohGMLQIIbrFbV3BwMNG3K6rQ0NLL5YtTviiZyKEkGcIQ4sQok+8Tsx0VuLwviTs2LEDl293Yc3pZmgRQrYUDC1CiC4xL/bjXPYuObISkvZgyeVlZBFCthwMLUKILukqP4vU3UlIlCLr2PXG6MmEELIlYGiRbYXX40JjxTUU5B1BVlYmMrOycam0FsNzJjjdHvg2GPLwWo1oKTmD7MxMHM6/hr5pc/zRkeV+ZErzxJiVg+OnzqKotgUzRlNwdrOxCWej593A3LxCtI6sSEsZYq94mnKA6eJ4SQrQZDixCyZRDXznJYjbCbDRF2V+uGhRRTD0KJaydCiepIQNagKLZ/PB6dtDWuLwzCMt2B+uAGzA7VUQ+eG72JxvBnL013y6y7eg2cFQ4tqJUOL6slnhfj573ZaYZztgWHiIeZH7knbibqY7QbdPOeG7mBx7IG0De6E3bIEn9cb/bY8FsWhZV4ex1R3GUZbL2GmvwZLU+1YmevD2sKQHABUG1dme+XXemG0CbP9tfJ7YFoak/7BqX+zvygMLaqVDC2qJ582IrBspkXMDdZjpPmCHFhLk21ScPVildtgTV2Z68fyVIccW+Pt1zHecRvUM7vHEjSJG1x+p3kNnkjJg3XqluE//asMLarRKy5Kj0wSUWRgaBFFCGtrBZpvpYWe/D30KPx6Ei58sx3VpYVoKL+CW2nrEb95AjLT02BT8AjQj6MR2XtHIH7TZHjFV0QIOGGqPIWChE/R52VAvU60nH9PuKxw+WNfhZ7bh8OYh9LUtci/nP6ThZZIX3UZ5uaS0JOJSKMYWkQRQvzNNfFpJ2W6Qiv923Ow33m0x9OEhE2jkHZyH0zdFWGpy8Lt7K9QnnUAlXkp8AfuHAMWgLvtNmrzjqH86mHUlBagH
+[image48]: <data:image/png;base64rX2tM7883ptTlqwQXB98OWc+yzWtqMLzdx+x0LviwtPp/WuySGxKXPy0DKwTknp2bS9FlLpOjZWNDzQrtq0my1Btbe3G3gv8V8b71jmrfpCv2+sCONZkkPO8fqgd/nfWxqqyf9WIG2yui4eRt31bb0yiYLQZnaFNqSFxG4pnwvWYyeRzxnHBsn9c7oQVhvhdKK1D1PSTXTfMFNcl+/SG</details>
+
+</details>
+<details>
+<summary>
+FICHES
+</summary>
+</details>
