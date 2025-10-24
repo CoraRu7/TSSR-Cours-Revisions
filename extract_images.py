@@ -2,30 +2,24 @@ import os
 import re
 import base64
 
-# Fonction pour extraire les images d'un fichier markdown
 def extract_images_from_md(md_path, images_dir):
     with open(md_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # Regex pour trouver les images encodées en base64
-    pattern = r'!\[.*?\]\(data:image/(png|jpeg|jpg|gif);base64,(.*?)\)'
-    matches = re.findall(pattern, content, re.DOTALL)
+    # Crée le dossier images si nécessaire
+    os.makedirs(images_dir, exist_ok=True)
+
+    # Regex pour trouver les références base64 [imageX]: data:image/type;base64,...
+    pattern = r'^\s*\[(.*?)\]:\s*data:image/(png|jpeg|jpg|gif);base64,(.*)$'
+    matches = re.findall(pattern, content, re.MULTILINE | re.DOTALL)
 
     if not matches:
         print(f"✅ Aucun base64 trouvé dans {md_path}")
         return
 
-    # Crée le dossier images si nécessaire
-    os.makedirs(images_dir, exist_ok=True)
-
-    for i, (img_type, b64_data) in enumerate(matches, start=1):
-        # Normaliser jpg/jpeg
-        if img_type.lower() == "jpeg":
-            img_type = "jpg"
-
-        # Nom unique de l'image
-        base_name = os.path.splitext(os.path.basename(md_path))[0]
-        img_filename = f"{base_name}_{i}.{img_type}"
+    for ref_name, img_type, b64_data in matches:
+        img_type = "jpg" if img_type.lower() == "jpeg" else img_type.lower()
+        img_filename = f"{ref_name}.{img_type}"
         img_path = os.path.join(images_dir, img_filename)
 
         # Évite les doublons
@@ -34,16 +28,20 @@ def extract_images_from_md(md_path, images_dir):
                 img_file.write(base64.b64decode(b64_data))
             print(f"📦 Image extraite : {img_path}")
 
-        # Remplace le lien dans le markdown
-        content = content.replace(
-            f"data:image/{img_type};base64,{b64_data}",
-            f"{os.path.relpath(img_path, os.path.dirname(md_path)).replace(os.sep, '/')}"
-        )
+        # Remplace toutes les occurrences ![][imageX] par ![](images/...)
+        content = re.sub(r'!\[\]\[' + re.escape(ref_name) + r'\]', 
+                         f'![]({os.path.relpath(img_path, os.path.dirname(md_path)).replace(os.sep, "/")})',
+                         content)
+
+        # Supprime la référence base64 du Markdown
+        content = re.sub(r'^\s*\[' + re.escape(ref_name) + r'\]:\s*data:image/.*$', '', content, flags=re.MULTILINE)
 
     # Sauvegarde le Markdown mis à jour
     with open(md_path, "w", encoding="utf-8") as f:
         f.write(content)
+
     print(f"✏️ Markdown mis à jour : {md_path}\n")
+
 
 # Dossiers à traiter
 blocks = ["Bloc1", "Bloc2"]
