@@ -1,0 +1,30 @@
+- ipconfig / ipconfig /all : visualiser les IP distribuées sur votre ordinateur  
+- gpmc.msc: pour avoir la GPMC (gère GPO)  
+- dsa.msc : avoir console ADUC  
+- gpupdate /force : force l’actualisation de toutes les stratégies, y compris celles non modifiées (group policy update).  
+- gpupdate /target:user ou gpupdate /target:computer : actualise uniquement les stratégies utilisateur ou ordinateur.  
+- gpresult /r : génère un résumé des stratégies appliquées.  
+- gpresult /h rapport.html : génère un rapport détaillé au format HTML. gpresult /h C:\\rapport\_GPO.html  
+- eventvwr.msc : avoir le Visualiseur d’évènements (Event Viewer).  
+- wbadmin : pour voir une liste de commande de sauvegarde si serveur sauvegarde installé. outil en ligne de commande de sauvegarde.  
+- Wbadmin start backup \-backuptarget:\\\\127.0.0.1\\sauvegarde \-include:C: \-systemstate \-vssFull : pour faire sauvegarde complète du serveur dans dossier mappé \\\\127.0.0.1\\sauvegarde.  
+- F8 : au redémarrage (server) pour accéder au menu d' « ***Options de démarrage avancées*** » comme ex « *Mode de réparation des services d'annuaire* ».  
+- **wbadmin GET VERSIONS :** permet d'afficher la liste détaillée des sauvegardes effectuées et que l'on peut restaurer.  
+- wbadmin START SYSTEMSTATERECOVERY \-version:10/15/2021-16 : 52 : restauration de la sauvegarde de l’état du système.  
+- nslookup IPCIBLE: pour avoir le nom de domaine associé à une IP (ou inverse avec nom de domaine) permet de tester le fonctionnement des DNS.  
+- Resolve-DnsName NOMDEDOMAINE : pour avoir domaine qui fait autorité sur la zone et son IP. (PowerShell)  
+- ipconfig /renew : renouveler les paramètres IP  
+- ipconfig /release: relâcher l’adresse IP  
+- ping ADRESSEIP : permet de tester la connectivité réseau entre deux hôtes.  
+- tracert : permet d’afficher les routeurs traversés par l’envoi de notre paquet.  
+- ping \-t : faire un ping en continu et pas seulement 4 paquets (arrêt ctrl \+c )  
+- ipconfig /displaydns : qui permet d’afficher les enregistrements, le cache dns, en cours sur notre machine.  
+- ipconfig /flushdns : vider le cache dns.  
+- cls : nettoie console  
+- NOMCOMMANDE /? : avoir le manuel d’utilisation de la commande  
+- "C:\\Program Files\\Oracle\\VirtualBox\\VBoxManage.exe" modifyvm "\<WS2019\>" \--nested-hw-virt on : pour forcer la virtualisation imbriquée sur une vm.  
+- ncpa.cpl : pour le panneau de configuration avec w \+ r.  
+- net user utilisateur motdepasse : changer le mot de passe de l’utilisateur net user \[nom d'utilisateur} \* version plus discrète  
+- route print : afficher liste des routes persistantes  
+- wuauclt /detectnow : détecter les mises à jours wsus (maintenant on utilise usoclient StartScan)  
+- wuauclt /reportnow : pour forcer l’envoi d’un rapport à la console wsus

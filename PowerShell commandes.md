@@ -1,0 +1,13 @@
+- outil repadmin : pour la réplication (vérifs)  
+- repadmin /replsummary:Affichage de l'état de la réplication et visualisation l'état de santé général  
+- repadmin /showrepl : visualisation du ou des partenaires de réplication ainsi que de l’état de la réplication.  
+- repadmin /showrepl /errorsonly : pour voir seulement les erreurs de réplication.  
+- dcdiag /s:SUPERMAN /a : Affichage de l'état de tous les DC  
+- dcdiag /s:SUPERMAN /q  : Visualisation uniquement des erreurs dans l’état  
+- outil dnslint : pour effectuer des diagnostics et des tests de validation des serveurs dns (à télécharger avant et extraire dans C:/Windows/System32).  
+- dnslint /ad 192.168.23.1 /s 192.168.23.1 /v : vérification de la réplication DNS \+ Rapport  
+- dnslint /d NOMDEDOMAINE : utilise requête des test de nom de domaine et généralement enfait pour tester il faut le nom de domaine mais ça utilise un accès internet .  
+- dnslint /ad 192.168.23.1 /s 192.168.23.1 /v : /ad nous donne des informations sur la réplication active directory, autour de la réplication AD notamment sur les records dns. Donc là on doit saisir l’adresse IP du contrôleur de domaine. /s celui qui gère la zone . /v je lui dit qu’il doit verboser.  
+- dcdiag  /s:SUPERMAN  /test:dns : affichage de l'état des enregistrements, des redirecteurs, des délégations, des mises à jour.  remplacer SUPERMAN par le nom d’hôte du serveur DNS à tester.  
+- Install-WindowsFeature \-Name AD-Domain-Services \-IncludeManagementTools : pour installer le rôle active directory
+

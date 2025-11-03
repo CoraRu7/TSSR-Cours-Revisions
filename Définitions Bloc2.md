@@ -1,0 +1,2 @@
+- VLSM (*Variable Length Subnet Masking*) : est une technique de sous-réseau utilisée pour optimiser l'utilisation des adresses IP dans les réseaux IP en permettant des masques de sous-réseau de longueurs variables par sous-réseau.  
+- VLAN, pour *Virtual Local Area Network* (réseaux locaux virtuels), a pour principe de segmenter et d'isoler logiquement un ou plusieurs réseaux locaux physiques en plusieurs domaines de diffusion. Cela crée, pour chaque VLAN (identifié par un numéro allant de 0 à 4 095 et un nom), un réseau informatique logique indépendant.
